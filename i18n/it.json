@@ -1,0 +1,412 @@
+{
+  "pages": {
+    "intro": {
+      "title": "Introduzione",
+      "skip": "SALTA",
+      "slide1": {
+        "title": "Benvenuto in Wako",
+        "watchDemo": "Guarda Demo"
+      },
+      "slide2": {
+        "text1": "Tieni traccia di tutti i programmi TV e i film che guardi",
+        "text2": "Ricevi le notifiche per nuovi episodi",
+        "text3.1": "Controlla il tuo media player preferito",
+        "text3.2": "con il telecomando integrato",
+        "text4": "E molte altre altre funzionalità"
+      },
+      "slide3": {
+        "title": "Che cos'è Trakt.tv?",
+        "text": "è una piattaforma che fa molte cose, principalmente tiene traccia dei programmi TV e dei film che guardi. Si integra con i media center (come Kodi) per consentire lo scrobbling, quindi tutto è automatico. Scopri nuovi programmi e film, segui persone con gusti simili ai tuoi e esprimi la tua opinione utilizzando il sito Trakt.tv"
+      },
+      "slide4": {
+        "title": "Che cos'è Kodi?",
+        "text1.1": "Kodi è un media center gratuito e open source per la riproduzione di video, musica, immagini, giochi e altro. Kodi funziona su Linux, OS&nbsp;X, Windows, iOS e Android.",
+        "text1.2": "Per ulteriori info e installazione visita il sito di Kodi."
+      },
+      "slide5": {
+        "text": "Tieniti aggiornato sui prossimi episodi da guardare"
+      },
+      "slide-addon": {
+        "text2": "Vai su Impostazioni > Add-ons per gestire gli add-ons"
+      },
+      "slide7": {
+        "text": "telecomando"
+      },
+      "slide8": {
+        "title": "Pronto?",
+        "button": "Continua"
+      }
+    },
+    "home": {
+      "hi": "Ciao",
+      "upNextToWatch": "Prossimo Da Vedere",
+      "retry": "Riprova",
+      "upToDate": "Niente da guardare, sei aggiornato :)",
+      "segment": {
+        "upNext": "Prossimo",
+        "resume": "Riprendi"
+      }
+    },
+    "login": {
+      "message": "Accedi o Registrati con Trakt per visualizzare i tuoi film/programmi TV"
+    },
+    "media": {
+      "shared": {
+        "detail": {
+          "imdbRating": "Punteggio IMDb:",
+          "viewOnIMDb": "Visualizza su IMDb",
+          "overview": "Panoramica",
+          "cast": "Cast",
+          "fullCast": "Cast Completo e Personaggi",
+          "network": "Network",
+          "related": "Contenuti simili",
+          "release": "Pubblicazione",
+          "runtime": "Durata",
+          "status": "Status",
+          "certification": "Certificazione",
+          "originalTitle": "Titolo Originale",
+          "originalLanguage": "Lingua Originale",
+          "rating": "Valutazione",
+          "genres": "Generi"
+        },
+        "search-list": {
+          "explore": "Esplora",
+          "list": "Lista",
+          "toWatch": "Da vedere",
+          "watched": "Visti",
+          "by": "di",
+          "mostDailyPlayed": "I più Visti Oggi",
+          "trending": "Di tendenza",
+          "popular": "Popolari",
+          "collection": "Raccolta",
+          "recommendations": "Consigliati",
+          "watch-list": "Watch list",
+          "history": "Historique",
+          "up-next": "Prossimo Da Vedere"
+        },
+        "pop-over": {
+          "explore": "Esplora",
+          "hideWatched": "Nascondi Visti",
+          "pickList": "Scegli una lista",
+          "filters": "Filtri"
+        }
+      }
+    },
+    "movie": {
+      "search-list": {
+        "search": "Cerca un film"
+      },
+      "filter": {
+        "title": "Filtri",
+        "rating": "Valutazione",
+        "genre": "Genere",
+        "certification": "Certificazione",
+        "year": "Anno",
+        "apply": "Applica",
+        "reset": "Reset"
+      }
+    },
+    "show": {
+      "search-list": {
+        "search": "Cerca un programma TV",
+        "myTvShows": "I miei programmi TV"
+      },
+      "show-detail": {
+        "seasons": "Stagioni"
+      },
+      "episode-detail": {
+        "viewShow": "Visualizza Programma"
+      }
+    },
+    "settings": {
+      "title": "Impostazioni",
+      "list": {
+        "contribution": {
+          "header": "Contributo",
+          "item": "Contribuisci"
+        },
+        "kodi": {
+          "item": "Configura Hosts"
+        },
+        "addons": {
+          "header": "Add-ons",
+          "item": "Configura / Installa Add-ons"
+        },
+        "notification": {
+          "header": "Notifiche",
+          "notificationNotGranted": "Le notifiche per wako sono attualmente disabilitate. Se desideri ricevere notifiche, abilitale nell'app Impostazioni",
+          "itemEnableTvShows": "Abilita le notifiche per i programmi TV",
+          "itemOnlyNewEpisodeOnUpToDateShows": "Ricevi una notifica solo per il prossimo episodio da vedere"
+        },
+        "trakt": {
+          "totalWatchedMovies": "Totale dei film visti",
+          "totalWatchedEpisodes": "Totale degli episodi visti",
+          "apiStatus": "Stato API Trakt",
+          "logout": "Esci",
+          "signIn": "Accedi o Registrati con Trakt",
+          "markMovieAsWatchedAuto": "Segna i film come visti automaticamente",
+          "markEpisodeAsWatchedAuto": "Segna gli episodi come visti automaticamente",
+          "markAsWatchedAutoProgress": "Percentuale da guardare per contrassegnare il video come visto"
+        },
+        "application": {
+          "header": "Applicazione",
+          "darkMode": "Modalità Scura",
+          "lang": "Lingua",
+          "review": "Valuta Questa App",
+          "share": "Condividi Questa App",
+          "documentation": "Documentazione",
+          "joinDiscord": "Unisciti a noi su Discord",
+          "joinTelegram": "Unisciti a noi su Telegram",
+          "support": "Supporto",
+          "clearCache": "Cancella Cache",
+          "privacyPolicy": "Informativa sulla Privacy",
+          "termsConditions": "Termini & Condizioni",
+          "appVersion": "Versione App"
+        }
+      }
+    },
+    "kodi-detection": {
+      "title": "Rilevamento Kodi",
+      "skip": "Salta",
+      "cardContent": "Stiamo cercando gli host Kodi sulla tua rete.<br />Selezionane uno dall'elenco per aggiungerlo o premi il tasto \"SALTA\" per aggiungerlo manualmente.",
+      "detectedHosts": "Host rilevati",
+      "detectHostHelper": "L'host non è stato ancora trovato (potrebbe richiedere alcuni secondi). Non dimenticare di avviare Kodi<br><em>Il rilevamento automatico funziona utilizzando Zeroconf. Se non rileva Kodi, prova ad abilitare Zeroconf in Kodi andando in <b>Impostazioni > Servizi > Generale e abilitare \"Annuncia servizi ad altri dispositivi\"</b></em>",
+      "troubleShooting": "Se hai qualche problema di connessione tra wako e Kodi, leggi la documentazione <b>qui</b>"
+    },
+    "kodi-remote-list": {
+      "title": "Host Kodi",
+      "savedHosts": "Host Salvati",
+      "noHostsAdded": "Nessun host è stato ancora aggiunto",
+      "defaultHost": "Host Predefinito",
+      "addHost": "AGGIUNGI",
+      "linkVolumeHardwareTitle": "Volume",
+      "linkVolumeHardware": "Collega pulsanti hardware del volume al volume di Kodi durante la riproduzione"
+    },
+    "kodi-settings": {
+      "title": "Configura Host Kodi",
+      "form": {
+        "name": "Nome",
+        "ip": "Nome Host/Indirizzo IP",
+        "port": "Porta Host",
+        "advanced": "Impostazioni avanzate",
+        "login": "Login (opzionale)",
+        "password": "Password (opzionale)",
+        "rpcPort": "Porta RPC JSON (opzionale)",
+        "status": "Stato della connessione:",
+        "save": "Salva Host",
+        "delete": "Elimina Host"
+      }
+    },
+    "addons": {
+      "title": "Add-ons",
+      "list-installed": {
+        "header": "Add-ons Installati"
+      },
+      "list-available": {
+        "header": "Add-ons Disponibili"
+      },
+      "list-unknown-sources": {
+        "header": "Impostazioni",
+        "item": "Fonti sconosciute",
+        "third-party": "Aggiungi add-on di terze parti",
+        "alert": "Gli add-on di terze parti avranno accesso ai tuoi dati memorizzati su wako. Consentendo, l'utente accetta di essere l'unico responsabile per qualsiasi perdita di dati e comportamento indesiderato della propria app. Si prega di essere consapevoli del fatto che gli add-on di terze parti non sono né sviluppati né supportati da wako e che wako non può essere ritenuto responsabile di ciò che fanno questi add-on."
+      }
+    },
+    "addon": {
+      "title": "Add-on {{addonName}}",
+      "detail": "Dettagli Add-on",
+      "settings": "Impostazioni Add-on",
+      "changeLogs": "Change logs",
+      "install": "Installa",
+      "uninstall": "Disinstalla",
+      "thirdParty": "Questo add-on non è stato creato da wako. L'uso di add-on di terze parti sarà sempre soggetto alla tua responsabilità e alla legge della giurisdizione in cui ti trovi. wako non può essere ritenuto responsabile",
+      "uninstall-confirm": {
+        "header": "Disinstalla questo add-on",
+        "message": "Sei sicuro?"
+      },
+      "install-confirm": {
+        "header": "Installa questo add-on",
+        "message": "Sei sicuro?"
+      }
+    },
+    "addon-settings": {
+      "title": "Add-on Impostazioni"
+    },
+    "addon-detail": {
+      "title": "Dettagli Add-on"
+    }
+  },
+  "modals": {
+    "app-contribution": {
+      "title": "Contributo",
+      "text1": "Se ti piace davvero wako, puoi contribuire iscrivendoti al seguente prodotto. Questo rimuoverà gli annunci<br /> <br />Grazie.",
+      "trialExpired": "Il tuo periodo di prova è scaduto. Per continuare a utilizzare l'app, selezionare un prodotto di seguito",
+      "iosTextSubscriptionMonthlyByProduct": "Un acquistao di {{ productPrice }}/al mese verrà applicato al tuo account iTunes alla conferma.",
+      "iosTextSubscriptionYearlyByProduct": "Un acquistao di {{ productPrice }}/all'anno verrà applicato al tuo account iTunes alla conferma.",
+      "iosTextSubscriptionGeneral": "Gli abbonamenti si rinnoveranno automaticamente a meno che non vengano annullati almeno 24 ore prima della fine del periodo corrente. Puoi annullare in qualsiasi momento dalle impostazioni del tuo account iTunes. Qualsiasi parte inutilizzata di una prova gratuita verrà persa se acquisti un abbonamento. Per ulteriori informazioni, consultare i nostri Termini & Condizioni e Informativa sulla Privacy.",
+      "subscriptionHeader": "Abbonamenti con rinnovo automatico",
+      "consumableHeader": "Contributo a vita",
+      "otherSubscriptionHeader": "Altri abbonamenti",
+      "manualSubscription": "Contributo Manuale",
+      "ads12hRemoval": "Sbarazzati degli annunci a schermo intero per le prossime 12 ore guardando 2 annunci premio",
+      "ads6hRemoval": "Sbarazzati degli annunci a schermo intero per le prossime 6 ore guardando 1 annuncio premio",
+      "otherContribution": "Altro"
+    },
+    "app-outdated": {
+      "text": "La tua app è obsoleta, devi aggiornarla per continuare"
+    },
+    "kodi-remote-control": {
+      "title": "Telecomando Kodi",
+      "host": "Host",
+      "noHost.message": "Nessun host è stato ancora aggiunto.",
+      "noHost.add": "Aggiungine uno",
+      "hostUnreachable": "Host {{hostName}} è irraggiungibile.",
+      "tryReconnect": "Prova a riconnetterti"
+    },
+    "list-picker": {
+      "title": "Scegli una lista",
+      "search": "Cerca una lista",
+      "sort": {
+        "label": "Ordina per",
+        "options": {
+          "default": "Default",
+          "rank": "Classifica",
+          "recentlyAdded": "Aggiunto Recentemente",
+          "releasedDate": "Data di uscita"
+        }
+      },
+      "myLists": "Le mie Liste",
+      "myLikedLists": "Liste che mi piacciono",
+      "trendingLists": "Liste di Tendenza",
+      "popularLists": "Liste Popolari",
+      "likes": "mi piace",
+      "by": "di"
+    },
+    "install-addons": {
+      "title": "Non hai alcun add-on installato",
+      "button": "Installiamone alcuni"
+    }
+  },
+  "pop-over": {
+    "kodi-subtitles": {
+      "header": "Sottotitoli",
+      "enable": "Abilita Sottotitoli",
+      "select": "Sottotitolo",
+      "download": "Scarica",
+      "offset": "Offset",
+      "close": "Chiudi"
+    },
+    "kodi-audio": {
+      "header": "Flusso Audio",
+      "select": "Audio"
+    }
+  },
+  "shared": {
+    "noResult": "Nessun risultato",
+    "filtersApplied": "Filtri applicati",
+    "cancel": "Annulla",
+    "sign-in": {
+      "button": "Accedi o Registrati con Trakt"
+    },
+    "misc": {
+      "aired": "Trasmesso",
+      "airs": "Da trasmettere"
+    },
+    "pasteMediaTitle": "Incolla Titolo Video",
+    "install-addons": {
+      "text1": "Sai che puoi installare add-ons all'interno di Wako?",
+      "text2": "Installando gli add-ons aggiungerai nuove funzionalità a wako adatte alle tue esigenze"
+    }
+  },
+  "toasts": {
+    "movie": {
+      "markAsWatched": "Segnato {{movieTitle}} come visto",
+      "markAsUnwatched": "Segnato {{movieTitle}} come non visto",
+      "addedToWatchlist": "Aggiungi {{movieTitle}} alla tua Watch List",
+      "removedFromWatchlist": "Rimuovi {{movieTitle}} dalla tua Watch List",
+      "addedToCollection": "Aggiungi {{movieTitle}} alla tua Raccolta",
+      "removedFromCollection": "Rimuovi {{movieTitle}} dalla tua Raccolta",
+      "addedToUserList": "Aggiungi {{movieTitle}} alla tua lista",
+      "removedFromUserList": "Rimuovi {{movieTitle}} dalla tua lista",
+      "noRandomMovieFound": "Nessun film trovato per i generi: {{genreList}}",
+      "notFoundOnTrakt": "Film non trovato su Trakt"
+    },
+    "show": {
+      "addedToWatchlist": "Aggiungi {{showTitle}} alla tua Watch List",
+      "removedFromWatchlist": "Rimuovi {{showTitle}} dalla tua Watch List",
+      "addedToCollection": "Aggiungi {{showTitle}} alla tua Collezione",
+      "removedFromCollection": "Rimuovi {{showTitle}} dalla tua Collezione",
+      "addedToUserList": "Aggiungi {{showTitle}} alla tua lista",
+      "removedFromUserList": "Rimuovi {{showTitle}} dalla tua lista",
+      "notFoundOnTrakt": "Programma non trovato su Trakt"
+    },
+    "season": {
+      "markAsWatched": "Segnata {{showTitle}} stagione {{seasonNumber}} come vista",
+      "markAsUnwatched": "Segnata {{showTitle}} stagione {{seasonNumber}} come non vista"
+    },
+    "episode": {
+      "markAsWatched": "Segnato {{showTitle}} {{episodeCode}} come visto",
+      "markAsUnwatched": "Segnato {{showTitle}} {{episodeCode}} come non visto"
+    },
+    "kodi-remote-control": {
+      "warningWebsocket": "Avvertenza - non si è connessi a Kodi tramite il servizio WebSocket. Devi attivare in Kodi questa opzione:\nConsenti il controllo remoto da applicazioni su altri dispositivi\n\nVai a https://wako.app/kodi-remote-control per maggiori informazioni"
+    },
+    "app": {
+      "traktApiIssue1": "API Trakt - Impossibile caricare la risorsa, riprovare più tardi (codice errore {{errorStatus}})",
+      "traktApiServerOverloaded": "API Trakt - Il server è sovraccarico. Riprova tra 30 secondi",
+      "traktNotConnectedAnyMore": "API Trakt - Non sei più connesso a Trakt, ti preghiamo di riconnetterti",
+      "newVersionAvailable": "Una nuova versione di wako è disponibile sullo store",
+      "updateInstalled": "wako è stato aggiornato. Riavvia l'app per goderti l'aggiornamento"
+    },
+    "settings": {
+      "cacheCleared": "Cache pulita"
+    },
+    "addons": {
+      "updated": "Questi add-ons sono stati aggiornati:<br>{{updatedAddons}}<br><br>wako deve essere riavviato.",
+      "updatedWithRestart": "Questi add-ons sono stati aggiornati:<br>{{updatedAddons}}<br><br>wako sta per essere riavviato.",
+      "upToDate": "Gli add-ons sono aggiornati"
+    },
+    "kodi": {
+      "hostUnreachable": "Ahia! Il tuo host Kodi {{hostName}} non è raggiungibile",
+      "noHost": "Nessun host impostato per Kodi"
+    },
+    "ads": {
+      "block": "Ahia! Sembra che tu abbia un ad-block. Gli annunci aiutano wako a rimanere gratuito, se non vuoi annunci puoi contribuire a wako (wako > impostazioni > contribuisci)"
+    }
+  },
+  "alerts": {
+    "okButton": "Ok",
+    "cancelButton": "Annulla",
+    "app-contribution": {
+      "thanksMessage": "Grazie per aver contribuito a wako."
+    },
+    "movie": {
+      "random": {
+        "header": "Ottieni un film a caso per generi:"
+      }
+    },
+    "addons": {
+      "customManifestUrl": "URL add-on di terze parti",
+      "enterManifestUrl": "Inserisci l'URL manifest"
+    },
+    "show": {
+      "remove": "Rimuovere questo programma?"
+    },
+    "kodi": {
+      "openUrl": "Apri URL"
+    }
+  },
+  "notifications": {
+    "shows": {
+      "newEpisode": "Nuovo Episodio: {{showTitle}} {{episodeCode}}"
+    }
+  },
+  "actionSheets": {
+    "addToWatchList": "Aggiungi alla tua Watch List",
+    "removeFromWatchList": "Rimuovi dalla tua Watch List",
+    "addToCollection": "Aggiungi alla tua Collezione",
+    "removeFromCollection": "Rimuovi dalla tua Collezione",
+    "addToList": "Aggiungi a {{listName}}",
+    "removeFromList": "Rimuovi da {{listName}}"
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "pages": {
+    "intro": {
+      "title": "Introductie",
+      "skip": "OVERSLAAN",
+      "slide1": {
+        "title": "Welkom bij wako",
+        "watchDemo": "Bekijk Demo"
+      },
+      "slide2": {
+        "text1": "Volg elk tv-programma en elke film waarnaar u kijkt",
+        "text2": "Blijf op de hoogte van nieuwe afleveringen",
+        "text3.1": "Bedien uw favoriete mediaspeler",
+        "text3.2": "met de ingebouwde afstandsbediening",
+        "text4": "En nog veel meer andere functies"
+      },
+      "slide3": {
+        "title": "Wat is Trakt.tv?",
+        "text": "is een platform dat veel dingen doet, maar vooral tv-programma's en films die je kijkt, bijhoudt. Het integreert met mediacentra (zoals Kodi) om scrobbelen mogelijk te maken, dus alles is automatisch. Ontdek nieuwe shows en films, volg mensen met dezelfde smaak en laat je mening horen via de Trakt.tv-website"
+      },
+      "slide4": {
+        "title": "Wat is Kodi?",
+        "text1.1": "Kodi is een gratis en open source mediacentrum voor het afspelen van video's, muziek, afbeeldingen, games en meer. Kodi draait op Linux, OS & nbsp; X, Windows, iOS en Android.",
+        "text1.2": "Leer meer en installeer vanaf de website van Kodi."
+      },
+      "slide5": {
+        "text": "Let op de volgende afleveringen om te bekijken"
+      },
+      "slide-addon": {
+        "text2": "Ga naar Instellingen> Add-ons om uw add-ons te beheren"
+      },
+      "slide7": {
+        "text": "afstandsbediening"
+      },
+      "slide8": {
+        "title": "Klaar?",
+        "button": "Ga Verder"
+      }
+    },
+    "home": {
+      "hi": "Hi",
+      "upNextToWatch": "Het Volgende Bekijken",
+      "retry": "Probeer Opnieuw",
+      "upToDate": "Niks om te bekijken, je bent up to date :)",
+      "nothingToResume": "Niets om te hervatten :)",
+      "segment": {
+        "upNext": "Volgende",
+        "resume": "Hervatten",
+        "calendar": "Kalender"
+      }
+    },
+    "login": {
+      "message": "Log in of meld u aan bij Trakt om uw films / tv-shows te bekijken"
+    },
+    "media": {
+      "shared": {
+        "detail": {
+          "imdbRating": "IMDb beoordeling:",
+          "viewOnIMDb": "Bekijk IMDb",
+          "overview": "Overzicht",
+          "cast": "Rolverdeling",
+          "fullCast": "Volledige Rolverdeling & Ploeg",
+          "network": "Netwerk",
+          "related": "Meer van dit",
+          "release": "Uitgave",
+          "runtime": "Looptijd",
+          "status": "Status",
+          "certification": "certificering",
+          "originalTitle": "Originele Titel",
+          "originalLanguage": "Originele Taal",
+          "type": "Type",
+          "episodes": "Afleveringen",
+          "alternativeTitle": "Alternatieve Titel",
+          "rating": "Beoordeling",
+          "genres": "Genres"
+        },
+        "search-list": {
+          "explore": "Verkennen",
+          "list": "Lijst",
+          "toWatch": "Kijken",
+          "watched": "Bekeken",
+          "by": "bij",
+          "mostDailyPlayed": "Meest dagelijks gespeeld",
+          "trending": "Trending",
+          "popular": "Populair",
+          "collection": "Collectie",
+          "recommendations": "Aanbevelingen",
+          "watch-list": "Kijk lijst",
+          "history": "Historie",
+          "progress": "Vooruitgang",
+          "completed": "Compleet",
+          "on-hold": "In de wacht"
+        },
+        "pop-over": {
+          "explore": "Verken",
+          "hideWatched": "Verberg bekeken",
+          "pickList": "Kies een lijst",
+          "filters": "Filters"
+        }
+      }
+    },
+    "movie": {
+      "search-list": {
+        "search": "Zoek een film"
+      },
+      "filter": {
+        "title": "Filters",
+        "rating": "Beoordeling",
+        "genre": "Genre",
+        "certification": "certificering",
+        "year": "Jaar",
+        "apply": "Toepassen",
+        "reset": "Reset"
+      },
+      "not-on-tracking-platform": "Deze film is niet aanwezig op uw trackingplatform"
+    },
+    "show": {
+      "search-list": {
+        "search": "Zoek een TV Show",
+        "search-anime": "Zoek een Anime",
+        "myTvShows": "Mijn TV Shows",
+        "myAnime": "Mijn Anime"
+      },
+      "show-detail": {
+        "seasons": "Seizoenen"
+      },
+      "episode-detail": {
+        "viewShow": "Bekijk Show"
+      }
+    },
+    "settings": {
+      "title": "Instellingen",
+      "list": {
+        "contribution": {
+          "header": "Contributie",
+          "item": "Contributie"
+        },
+        "kodi": {
+          "item": "Instellen Hosts"
+        },
+        "addons": {
+          "header": "Add-ons",
+          "item": "Instellen / Installeer Add-ons"
+        },
+        "movies": {
+          "header": "Films",
+          "which-provider": "Kies uw provider bij zoeken",
+          "default": "standaard"
+        },
+        "filer": {
+          "header": "Bestandsverkenner",
+          "item": "Configureren",
+          "hideTab": "Bestandsverkenner Verbergen"
+        },
+        "notification": {
+          "header": "Notificaties",
+          "notificationNotGranted": "Meldingen voor wako zijn momenteel uitgeschakeld. Als je meldingen wilt ontvangen, schakel ze dan bij instellingen in",
+          "itemEnableTvShows": "Meldingen voor tv-programma's inschakelen",
+          "itemOnlyNewEpisodeOnUpToDateShows": "Alleen op de hoogte worden gebracht van nieuwe uitgezonden afleveringen als ik op up to date ben"
+        },
+        "music-controls": {
+          "header": "Melding van muziekbediening",
+          "enabled": "Inschakelen",
+          "swipeToClose": "Veeg om te sluiten"
+        },
+        "trakt": {
+          "totalWatchedMovies": "Totaal aantal films bekeken",
+          "totalWatchedEpisodes": "Totaal aantal afleveringen bekeken",
+          "totalWatchedEpisodesAnime": "Totaal aantal afleveringen (anime) bekeken",
+          "apiStatus": "Trakt API Status",
+          "logout": "Uitloggen",
+          "signIn": "Meld u aan met Trakt",
+          "markMovieAsWatchedAuto": "Markeer films automatisch als bekeken",
+          "markEpisodeAsWatchedAuto": "Markeer afleveringen automatisch als bekeken",
+          "markAsWatchedAutoProgress": "Percentage dat moet worden bekeken om de video als bekeken te markeren"
+        },
+        "simkl": {
+          "signIn": "Meld u aan met SIMKL"
+        },
+        "tracker": {
+          "header": "Tracker",
+          "movie": "Tracker voor films",
+          "show": "Tracker voor tv shows",
+          "not-recommended-warning": "Houd er rekening mee dat het gebruik van Trakt + SIMKL in dezelfde categorie niet wordt aanbevolen en bugs kan veroorzaken."
+        },
+        "application": {
+          "header": "Applicatie",
+          "darkMode": "Donkere Mode",
+          "lang": "Taal",
+          "review": "Geef deze app een recentie",
+          "share": "Deel deze app",
+          "documentation": "Documentatie",
+          "joinDiscord": "wordt lid van ons op Discord",
+          "joinTelegram": "wordt lid van ons op Telegram",
+          "support": "Ondersteun",
+          "clearCache": "Cache Legen",
+          "privacyPolicy": "Privacybeleid",
+          "termsConditions": "Algemene voorwaarden ",
+          "appVersion": "App Versie"
+        },
+        "backup": {
+          "header": "Back-up",
+          "enable-restore-settings": "Schakel instellingen back-up in",
+          "restore-settings": "Herstel instellingen vanaf back-up",
+          "delete": "Verwijder online back-up"
+        }
+      }
+    },
+    "kodi-detection": {
+      "title": "Kodi detectie",
+      "skip": "Overslaan",
+      "cardContent": "Er wordt nu gezocht op Kodi-hosts in uw netwerk. <br /> Selecteer er 1 uit de lijst om deze toe te voegen of druk op de knop \"OVERSLAAN\" om deze handmatig toe te voegen.",
+      "detectedHosts": "Gevonden Hosts",
+      "detectHostHelper": "Host nog niet gevonden (kan enkele seconden duren). Vergeet niet om Kodi te starten <br> <em> De automatische detectie werkt door Zeroconf te gebruiken. Als het je Kodi niet detecteert, probeer dan Zeroconf in Kodi in te schakelen door naar <b> Instellingen> Services> Algemeen te gaan en \"Aankondigen services naar andere systemen\"</b></em>",
+      "troubleShooting": "Als je een probleem hebt met het verbinden van wako met kodi, lees dan de documentatie <b>hier</b>"
+    },
+    "kodi-remote-list": {
+      "title": "Kodi Hosts",
+      "savedHosts": "Opgeslagen Hosts",
+      "noHostsAdded": "Er zijn nog geen hosts toegevoegd",
+      "defaultHost": "Standaard Host",
+      "addHost": "TOEVOEGEN",
+      "linkVolumeHardwareTitle": "Volume",
+      "linkVolumeHardware": "Koppel hardwarevolumeknoppen aan het volume van Kodi tijdens het spelen"
+    },
+    "kodi-settings": {
+      "title": "Kodi Host Configureren",
+      "form": {
+        "name": "Naam",
+        "ip": "Hostnaam/IP address",
+        "port": "Host Poort",
+        "advanced": "Geavanceerde instellingen",
+        "login": "Login (optioneel)",
+        "password": "Wachtwoord (optioneel)",
+        "rpcPort": "JSON RPC poort (optioneel)",
+        "status": "Connectie status:",
+        "save": "Host Opslaan",
+        "delete": "Host Verwijderen"
+      }
+    },
+    "addons": {
+      "title": "Add-ons",
+      "need-contribute": "Uw proefperiode is afgelopen. Draag bij om deze functie te gebruiken",
+      "list-installed": {
+        "header": "geïnstalleerde Add-ons"
+      },
+      "list-available": {
+        "header": "Beschikbare Add-ons"
+      },
+      "list-unknown-sources": {
+        "header": "Instellingen",
+        "item": "Onbekende bronnen",
+        "third-party": "Voeg een add-on van derden toe",
+        "alert": "Add-ons van derden krijgen toegang tot uw gegevens die zijn opgeslagen op wako. Door toe te staan, gaat u ermee akkoord dat u als enige verantwoordelijk bent voor enig gegevensverlies en ongewenst gedrag van uw app. Houd er rekening mee dat add-ons van derden niet worden ontwikkeld of goedgekeurd door wako en dat wako niet verantwoordelijk kan worden gehouden voor wat deze add-ons doen."
+      }
+    },
+    "addon": {
+      "title": "Add-on {{addonName}}",
+      "detail": "Add-on Details",
+      "settings": "Add-on Instellingen",
+      "changeLogs": "log Wijzigingen",
+      "install": "Installeer",
+      "uninstall": "Verwijderen",
+      "thirdParty": "Deze add-on is niet gemaakt door wako. Het gebruik van add-ons van derden is altijd onder uw verantwoordelijkheid en de geldende wetgeving van het rechtsgebied waarin u zich bevindt. wako kan niet verantwoordelijk worden gehouden",
+      "uninstall-confirm": {
+        "header": "Verwijder deze add-on",
+        "message": "Weet u het zeker?"
+      },
+      "install-confirm": {
+        "header": "Installeer deze add-on",
+        "message": "Weet u het zeker?"
+      }
+    },
+    "addon-settings": {
+      "title": "Add-on Instellingen"
+    },
+    "addon-detail": {
+      "title": "Add-on Details"
+    },
+    "movie-discover": {
+      "title": "Ontdek films",
+      "select-filters": "Alle filters zijn optioneel",
+      "searching": "Lopend onderzoek, het kan enige tijd duren",
+      "continue": "Doorgaan",
+      "next-movie": "Volgende",
+      "no-movie": "Geen film meer om te ontdekken",
+      "restart": "Herstarten",
+      "min-rating": "Minimale beoordeling",
+      "released-year": "Vrijgegeven vanaf (jaar)"
+    },
+    "filer": {
+      "title": "Bestandsverkenner",
+      "noCompatibleAddon": "Je hebt nog geen compatibele add-on geïnstalleerd"
+    },
+    "filer-settings": {
+      "title": "Configureer Bestandsverkenner",
+      "video-type": {
+        "header": "Getranscodeerde bestanden",
+        "preferTranscoded": "Geef de voorkeur aan getranscodeerde bestanden",
+        "preferTranscodedFilesChromecast": "Geef de voorkeur aan getranscodeerde bestanden alleen voor Chromecast",
+        "explainTranscoded": "Sommige services maken getranscodeerde bestanden van uw video's in een indeling die compatibel is met bijna elke speler, inclusief Chromecast die slechts enkele video-indelingen ondersteunt. Het is beter om het in te schakelen voor Chromecast. Houd er rekening mee dat getranscodeerde bestanden mogelijk geen andere ondertitels / audiotracks bevatten die originele bestanden zouden kunnen bevatten"
+      },
+      "actions": {
+        "header": "Open acties sorteren / inschakelen"
+      }
+    }
+  },
+  "modals": {
+    "app-contribution": {
+      "title": "Contributie",
+      "premium-user": "Gefeliciteerd, u bent een Premium-gebruiker.",
+      "explain1": "Als je echt van wako houdt, kun je een Premium-gebruiker worden door een product te kiezen. Hiermee worden advertenties verwijderd. <br> Alle apparaten die bij dezelfde gebruiker zijn aangemeld, worden beïnvloed",
+      "explainUsername": "Uw wako-ID wordt gegenereerd op basis van uw Trakt- of SIMKL-ID. Uw bijdrage is gekoppeld aan uw wako-ID. <br> Als u wilt overschakelen van Trakt naar SIMKL of vice versa, vergeet dan niet om verbonden te blijven met de dienst (Trakt of SIMKL) waarmee u verbonden was toen u uw bijdrage leverde om Premium gebruiker te blijven.",
+      "explainTierText1": "\"Tier\" het product is een levenslange bijdrage",
+      "explainTierText2": "Er zijn verschillende Tier-producten, ze hebben allemaal hetzelfde effect, alleen de prijs verandert, het laat je kiezen wat je denkt dat wako waard is",
+      "trialExpired": "Je proefperiode is verlopen. Kies hieronder een product om de app te blijven gebruiken",
+      "iosTextSubscriptionMonthlyByProduct": "Na bevestiging wordt een aankoop van {{productPrice}} / een maand toegepast op uw iTunes-account.",
+      "iosTextSubscriptionYearlyByProduct": "Een aankoop van {{productPrice}} /een jaar wordt bij bevestiging toegepast op uw iTunes-account.",
+      "iosTextSubscriptionGeneral": "Abonnementen worden automatisch verlengd, tenzij ze ten minste 24 uur voor het einde van de huidige periode worden opgezegd. U kunt op elk moment annuleren met uw iTunes-accountinstellingen. Elk ongebruikt deel van een gratis proefperiode wordt verbeurd als u een abonnement aanschaft. Raadpleeg onze Algemene voorwaarden en ons Privacybeleid voor meer informatie.",
+      "subscriptionHeader": "Automatisch verlengbare abonnementen",
+      "consumableHeader": "Levenslange bijdrage",
+      "otherSubscriptionHeader": "Andere bijdragen",
+      "manualSubscription": "Handmatige bijdrage",
+      "ads12hRemoval": "Weg met advertenties op volledig scherm voor de komende 12 uur door 2 beloningsadvertenties te bekijken",
+      "ads6hRemoval": "Weg met advertenties op volledig scherm voor de komende 6 uur door 1 beloningsadvertentie te bekijken",
+      "lifetime": "Levenslange bijdrage",
+      "username-header": "Uw wako-gebruikers-ID",
+      "restore-button": "Aankopen herstellen"
+    },
+    "app-outdated": {
+      "text": "Uw app is verouderd, u moet deze bijwerken om door te gaan"
+    },
+    "kodi-remote-control": {
+      "title": "Kodi-afstandsbediening",
+      "host": "Host",
+      "noHost.message": "Er zijn nog geen hosts toegevoegd.",
+      "noHost.add": "Voeg er 1 toe",
+      "hostUnreachable": "Host {{hostName}} is onbereikbaar.",
+      "tryReconnect": "Probeer opnieuw verbinding te maken"
+    },
+    "list-picker": {
+      "title": "Kies een lijst",
+      "search": "Zoek een lijst",
+      "sort": {
+        "label": "Sorteer op",
+        "options": {
+          "default": "Standaard",
+          "rank": "Rang",
+          "recentlyAdded": "Recent toegevoegd",
+          "releasedDate": "Release Datum"
+        }
+      },
+      "myLists": "Mijn Lijsten",
+      "myLikedLists": "Mijn gelikete lijsten",
+      "trendingLists": "Trending lijsten",
+      "popularLists": "Populaire lijsten",
+      "likes": "vinden het leuk",
+      "by": "bij"
+    },
+    "install-addons": {
+      "title": "U heeft geen add-ons geïnstalleerd",
+      "button": "Laten we wat installeren"
+    },
+    "signIn": {
+      "explain": "U kunt door informatie bladeren zonder een Trakt / SIMKL-account, maar u hebt er een nodig om uw kijkgeschiedenis, kijklijst enz. Te synchroniseren en bij te werken. Als u een Trakt / SIMKL-account gebruikt, betekent dit dat al uw geschiedenis beschikbaar is op al uw apparaten met Trakt / SIMKL toegang, inclusief beschikbaar op Trakt.tv/SIMKL.com op internet."
+    }
+  },
+  "pop-over": {
+    "kodi-subtitles": {
+      "header": "Ondertiteling",
+      "enable": "Schakel ondertitels in",
+      "select": "Ondertiteling",
+      "download": "Download",
+      "offset": "Offset",
+      "close": "Sluiten"
+    },
+    "kodi-audio": {
+      "header": "Audio stream",
+      "select": "Audio"
+    }
+  },
+  "shared": {
+    "noResult": "Geen resultaat",
+    "filtersApplied": "Filters zijn toegepast",
+    "cancel": "annuleren",
+    "sign-in": {
+      "or": "or",
+      "trakt-button": "Meld u aan met Trakt",
+      "simkl-button": "Meld u aan met SIMKL"
+    },
+    "misc": {
+      "aired": "Uitgezonden",
+      "airs": "Uitzenden"
+    },
+    "pasteMediaTitle": "Plak de videotitel",
+    "install-addons": {
+      "text1": "Weet je dat je add-ons in wako kunt installeren?",
+      "text2": "Door add-ons te installeren, voegt u een nieuwe functie toe aan wako die aan uw behoeften voldoet"
+    },
+    "contribution": {
+      "remove-ads": "Draag bij aan wako om alle advertenties te verwijderen",
+      "trial-expires-soon": "Uw proefperiode loopt over {{days}} dag (en) af. U kunt deze functie niet meer gebruiken tenzij u bijdraagt",
+      "need-contribute-button": "Draag bij aan wako"
+    },
+    "calendar-pipe": {
+      "yesterday": "Gisteren",
+      "today": "Vandaag",
+      "tomorrow": "Morgen",
+      "days-ago": "{{days}} dagen geleden",
+      "in-days": "in {{days}} dagen"
+    },
+    "onlyPremium": "Deze functie is alleen beschikbaar voor Premium-gebruikers"
+  },
+  "toasts": {
+    "movie": {
+      "markAsWatched": "Gemarkeerd {{movieTitle}} als bekeken {{trackers}}",
+      "markAsUnwatched": "Gemarkeerd {{movieTitle}} als onbekeken {{trackers}}",
+      "addedToWatchlist": "Toegevoegd {{movieTitle}} aan uw Watch List op {{trackers}}",
+      "removedFromWatchlist": "Verwijderd {{movieTitle}} van uw Watch List op {{trackers}}",
+      "addedToCollection": "Toegevoegd {{movieTitle}} aan uw Collectie op {{trackers}}",
+      "removedFromCollection": "Verwijderd {{movieTitle}} van uw Collectie op {{trackers}}",
+      "addedToUserList": "Toegevoegd {{movieTitle}} aan uw lijst op {{trackers}}",
+      "removedFromUserList": "Verwijderd {{movieTitle}} van uw lijst op {{trackers}}",
+      "noRandomMovieFound": "Geen film gevonden voor genres: {{genreList}}",
+      "notFoundOnTrakt": "Film niet gevonden op trakt"
+    },
+    "show": {
+      "addedToWatchlist": "Toegevoegd {{showTitle}} aan uw Watch List op {{trackers}}",
+      "removedFromWatchlist": "Verwijderd {{showTitle}} van uw Watch List op {{trackers}}",
+      "addedToCollection": "Toegevoegd {{showTitle}} aan uw Collectie op {{trackers}}",
+      "removedFromCollection": "Verwijderd {{showTitle}} van uw Collectie op {{trackers}}",
+      "addedToUserList": "Toegevoegd {{showTitle}} aan uw lijst op {{trackers}}",
+      "removedFromUserList": "Verwijderd {{showTitle}} van uw lijst op {{trackers}}",
+      "notFoundOnTrakt": "Serie niet gevonden op trakt"
+    },
+    "season": {
+      "markAsWatched": "gemarkeerd {{showTitle}} seizoen {{seasonNumber}} als bekeken {{trackers}}",
+      "markAsUnwatched": "gemarkeerd {{showTitle}} seizoen {{seasonNumber}} als onbekeken {{trackers}}"
+    },
+    "episode": {
+      "markAsWatched": "gemarkeerd {{showTitle}} {{episodeCode}} als bekeken {{trackers}}",
+      "markAsUnwatched": "gemarkeerd {{showTitle}} {{episodeCode}} als onbekeken {{trackers}}"
+    },
+    "kodi-remote-control": {
+      "warningWebsocket": "Waarschuwing - u bent niet verbonden met Kodi via de websocket-service. Je moet in Kodi deze optie activeren:\nToestaan besturing op afstand door applicaties op andere systemen\n\nGa naar https://wako.app/kodi-remote-control voor meer informatie"
+    },
+    "app": {
+      "traktApiIssue1": "Trakt API - Kan bron niet laden, probeer het later opnieuw (error code {{errorStatus}})",
+      "traktApiServerOverloaded": "Trakt API - Server is overbelast. Probeer het over 30 seconden opnieuw",
+      "traktNotConnectedAnyMore": "Trakt API - U bent niet meer verbonden met Trakt, maak opnieuw verbinding",
+      "simklNotConnectedAnyMore": "Simkl API - U bent niet meer verbonden met SIMKL, maak opnieuw verbinding",
+      "simklApiServerOverloaded": "Simkl API - Server is overbelast. Probeer het over 30 seconden opnieuw",
+      "newVersionAvailable": "Een nieuwe versie van wako is beschikbaar in de Play-Store",
+      "updateInstalled": "wako is bijgewerkt. Start de app opnieuw om te genieten van de update",
+      "noConnection": "Controleer uw internetverbinding"
+    },
+    "settings": {
+      "cacheCleared": "Cache geleegt"
+    },
+    "addons": {
+      "updated": "Deze add-ons zijn bijgewerkt:<br>{{updatedAddons}}<br><br>wako moet opnieuw worden gestart.",
+      "updatedWithRestart": "Deze add-ons zijn bijgewerkt:<br>{{updatedAddons}}<br><br>wako gaat opnieuw opstarten.",
+      "upToDate": "Add-ons zijn up to date"
+    },
+    "kodi": {
+      "hostUnreachable": "Je Kodi-host {{hostName}} is onbereikbaar, controleer je verbinding",
+      "noHost": "Geen host ingesteld voor kodi"
+    },
+    "ads": {
+      "block": "Ouch, het lijkt erop dat je een publiciteitsblokkering hebt. Sommige delen van wako zijn alleen toegankelijk voor premium gebruikers (wako> instellingen> bijdragen) of door een advertentie te bekijken"
+    },
+    "trailer": {
+      "noTrailer": "Geen trailer gevonden"
+    },
+    "premium-only": "Deze functie is alleen voor premium gebruikers",
+    "no-settings-saved": "Helaas heb je nog geen instellingen online opgeslagen.",
+    "contribution-added": "Bedankt voor je bijdrage. U bent nu een Premium-gebruiker. wako gaat opnieuw opstarten",
+    "backup-deleted": "Je back-up is verwijderd",
+    "exit-app": "Druk nogmaals op back om af te sluiten",
+    "playlist-add": "Toegevoegd aan je afspeellijst"
+  },
+  "alerts": {
+    "okButton": "Ok",
+    "cancelButton": "Annuleren",
+    "app-contribution": {
+      "thanksMessage": "Bedankt voor je bijdrage aan wako."
+    },
+    "movie": {
+      "random": {
+        "header": "Download een willekeurige film voor genres:"
+      }
+    },
+    "addons": {
+      "customManifestUrl": "Add-on-URL van derden",
+      "enterManifestUrl": "Voer de manifest-URL in"
+    },
+    "show": {
+      "remove": "Verwijder deze show?",
+      "hidden-add": "Verberg deze show?",
+      "hidden-remove": "Herstel deze show?"
+    },
+    "kodi": {
+      "openUrl": "Open URL"
+    },
+    "restore-settings": {
+      "restore-header": "Instellingen herstellen",
+      "restore-date": "Wilt u uw instellingen herstellen die zijn opgeslagen op {{date}}?"
+    },
+    "delete-backup": {
+      "header": "Verwijder backup",
+      "restore-date": "Wilt u uw back-up verwijderen die is opgeslagen op {{date}}?"
+    },
+    "clear-resume": {
+      "message": "Verwijder alle items?"
+    }
+  },
+  "notifications": {
+    "shows": {
+      "newEpisode": "Nieuwe aflevering: {{showTitle}} {{episodeCode}}"
+    }
+  },
+  "actionSheets": {
+    "addToWatchList": "Voeg toe aan uw Watch List",
+    "removeFromWatchList": "Verwijder van uw Watch List",
+    "addToCollection": "Voeg toe aan uw Collectie",
+    "removeFromCollection": "Verwijder van uw Collectie",
+    "addToList": "Voeg toe {{listName}}",
+    "removeFromList": "Verwijder van {{listName}}",
+    "file-action": {
+      "openTitle": "Openen met",
+      "actions": {
+        "play-kodi": "Kodi",
+        "play-browser": "Browser",
+        "copy-url": "Kopieer URL",
+        "play-vlc": "VLC",
+        "download-vlc": "Download met VLC",
+        "share-url": "Delen",
+        "open-with": "Andere App",
+        "play-nplayer": "NPlayer",
+        "play-infuse": "Infuse",
+        "cast": "Cast",
+        "add-to-playlist": "Voeg toe aan je playlist"
+      }
+    }
+  }
+}

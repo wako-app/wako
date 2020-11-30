@@ -1,0 +1,310 @@
+{
+  "pages": {
+    "intro": {
+      "title": "Wstęp",
+      "skip": "POMIŃ",
+      "slide1": {
+        "title": "Witaj w Wako",
+        "watchDemo": "Obejrzyj Demo"
+      },
+      "slide2": {
+        "text1": "Śledź swoje seriale oraz filmy, które oglądasz",
+        "text2": "Otrzymuj powiadomienia o nowych odcinkach",
+        "text3.1": "Kontroluj swój ulubiony odtwarzacz multimedialny",
+        "text3.2": "za pomocą wbudowanego pilota"
+      },
+      "slide3": {
+        "title": "Czym jest Trakt.tv?",
+        "text": "To platforma, która robi wiele rzeczy, ale przede wszystkim śledzi seriale telewizyjne i oglądane filmy. Integruje się z centrami multimedialnymi (takimi jak Kodi), więc wszystko jest automatyczne. Odkryj nowe seriale i filmy, obserwuj osoby o podobnych upodobaniach i wyrażaj swoją opinię, korzystając ze strony Trakt.tv"
+      },
+      "slide4": {
+        "title": "Czym jest Kodi?",
+        "text1.1": "Kodi jest darmową aplikacją z otwartym źródłem do odtwarzania wideo, muzyki, obrazów, gier oraz dużo, dużo więcej. Kodi działa na Linux, OSX, Windows, iOS oraz Android.",
+        "text1.2": "Dowiedz się więcej oraz pobierz Kodi z ich oficjalnej strony."
+      },
+      "slide5": {
+        "text": "Bądź na bieżąco z kolejnymi odcinkami do obejrzenia"
+      },
+      "slide6": {
+        "text1.1": "Dodaj film do listy do oglądania",
+        "text1.2": "oznacz jako obejrzane"
+      },
+      "slide7": {
+        "text": "zdalne sterowanie"
+      },
+      "slide8": {
+        "title": "Gotowy?",
+        "button": "Kontynuuj"
+      }
+    },
+    "home": {
+      "hi": "Cześć",
+      "upNextToWatch": "Następne do obejrzenia",
+      "retry": "Spróbuj ponownie",
+      "upToDate": "Nie masz nic do oglądania, jesteś na bieżąco ;)"
+    },
+    "login": {
+      "message": "Zaloguj się lub zarejestruj w Trakt żeby zobaczyć swoje Filmy/Seriale"
+    },
+    "media": {
+      "shared": {
+        "detail": {
+          "imdbRating": "Ocena IMDb:",
+          "viewOnIMDb": "Zobacz na IMDb",
+          "overview": "Opis",
+          "related": "Więcej podobnych"
+        },
+        "search-list": {
+          "explore": "Odkryj",
+          "toWatch": "Zapisane",
+          "watched": "Obejrzane",
+          "by": "przez",
+          "mostDailyPlayed": "Najczęściej odtwarzane",
+          "trending": "Trendy",
+          "popular": "Popularne",
+          "collection": "Kolekcja",
+          "recommendations": "Polecane",
+          "watch-list": "Watch list",
+          "history": "Historique",
+          "up-next": "Następne do obejrzenia"
+        },
+        "pop-over": {
+          "explore": "Odkryj",
+          "hideWatched": "Ukryj obejrzane",
+          "pickList": "Wybierz listę",
+          "filters": "Filtry"
+        }
+      }
+    },
+    "movie": {
+      "search-list": {
+        "search": "Szukaj filmu"
+      },
+      "filter": {
+        "title": "Filtry",
+        "rating": "Oceny",
+        "genre": "Gatunek",
+        "certification": "Certyfikacja",
+        "year": "Rok",
+        "apply": "Akceptuj",
+        "reset": "Zresetuj"
+      }
+    },
+    "show": {
+      "search-list": {
+        "search": "Szukaj serialu",
+        "myTvShows": "Moje seriale"
+      },
+      "episode-detail": {
+        "viewShow": "Zobacz serial"
+      }
+    },
+    "settings": {
+      "title": "Ustawienia",
+      "list": {
+        "contribution": {
+          "header": "Wsparcie",
+          "item": "Wesprzyj"
+        },
+        "kodi": {
+          "item": "Skonfiguruj hosta"
+        },
+        "addons": {
+          "header": "Add-ons",
+          "item": "Configure / Install Add-ons"
+        },
+        "notification": {
+          "header": "Powiadomienia",
+          "itemEnableTvShows": "Włącz powiadomienia o serialach",
+          "itemOnlyNewEpisodeOnUpToDateShows": "Informuj mnie tylko o następnych odcinkach do obejrzenia"
+        },
+        "trakt": {
+          "totalWatchedMovies": "Łącznie obejrzanych filmów",
+          "totalWatchedEpisodes": "Łącznie obejrzanych odcinków",
+          "apiStatus": "Trakt API Status",
+          "logout": "Wyloguj",
+          "signIn": "Zaloguj się lub zarejestruj w Trakt"
+        },
+        "application": {
+          "header": "Aplikacja",
+          "lang": "Język",
+          "review": "Oceń aplikację",
+          "share": "Udostępnij aplikację",
+          "documentation": "Dokumentacja",
+          "joinDiscord": "Dołącz do nas na Discord",
+          "joinTelegram": "Dołącz do nas na Telegram",
+          "support": "Pomoc",
+          "clearCache": "Wyczyść pamięć podręczną",
+          "privacyPolicy": "Polityka prywatności",
+          "termsConditions": "Terms & Conditions ",
+          "appVersion": "Wersja aplikacji"
+        }
+      }
+    },
+    "kodi-detection": {
+      "title": "Wykrywanie Kodi",
+      "skip": "Pomiń",
+      "cardContent": "Hosty Kodi są teraz przeszukiwane w Twojej sieci. <br /> Wybierz host z listy, aby dodać lub naciśnij przycisk \"POMIŃ\", aby dodać ręcznie.",
+      "detectedHosts": "Hosty wykryte",
+      "detectHostHelper": "Nie znaleziono jeszcze hosta (może to potrwać kilka sekund). Nie zapomnij uruchomić Kodi <br><em> Automatyczne wykrywanie działa przy użyciu Zeroconf. Jeśli nie wykrywa Twojego Kodi, spróbuj włączyć Zeroconf w Kodi przechodząc do <b> Ustawienia> Usługi> Ogólne i włącz „Rozgłaszaj usługi do innych systemów.” </b></em>"
+    },
+    "kodi-remote-list": {
+      "title": "Hosty Kodi",
+      "savedHosts": "Zapisane hosty",
+      "noHostsAdded": "Hosty nie zostały jeszcze dodane",
+      "defaultHost": "Host domyślny",
+      "addHost": "DODAJ"
+    },
+    "kodi-settings": {
+      "title": "Konfiguracja hosta Kodi",
+      "form": {
+        "name": "Nazwa",
+        "ip": "Nazwa hosta/adres IP",
+        "port": "Port hosta",
+        "advanced": "Ustawienia zaawansowane",
+        "login": "Login (opcjonalnie)",
+        "password": "Hasło (opcjonalnie)",
+        "rpcPort": "port JSON RPC (opcjonalnie)",
+        "status": "Status połączenia:",
+        "save": "Zapisz host",
+        "delete": "Usuń host"
+      }
+    },
+    "addons": {
+      "title": "Add-ons",
+      "list-installed": {
+        "header": "Installed Add-ons"
+      },
+      "list-available": {
+        "header": "Available Add-ons"
+      }
+    },
+    "addon": {
+      "title": "Add-on Detail",
+      "settings": "Add-on Settings",
+      "install": "Install",
+      "uninstall": "Uninstall",
+      "thirdParty": "This add-on has not been created by wako. Using third party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located. wako cannot be held responsible",
+      "uninstall-confirm": {
+        "header": "Uninstall this add-on",
+        "message": "Are you sure?"
+      },
+      "install-confirm": {
+        "header": "Install this add-on",
+        "message": "Are you sure?"
+      }
+    },
+    "addon-settings": {
+      "title": "Add-on Settings"
+    }
+  },
+  "modals": {
+    "app-contribution": {
+      "title": "Składka",
+      "text": "Wako jest damowe i nie zawiera żadnych reklam. <br />Aby aplikacja była coraz lepsza, potrzeba dużo pracy. <br />Jeśli naprawdę lubisz Wako, możesz przyczynić się do rozwoju, subskrybując poniżej<br /><br />Dziękuję!",
+      "iosTextSubscriptionMonthlyByProduct": "A {{ productPrice }}/month purchase will be applied to your iTunes account on confirmation.",
+      "iosTextSubscriptionYearlyByProduct": "A {{ productPrice }}/year purchase will be applied to your iTunes account on confirmation.",
+      "iosTextSubscriptionGeneral": "Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms & Conditions and Privacy Policy.",
+      "subscriptionHeader": "Auto Renewable subscriptions",
+      "consumableHeader": "Dożywotni wkład"
+    },
+    "app-outdated": {
+      "text": "Twoja aplikacja jest nieaktualna, zaaktualizuj aby kontynuować"
+    },
+    "kodi-remote-control": {
+      "title": "Zdalne sterowanie Kodi",
+      "host": "Host",
+      "noHost.message": "Nie dodano jeszcze żadnych hostów.",
+      "noHost.add": "Dodaj",
+      "hostUnreachable": "Host {{hostName}} jest niedostępny.",
+      "tryReconnect": "Spróbuj połączyć ponownie"
+    },
+    "list-picker": {
+      "title": "Wybierz listę",
+      "sort": {
+        "label": "Sortowanie według",
+        "options": {
+          "rank": "Oceny",
+          "recentlyAdded": "Ostatnio dodane",
+          "releasedDate": "Ostatnio wydane"
+        }
+      },
+      "myLists": "Moje listy",
+      "myLikedLists": "Polubione listy",
+      "trendingLists": "Listy trendy",
+      "popularLists": "Popularne listy",
+      "likes": "polubiane",
+      "by": "przez"
+    }
+  },
+  "shared": {
+    "noResult": "Brak wyników",
+    "cancel": "Anuluj",
+    "sign-in": {
+      "button": "Zaloguj się lub zarejestruj w Trakt"
+    },
+    "misc": {
+      "aired": "Wyemitowane",
+      "airs": "Emitowane"
+    }
+  },
+  "toasts": {
+    "movie": {
+      "markAsWatched": "Oznaczono {{movieTitle}} jako obejrzany",
+      "markAsUnwatched": "Oznaczono {{movieTitle}} jako nieobejrzany",
+      "addedToWatchlist": "Dodano {{movieTitle}} do listy do obejrzenia",
+      "removedFromWatchlist": "Usunięto {{movieTitle}} z listy do obejrzenia",
+      "addedToCollection": "Dodano {{movieTitle}} do twojej kolekcji",
+      "removedFromCollection": "Usunięto {{movieTitle}} z twojej kolekcji",
+      "noRandomMovieFound": "Nie znaleziono filmów z gatunku: {{genreList}}",
+      "notFoundOnTrakt": "Nie znaleziono filmu w trakt"
+    },
+    "show": {
+      "removedFromWatchlist": "Usunięto {{showTitle}} z listy do obejrzania",
+      "addedToCollection": "Dodano {{showTitle}} do twojej kolekcji",
+      "removedFromCollection": "Usunięto {{showTitle}} z twojej kolekcji",
+      "notFoundOnTrakt": "Nie znaleziono serialu w trakt"
+    },
+    "season": {
+      "markAsWatched": "Oznaczono {{showTitle}} sezon {{seasonNumber}} jako obejrzany",
+      "markAsUnwatched": "Oznaczono {{showTitle}} sezon {{seasonNumber}} jako nieobejrzany"
+    },
+    "episode": {
+      "markAsWatched": "Oznaczono {{showTitle}} {{episodeCode}} jako obejrzany",
+      "markAsUnwatched": "Oznaczono {{showTitle}} {{episodeCode}} jako nieobejrzany"
+    },
+    "kodi-remote-control": {
+      "warningWebsocket": "Uwaga - nie jesteś połączony z kodi za pośrednictwem usługi websocket."
+    },
+    "app": {
+      "traktApiIssue1": "Trakt API - Nie udało się załadować zasobu, spróbuj ponownie później (kod błędu {{errorStatus}})",
+      "traktApiServerOverloaded": "Trakt API - Serwer jest przeładowany. Spróbuj ponownie za 30 sekund.",
+      "traktNotConnectedAnyMore": "Trakt API - You're not connected to trakt anymore, please reconnect",
+      "newVersionAvailable": "Nowa wersja Wako jest dostępna",
+      "updateInstalled": "Wako zostało zaktualizwoane. Zrestartuj aplikację aby cieszyć się nową wersją"
+    },
+    "settings": {
+      "cacheCleared": "Pamięć podręczna wyczyszczona"
+    },
+    "addons": {
+      "updated": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako needs to be restarted."
+    }
+  },
+  "alerts": {
+    "okButton": "Ok",
+    "cancelButton": "Anuluj",
+    "app-contribution": {
+      "thanksMessage": "Dziękuję za wsparcie Wako."
+    },
+    "movie": {
+      "random": {
+        "header": "Losowy film dla gatunku:"
+      }
+    }
+  },
+  "notifications": {
+    "shows": {
+      "newEpisode": "Nowy odcinek: {{showTitle}} {{episodeCode}}"
+    }
+  }
+}

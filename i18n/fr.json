@@ -201,6 +201,8 @@
         "backup": {
           "header": "Sauvegarde",
           "enable-restore-settings": "Activer la sauvegarde des paramètres",
+          "enable-automatic-backup": "Activer la sauvegarde automatique",
+          "backup-settings": "Sauvegarder les paramètres",
           "restore-settings": "Restaurer les paramètres",
           "delete": "Supprimer la sauvegarde en ligne"
         }

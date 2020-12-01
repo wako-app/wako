@@ -200,7 +200,9 @@
         },
         "backup": {
           "header": "Backup",
-          "enable-restore-settings": "Enable settings backup",
+          "enable-restore-settings": "Enable backup",
+          "enable-automatic-backup": "Enable Automatic backup",
+          "backup-settings": "Backup settings",
           "restore-settings": "Restore settings from backup",
           "delete": "Delete online backup"
         }

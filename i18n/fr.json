@@ -335,7 +335,8 @@
       "noHost.message": "Aucun hôte n'a encore été ajouté.",
       "noHost.add": "Ajouter un hôte",
       "hostUnreachable": "Impossible de se connecter à {{hostName}}",
-      "tryReconnect": "Se Reconnecter"
+      "tryReconnect": "Se Reconnecter",
+      "configure": "Configurer"
     },
     "list-picker": {
       "title": "Choisissez une liste",

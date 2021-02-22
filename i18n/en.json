@@ -338,7 +338,8 @@
       "noHost.message": "No hosts have been added yet.",
       "noHost.add": "Add one",
       "hostUnreachable": "Host {{hostName}} is unreachable.",
-      "tryReconnect": "Try to reconnect"
+      "tryReconnect": "Try to reconnect",
+      "configure": "Configure"
     },
     "list-picker": {
       "title": "Pick a list",

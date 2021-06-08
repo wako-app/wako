@@ -211,7 +211,7 @@
     "kodi-detection": {
       "title": "Kodi-Erkennung",
       "skip": "Überspringen",
-      "cardContent": "Kodi-Hosts werden jetzt in Ihrem Netzwerk gesucht.<br />Wählen Sie eins aus der Liste aus um es hinzuzufügen, oder drücken Sie die Schaltfläche \"ÜBERSPRINGEN\" um es manuell hinzuzufügen.",
+      "cardContent": "Kodi-Hosts werden jetzt im Netzwerk gesucht.<br />Wählen Sie eins aus der Liste aus um es hinzuzufügen, oder drücken Sie die Schaltfläche \"ÜBERSPRINGEN\" um es manuell hinzuzufügen.",
       "detectedHosts": "Gefundene Hosts",
       "detectHostHelper": "Noch kein Host gefunden. Bitte beachten Sie dass die Erkennung einige Sekunden dauern kann und stellen Sie sicher dass Kodi gestartet ist.<br><em>Zur automatischen Erkennung wird Zeroconf genutzt. Falls kein Host erkannt wurde stellen Sie sicher dass Zeroconf in den Kodi-Einstellungen aktiviert ist: <b>Einstellungen > Dienste > Allgemein und dort \"Dienste für andere Systeme ankündigen\"</b> einschalten.</em>",
       "troubleShooting": "Wenn Sie Probleme beim Verbinden von wako mit Kodi haben, lesen Sie bitte die Dokumentation <b>hier</b>."

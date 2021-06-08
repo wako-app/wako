@@ -336,10 +336,10 @@
       "title": "Kodi Fernbedienung",
       "host": "Host",
       "noHost.message": "No hosts have been added yet.",
-      "noHost.add": "Add one",
+      "noHost.add": "Hinzufügen",
       "hostUnreachable": "Host {{hostName}} is unreachable.",
       "tryReconnect": "Try to reconnect",
-      "configure": "Configure"
+      "configure": "Konfigurieren"
     },
     "list-picker": {
       "title": "Pick a list",
@@ -372,12 +372,12 @@
   },
   "pop-over": {
     "kodi-subtitles": {
-      "header": "Subtitles",
-      "enable": "Enable Subtitles",
-      "select": "Subtitle",
+      "header": "Untertitel",
+      "enable": "Untertitel aktivieren",
+      "select": "Untertitel",
       "download": "Download",
-      "offset": "Offset",
-      "close": "Close"
+      "offset": "Versatz",
+      "close": "Schließen"
     },
     "kodi-audio": {
       "header": "Audio stream",

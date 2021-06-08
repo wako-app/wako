@@ -15,12 +15,12 @@
         "text4": "Und viele weitere Features"
       },
       "slide3": {
-        "title": "Was Trakt.tv?",
-        "text": "ist eine Plattform, die viele Dinge tut, aber in erster Linie TV-Sendungen und Filme verfolgt, die Sie sehen. Sie lässt sich in Medienzentren (wie Kodi) integrieren, um das Scrobbeln zu ermöglichen, sodass alles automatisch abläuft. Entdecken Sie neue Shows und Filme, folgen Sie Leuten mit ähnlichem Geschmack und sagen Sie Ihre Meinung, indem Sie die Website Trakt.tv nutzen"
+        "title": "Was ist Trakt.tv?",
+        "text": "Trakt ist eine Plattform, die viele Dinge tut, aber in erster Linie Serien und Filme verfolgt, die Sie sehen. Sie lässt sich in Medienzentren (wie Kodi) integrieren, um das Scrobbeln zu ermöglichen, sodass alles automatisch abläuft. Entdecken Sie neue Shows und Filme, folgen Sie Leuten mit ähnlichem Geschmack und sagen Sie Ihre Meinung, indem Sie die Website Trakt.tv nutzen"
       },
       "slide4": {
         "title": "Was ist Kodi?",
-        "text1.1": "Kodi ist ein kostenloses Open-Source-Mediencenter zum Abspielen von Videos, Musik, Bildern, Spielen und mehr. Kodi läuft unter Linux, OSX, Windows, iOS und Android.",
+        "text1.1": "Kodi ist ein kostenloses Open-Source-Mediencenter zum Abspielen von Videos, Musik, Bildern, Spielen und mehr. Kodi läuft unter Linux, OS&nbsp;X, Windows, iOS und Android.",
         "text1.2": "Erfahren Sie mehr und installieren Sie es von der Kodi-Website."
       },
       "slide5": {
@@ -39,12 +39,12 @@
     },
     "home": {
       "hi": "Hallo",
-      "upNextToWatch": "Als nächstes zu gucken",
+      "upNextToWatch": "Als nächstes anzusehen",
       "retry": "Wiederholen",
       "upToDate": "Hier gibt es gerade nichts zu sehen.",
-      "nothingToResume": "Hier gibt es gerade nichts zu fortzusetzen.",
+      "nothingToResume": "Hier gibt es gerade nichts fortzusetzen.",
       "segment": {
-        "upNext": "Folgend",
+        "upNext": "Als nächstes",
         "resume": "Fortsetzen",
         "calendar": "Kalender"
       }
@@ -65,7 +65,7 @@
           "release": "Veröffentlichung",
           "runtime": "Länge",
           "status": "Status",
-          "certification": "Aklterseinstufung",
+          "certification": "Alterseinstufung",
           "originalTitle": "Originaltitel",
           "originalLanguage": "Originalsprache",
           "type": "Typ",
@@ -75,7 +75,7 @@
           "genres": "Genres"
         },
         "search-list": {
-          "explore": "Erkunden",
+          "explore": "Entdecken",
           "list": "Liste",
           "toWatch": "Ansehen",
           "watched": "Gesehen",
@@ -92,7 +92,7 @@
           "on-hold": "Pausiert"
         },
         "pop-over": {
-          "explore": "Erkunden",
+          "explore": "Entdecken",
           "hideWatched": "Gesehene ausblenden",
           "pickList": "Liste auswählen",
           "filters": "Filter"
@@ -107,7 +107,7 @@
         "title": "Filter",
         "rating": "Bewertung",
         "genre": "Genre",
-        "certification": "Aklterseinstufung",
+        "certification": "Alterseinstufung",
         "year": "Jahr",
         "apply": "Anwenden",
         "reset": "Zurücksetzen"
@@ -132,15 +132,15 @@
       "title": "Einstellungen",
       "list": {
         "contribution": {
-          "header": "Spende",
-          "item": "Spenden"
+          "header": "Beitrag",
+          "item": "Beitragen"
         },
         "kodi": {
           "item": "Konfiguration"
         },
         "addons": {
           "header": "Erweiterungen",
-          "item": "Installation / Konfiguration von Erweiterungen"
+          "item": "Installation/Konfiguration von Erweiterungen"
         },
         "movies": {
           "header": "Filme",
@@ -150,11 +150,11 @@
         "filer": {
           "header": "Dateimanager",
           "item": "Konfiguration",
-          "hideTab": "Dateimanager ausblenden"
+          "hideTab": "Reiter Dateimanager ausblenden"
         },
         "notification": {
           "header": "Benachrichtigungen",
-          "notificationNotGranted": "Benachrichtigungen für wako sind derzeit deaktiviert. Wenn Sie Benachrichtigungen erhalten möchten aktivieren Sie diese bitte in den Einstellungen der App",
+          "notificationNotGranted": "Benachrichtigungen für wako sind derzeit deaktiviert. Zum Erhalten von Benachrichtigungen aktivieren Sie diese bitte in den Einstellungen der App",
           "itemEnableTvShows": "Serien-Benachrichtigungen aktivieren",
           "itemOnlyNewEpisodeOnUpToDateShows": "Bei neuen ausgestrahlten Folgen nur benachrichtigen wenn ich auf dem Laufenden bin"
         },
@@ -164,18 +164,18 @@
           "swipeToClose": "Zum Schließen wischen"
         },
         "trakt": {
-          "totalWatchedMovies": "Gesamtzahl der angesehen Filme",
-          "totalWatchedEpisodes": "Gesamtzahl der angesehenen Episonden",
-          "totalWatchedEpisodesAnime": "Gesamtzahl der angesehenen Episoden (Animes)",
+          "totalWatchedMovies": "Gesamtzahl angesehener Filme",
+          "totalWatchedEpisodes": "Gesamtzahl angesehenener Episonden",
+          "totalWatchedEpisodesAnime": "Gesamtzahl angesehenener Episoden (Animes)",
           "apiStatus": "Trakt API Status",
-          "logout": "Ausloggen",
-          "signIn": "wako mit Ihrem Trakt-Konto verbinden",
+          "logout": "Abmelden",
+          "signIn": "wako mit Trakt-Konto verbinden",
           "markMovieAsWatchedAuto": "Filme automatisch als gesehen markieren",
           "markEpisodeAsWatchedAuto": "Episoden automatisch als gesehen markieren",
           "markAsWatchedAutoProgress": "Prozentsatz um das Video als gesehen zu markieren"
         },
         "simkl": {
-          "signIn": "wako mit Ihrem Simkl-Konto verknüpfen"
+          "signIn": "wako mit Simkl-Konto verknüpfen"
         },
         "tracker": {
           "header": "Tracker",
@@ -191,10 +191,10 @@
           "share": "App empfehlen",
           "documentation": "Dokumentation",
           "joinDiscord": "Auf Discord beitreten",
-          "joinTelegram": "Telegram beitreten",
+          "joinTelegram": "Auf Telegram beitreten",
           "support": "Unterstützung",
           "clearCache": "Zwischenspeicher leeren",
-          "privacyPolicy": "Datenschutz-Bestimmungen",
+          "privacyPolicy": "Datenschutzbestimmungen",
           "termsConditions": "Nutzungsbestimmungen",
           "appVersion": "App Version"
         },
@@ -211,22 +211,22 @@
     "kodi-detection": {
       "title": "Kodi-Erkennung",
       "skip": "Überspringen",
-      "cardContent": "Kodi-Systeme werden jetzt in Ihrem Netzwerk gesucht.<br />Wählen Sie eins aus der Liste aus um es hinzuzufügen, oder drücken Sie die Schaltfläche \"SKIP\" um es manuell hinzuzufügen.",
-      "detectedHosts": "Gefundene Systeme",
-      "detectHostHelper": "Noch kein System gefunden. Bitte beachten Sie dass die Erkennung einige Sekunden dauern kann und stellen Sie sicher dass Kodi gestartet ist.<br><em>Zur automatischen Erkennung wird Zeroconf genutzt. Falls kein System erkannt ist stellen Sie sicher dass Zeroconf in den Kodi-Einstellungen aktiviert ist: <b>Einstellungen > Sienste > Allgemein und dort \"Dienste für andere Systeme ankündigen\"</b> einschalten.</em>",
+      "cardContent": "Kodi-Hosts werden jetzt in Ihrem Netzwerk gesucht.<br />Wählen Sie eins aus der Liste aus um es hinzuzufügen, oder drücken Sie die Schaltfläche \"ÜBERSPRINGEN\" um es manuell hinzuzufügen.",
+      "detectedHosts": "Gefundene Hosts",
+      "detectHostHelper": "Noch kein Host gefunden. Bitte beachten Sie dass die Erkennung einige Sekunden dauern kann und stellen Sie sicher dass Kodi gestartet ist.<br><em>Zur automatischen Erkennung wird Zeroconf genutzt. Falls kein Host erkannt wurde stellen Sie sicher dass Zeroconf in den Kodi-Einstellungen aktiviert ist: <b>Einstellungen > Dienste > Allgemein und dort \"Dienste für andere Systeme ankündigen\"</b> einschalten.</em>",
       "troubleShooting": "Wenn Sie Probleme beim Verbinden von wako mit Kodi haben, lesen Sie bitte die Dokumentation <b>hier</b>."
     },
     "kodi-remote-list": {
-      "title": "Kodi-Systeme",
-      "savedHosts": "Gespeicherte Systeme",
-      "noHostsAdded": "Es wurden noch keine Systeme hinzugefüht.",
-      "defaultHost": "Standardsystem",
+      "title": "Kodi-Hosts",
+      "savedHosts": "Gespeicherte Hosts",
+      "noHostsAdded": "Es wurden noch keine Hosts hinzugefüht.",
+      "defaultHost": "Standardhost",
       "addHost": "HINZUFÜGEN",
       "linkVolumeHardwareTitle": "Lautstärke",
       "linkVolumeHardware": "Beim Abspielen die Lautstärketasten der Hardware mit der Lautstärke von Kodi verbinden"
     },
     "kodi-settings": {
-      "title": "Kodi Systemkonfiguration",
+      "title": "Kodi Host konfiguration",
       "form": {
         "name": "Name",
         "ip": "Hostname/IP Adresse",
@@ -236,8 +236,8 @@
         "password": "Passwort (optional)",
         "rpcPort": "JSON RPC Port (optional)",
         "status": "Verbindungsstatus:",
-        "save": "System speichern",
-        "delete": "System löschen"
+        "save": "Host speichern",
+        "delete": "Host löschen"
       }
     },
     "addons": {
@@ -311,7 +311,7 @@
     "app-contribution": {
       "title": "Beitrag",
       "premium-user": "Herzlichen Glückwunsch, Sie sind Premiumnutzer.",
-      "explain1": "Wenn Ihnen wako gefällt können Sie die Entwicklung der App unterstützen indem Sie eines der beiden Abomodelle unten auswählen. Dadurch werden die Anzeigen in der App entfernt. <br>Alle Geräte die unter ein- und demselben Nutzer angemeldet sind, sind davon betroffen.",
+      "explain1": "Wenn Ihnen wako gefällt können Sie die Entwicklung der App unterstützen indem Sie eines der beiden Abomodelle unten auswählen. Dadurch werden die Anzeigen in der App entfernt.<br>Alle Geräte die unter ein- und demselben Nutzer angemeldet sind, sind davon betroffen.",
       "explainUsername": "Ihre wako-ID wird basierend auf Ihrer Trakt- oder Simkl-Kennung generiert. Ihr Beitrag ist mit Ihrer wako-ID verknüpft.<br>Wenn Sie von Trakt zu Simkl oder umgekehrt wechseln möchten bleiben Sie bitte mit dem bisherigen Dienst verbunden, um weiterhin den Status Premiumnutzer zu behalten.",
       "explainTierText1": "\"Tier\" product is a lifetime contribution",
       "explainTierText2": "There are different Tier products, they all have the same effect, only the price changes, it lets you choose what you think wako worth",
@@ -330,10 +330,10 @@
       "restore-button": "Restore Purchases"
     },
     "app-outdated": {
-      "text": "Your app is outdated, you have to update it to continue"
+      "text": "Aktualisieren der App erforderlich um fortzufahren."
     },
     "kodi-remote-control": {
-      "title": "Kodi Remote Control",
+      "title": "Kodi Fernbedienung",
       "host": "Host",
       "noHost.message": "No hosts have been added yet.",
       "noHost.add": "Add one",

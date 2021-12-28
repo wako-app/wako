@@ -242,7 +242,7 @@
     },
     "addons": {
       "title": "Erweiterungen",
-      "need-contribute": "Your trial period has ended, please contribute to use this feature",
+      "need-contribute": "Ihr Testzeitraum ist abgelaufen. Bitte leisten Sie einen Beitrag um diese Funktion zu nutzen",
       "list-installed": {
         "header": "Installierte Erweiterungen"
       },
@@ -313,21 +313,21 @@
       "premium-user": "Herzlichen Glückwunsch, Sie sind Premiumnutzer.",
       "explain1": "Wenn Ihnen wako gefällt können Sie die Entwicklung der App unterstützen indem Sie eines der beiden Abomodelle unten auswählen. Dadurch werden die Anzeigen in der App entfernt.<br>Alle Geräte die unter ein- und demselben Nutzer angemeldet sind, sind davon betroffen.",
       "explainUsername": "Ihre wako-ID wird basierend auf Ihrer Trakt- oder Simkl-Kennung generiert. Ihr Beitrag ist mit Ihrer wako-ID verknüpft.<br>Wenn Sie von Trakt zu Simkl oder umgekehrt wechseln möchten bleiben Sie bitte mit dem bisherigen Dienst verbunden, um weiterhin den Status Premiumnutzer zu behalten.",
-      "explainTierText1": "\"Tier\" product is a lifetime contribution",
-      "explainTierText2": "There are different Tier products, they all have the same effect, only the price changes, it lets you choose what you think wako worth",
-      "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
-      "iosTextSubscriptionMonthlyByProduct": "A {{ productPrice }}/month purchase will be applied to your iTunes account on confirmation.",
-      "iosTextSubscriptionYearlyByProduct": "A {{ productPrice }}/year purchase will be applied to your iTunes account on confirmation.",
-      "iosTextSubscriptionGeneral": "Subscriptions will automatically renew unless canceled at least 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms & Conditions and Privacy Policy.",
-      "subscriptionHeader": "Auto Renewable subscriptions",
-      "consumableHeader": "Lifetime Contribution",
-      "otherSubscriptionHeader": "Other Contributions",
-      "manualSubscription": "Manual Contribution",
-      "ads12hRemoval": "Get rid of full screen ads for the next 12h by watching 2 rewards ads",
-      "ads6hRemoval": "Get rid of full screen ads for the next 6h by watching 1 reward ads",
-      "lifetime": "Lifetime contribution",
-      "username-header": "Your wako user ID",
-      "restore-button": "Restore Purchases"
+      "explainTierText1": "\"Stufe\" lebenslange Freischaltung",
+      "explainTierText2": "Es gibt verschiedene Freischaltungen. Alle haben den gleichen Effekt, lediglich der Preis ist unterschiedlich. Sie entscheiden wieviel die Nutzung von wako Ihnen wert ist",
+      "trialExpired": "Ihre Testphase ist abgelaufen. Um die App weiter zu nutzen wählen Sie bitte eines der Produkte unten",
+      "iosTextSubscriptionMonthlyByProduct": "Ihr iTunes Konto wird nach Ihrer Bestätigung mit einem Einkauf über {{ productPrice }}/Monat belastet.",
+      "iosTextSubscriptionYearlyByProduct": "Ihr iTunes Konto wird nach Ihrer Bestätigung mit einem Einkauf über {{ productPrice }}/Jahr belastet.",
+      "iosTextSubscriptionGeneral": "Abonnements verlängern sich automatisch wenn sie nicht spätestens 24 Stunden vor Ende der Zahlungsperiode gekündigt werden. Die Kündigung kann zu jedem Zeitpunkt in Ihrem iTunes Konto erfolgen. Ungenutze Testzeiträume verfallen bei Abschluss eines Abonnements. Für weitergehende Informationen schauen Sie bitte in die AGB und unsere Datenschutz-Bestimmungen.",
+      "subscriptionHeader": "Abonnement mit automatischer Verlängerung",
+      "consumableHeader": "Lebenslager Beitrag",
+      "otherSubscriptionHeader": "Andere Beiträge",
+      "manualSubscription": "Manueller Beitrag",
+      "ads12hRemoval": "Befreien Sie sich für die nächsten 12 Stunden von Vollbildanzeigen indem Sie sich 2 Prämienanzeigen ansehen",
+      "ads6hRemoval": "Befreien Sie sich für die nächsten 6 Stunden von Vollbildanzeigen indem Sie sich 1 Prämienanzeigen ansehen",
+      "lifetime": "Lebenslager Beitrag",
+      "username-header": "Ihre wako Benutzerkennung",
+      "restore-button": "Käufe wiederherstellen"
     },
     "app-outdated": {
       "text": "Aktualisieren der App erforderlich um fortzufahren."
@@ -335,39 +335,39 @@
     "kodi-remote-control": {
       "title": "Kodi Fernbedienung",
       "host": "Host",
-      "noHost.message": "No hosts have been added yet.",
+      "noHost.message": "Bisher wurde kein Host hinzugefügt.",
       "noHost.add": "Hinzufügen",
-      "hostUnreachable": "Host {{hostName}} is unreachable.",
-      "tryReconnect": "Try to reconnect",
+      "hostUnreachable": "Host {{hostName}} kann nicht erreicht werden.",
+      "tryReconnect": "Versuch der Neuverbindung",
       "configure": "Konfigurieren"
     },
     "list-picker": {
-      "title": "Pick a list",
-      "search": "Search a list",
+      "title": "Wählen Sie eine Liste aus",
+      "search": "Suchen Sie eine List",
       "sort": {
-        "label": "Sort by",
+        "label": "Sortieren nach",
         "options": {
-          "default": "Default",
-          "rank": "Rank",
-          "recentlyAdded": "Recently Added",
-          "releasedDate": "Release Date",
-          "recentlyWatched": "Recently Watched",
-          "recentlyAired": "Recently Aired"
+          "default": "Standard",
+          "rank": "Rang",
+          "recentlyAdded": "Kürzlich hinzugefügt",
+          "releasedDate": "Veröffentlichungsdatum",
+          "recentlyWatched": "Kürzlich angesehen",
+          "recentlyAired": "Kürzlich gesendet"
         }
       },
-      "myLists": "My Lists",
-      "myLikedLists": "My Liked Lists",
-      "trendingLists": "Trending Lists",
-      "popularLists": "Popular Lists",
-      "likes": "likes",
-      "by": "by"
+      "myLists": "Meine Listen",
+      "myLikedLists": "Meine Favoritenlisten",
+      "trendingLists": "Trends",
+      "popularLists": "Beliebte Listen",
+      "likes": "Likes",
+      "by": "von"
     },
     "install-addons": {
-      "title": "You don't have any add-ons installed",
-      "button": "Let's install some"
+      "title": "Es wurden keine Addons installiert",
+      "button": "Lassen Sie uns welche installieren"
     },
     "signIn": {
-      "explain": "You can browse information without connecting wako to your Trakt/SIMKL account, however you will need to connect wako to your Trakt/SIMKL account to sync and update your watch history, watch list, etc. Using your Trakt/SIMKL account means that all your history is available on all your devices with Trakt/SIMKL access, including available on Trakt.tv/SIMKL.com on the web."
+      "explain": "Sie können die Informationen durchsuchen ohne wako mit Ihrem Trakt/SIMKL-Konto zu verbinden, aber Sie müssen wako mit Ihrem Trakt/SIMKL-Konto verbinden um Ihren Beobachtungsverlauf, Ihre Beobachtungsliste usw. zu synchronisieren und zu aktualisieren. Der Verlauf ist auf allen Ihren Geräten mit Trakt/SIMKL-Zugriff verfügbar, einschließlich Trakt.tv/SIMKL.com im Web."
     }
   },
   "pop-over": {
@@ -385,69 +385,69 @@
     }
   },
   "shared": {
-    "noResult": "No result",
-    "filtersApplied": "Filters have been applied",
-    "cancel": "Cancel",
+    "noResult": "Kein Ergebnis",
+    "filtersApplied": "Es wurden Filter angewandt",
+    "cancel": "Abbrechen",
     "sign-in": {
-      "or": "or",
-      "trakt-button": "Connect wako to your Trakt account",
-      "simkl-button": "Connect wako to your SIMKL account"
+      "or": "oder",
+      "trakt-button": "wako mit Ihrem Trakt Konto verbinden",
+      "simkl-button": "wako mit Ihrem SIMKL Konto verbinden"
     },
     "misc": {
-      "aired": "Aired",
-      "airs": "Airs"
+      "aired": "Ausgestrahlt",
+      "airs": "Wird ausgestrahlt"
     },
-    "pasteMediaTitle": "Paste Video Title",
+    "pasteMediaTitle": "Videotitel einfügen",
     "install-addons": {
-      "text1": "Do you know you can install add-ons inside wako?",
-      "text2": "By installing add-ons you will add new feature to wako that fit your needs"
+      "text1": "Wussten Sie dass Sie Addons in wako installieren können?",
+      "text2": "Durch die Installation von Addons fügen Sie wako weitere, von Ihnen benötigte Funktionen hinzu"
     },
     "contribution": {
-      "remove-ads": "Contribute to wako to remove all ads",
-      "trial-expires-soon": "Your trial period will expire in {{days}} day(s), you won't be able to use this feature anymore unless you contribute",
-      "need-contribute-button": "Contribute to wako"
+      "remove-ads": "Tragen Sie zu wako bei um alle Anzeigen zu entfernen",
+      "trial-expires-soon": "Ihre Testphase endet in {{days}} day(s), ohne Beitrag werden Sie dieses Feature nicht mehr nutzen können",
+      "need-contribute-button": "Etwas beitragen"
     },
     "calendar-pipe": {
-      "yesterday": "Yesterday",
-      "today": "Today",
-      "tomorrow": "Tomorrow",
-      "days-ago": "{{days}} days ago",
-      "in-days": "in {{days}} days"
+      "yesterday": "Gestern",
+      "today": "Heute",
+      "tomorrow": "Morgen",
+      "days-ago": "Vor {{days}} Tagen",
+      "in-days": "In {{days}} Tagen"
     },
-    "onlyPremium": "This feature is only available for Premium users"
+    "onlyPremium": "Diese Funktion steht ausschließlich Premium-Nutzern zur Verfügung"
   },
   "toasts": {
     "movie": {
-      "markAsWatched": "Marked {{movieTitle}} as watched on {{trackers}}",
-      "markAsUnwatched": "Marked {{movieTitle}} as unwatched on {{trackers}}",
-      "addedToWatchlist": "Added {{movieTitle}} to your Watch List on {{trackers}}",
-      "removedFromWatchlist": "Removed {{movieTitle}} from your Watch List on {{trackers}}",
-      "addedToCollection": "Added {{movieTitle}} to your Collection on {{trackers}}",
-      "removedFromCollection": "Removed {{movieTitle}} from your Collection on {{trackers}}",
-      "addedToUserList": "Added {{movieTitle}} to your list on {{trackers}}",
-      "removedFromUserList": "Removed {{movieTitle}} from your list on {{trackers}}",
-      "noRandomMovieFound": "No movie found for genres: {{genreList}}",
-      "notFoundOnTrakt": "Movie not found on trakt"
+      "markAsWatched": "{{movieTitle}} auf {{trackers}} als gesehen markiert",
+      "markAsUnwatched": "{{movieTitle}} auf{{trackers}} als ungesehen markiert",
+      "addedToWatchlist": "{{movieTitle}} auf {{trackers}} zu Ihrer Watchlist hinzugefügt",
+      "removedFromWatchlist": "{{movieTitle}} auf {{trackers}} aus Ihrer Watchlist entfernt",
+      "addedToCollection": "{{movieTitle}} auf {{trackers}} zu Ihrer Sammlung hinzugefügt",
+      "removedFromCollection": "{{movieTitle}} auf {{trackers}} aus Ihrer Sammlung entfernt",
+      "addedToUserList": "{{movieTitle}} auf {{trackers}} zu Ihrer Liste hinzugefügt",
+      "removedFromUserList": "{{movieTitle}} auf {{trackers}} aus Ihrer Liste entfernt",
+      "noRandomMovieFound": "Kein Film im Genre {{genreList}} gefunden",
+      "notFoundOnTrakt": "Film nicht auf trakt gefunden"
     },
     "show": {
-      "addedToWatchlist": "Added {{showTitle}} to your Watch List on {{trackers}}",
-      "removedFromWatchlist": "Removed {{showTitle}} from your Watch List on {{trackers}}",
-      "addedToCollection": "Added {{showTitle}} to your Collection on {{trackers}}",
-      "removedFromCollection": "Removed {{showTitle}} from your Collection on {{trackers}}",
-      "addedToUserList": "Added {{showTitle}} to your list on {{trackers}}",
-      "removedFromUserList": "Removed {{showTitle}} from your list on {{trackers}}",
-      "notFoundOnTrakt": "Show not found on trakt"
+      "addedToWatchlist": "{{showTitle}} auf {{trackers}} zu Ihrer Watchlist hinzugefügt",
+      "removedFromWatchlist": "{{showTitle}} auf {{trackers}} von Ihrer Watchlist entfernt",
+      "addedToCollection": "{{showTitle}} auf {{trackers}} zu Ihrer Sammlung hinzugefügt",
+      "removedFromCollection": "{{showTitle}} auf {{trackers}} von Ihrer Sammlung entfernt",
+      "addedToUserList": "{{showTitle}} auf {{trackers}} zu Ihrer Liste hinzugefügt",
+      "removedFromUserList": "{{showTitle}} auf {{trackers}} von Ihrer Liste entfernt",
+      "notFoundOnTrakt": "Serie nicht auf trakt gefunden"
     },
     "season": {
-      "markAsWatched": "Marked {{showTitle}} season {{seasonNumber}} as watched on {{trackers}}",
-      "markAsUnwatched": "Marked {{showTitle}} season {{seasonNumber}} as unwatched on {{trackers}}"
+      "markAsWatched": "{{showTitle}} Staffel {{seasonNumber}} auf {{trackers}} als gesehen markiert",
+      "markAsUnwatched": "{{showTitle}} Staffel {{seasonNumber}} auf {{trackers}} als ungesehen markiert"
     },
     "episode": {
-      "markAsWatched": "Marked {{showTitle}} {{episodeCode}} as watched on {{trackers}}",
-      "markAsUnwatched": "Marked {{showTitle}} {{episodeCode}} as unwatched on {{trackers}}"
+      "markAsWatched": "{{showTitle}} {{episodeCode}} auf {{trackers}} als gesehen markiert",
+      "markAsUnwatched": "{{showTitle}} {{episodeCode}} auf {{trackers}} als ungesehen markiert"
     },
     "kodi-remote-control": {
-      "warningWebsocket": "Warning - you are not connected to kodi through websocket service. You need to activate in Kodi this option:\nAllow remote control from applications on others systems\n\nGo to https://wako.app/kodi-remote-control for more information"
+      "warningWebsocket": "Warnung - Sie sind nicht über den Websocket-Dienst mit Kodi verbunden. Sie müssen in Kodi diese Option aktivieren:\nFernsteuerung von Anwendungen auf anderen Systemen zulassen\n\nWeitere Informationen finden Sie unter https://wako.app/kodi-remote-control"
     },
     "app": {
       "traktApiIssue1": "Trakt API - Failed to load resource, please try again later (error code {{errorStatus}})",

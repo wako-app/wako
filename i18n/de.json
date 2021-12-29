@@ -8,7 +8,7 @@
         "watchDemo": "Demo ansehen"
       },
       "slide2": {
-        "text1": "Verfolgen von Serien und Filmen",
+        "text1": "Nachhalten von Serien und Filmen",
         "text2": "Benachrichtigung bei neuen Episoden",
         "text3.1": "Steuerung von Medienabspielern",
         "text3.2": "mit der eingebauten Fernbedienung",
@@ -472,7 +472,7 @@
       "noHost": "Kein Kodi Host festgelegt"
     },
     "ads": {
-      "block": "Es sieht so aus als würden Sie einen Werbeblocker einsetzen. Einige Teile von wako sind nur für Premium-Nutzer zukänglich (Einstellungen -> Beitragen) oder durch das Ansehen einer Anzeige"
+      "block": "Es sieht so aus als würden Sie einen Werbeblocker einsetzen. Einige Teile von wako sind nur für Premium-Nutzer zukänglich (Einstellungen > Beitragen) oder durch das Ansehen einer Anzeige"
     },
     "trailer": {
       "noTrailer": "Kein Trailer gefunden"

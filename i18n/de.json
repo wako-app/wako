@@ -8,15 +8,15 @@
         "watchDemo": "Demo ansehen"
       },
       "slide2": {
-        "text1": "Tracking von Serien und Filmen",
+        "text1": "Verfolgen von Serien und Filmen",
         "text2": "Benachrichtigung bei neuen Episoden",
         "text3.1": "Steuerung von Medienabspielern",
         "text3.2": "mit der eingebauten Fernbedienung",
         "text4": "Und viele weitere Features"
       },
       "slide3": {
-        "title": "Was ist Trakt.tv?",
-        "text": "Trakt ist eine Plattform, die viele Dinge tut, aber in erster Linie Serien und Filme verfolgt, die Sie sehen. Sie lässt sich in Medienzentren (wie Kodi) integrieren, um das Scrobbeln zu ermöglichen, sodass alles automatisch abläuft. Entdecken Sie neue Shows und Filme, folgen Sie Leuten mit ähnlichem Geschmack und sagen Sie Ihre Meinung, indem Sie die Website Trakt.tv nutzen"
+        "title": "Was ist Trakt?",
+        "text": "Trakt ist eine Plattform, die viele Dinge tut, aber in erster Linie Serien und Filme verfolgt, die Sie sehen. Sie lässt sich in Medienzentren (wie Kodi) integrieren, um das Scrobbeln zu ermöglichen, sodass alles automatisch abläuft. Entdecken Sie neue Shows und Filme, folgen Sie Leuten mit ähnlichem Geschmack und sagen Sie Ihre Meinung, indem Sie die Website trakt.tv nutzen"
       },
       "slide4": {
         "title": "Was ist Kodi?",
@@ -169,13 +169,13 @@
           "totalWatchedEpisodesAnime": "Gesamtzahl angesehenener Episoden (Animes)",
           "apiStatus": "Trakt API Status",
           "logout": "Abmelden",
-          "signIn": "wako mit Trakt-Konto verbinden",
+          "signIn": "wako mit Trakt Benutzerkonto verbinden",
           "markMovieAsWatchedAuto": "Filme automatisch als gesehen markieren",
           "markEpisodeAsWatchedAuto": "Episoden automatisch als gesehen markieren",
           "markAsWatchedAutoProgress": "Prozentsatz um das Video als gesehen zu markieren"
         },
         "simkl": {
-          "signIn": "wako mit Simkl-Konto verknüpfen"
+          "signIn": "wako mit Simkl Benutzerkonto verbinden"
         },
         "tracker": {
           "header": "Tracker",
@@ -367,7 +367,7 @@
       "button": "Lassen Sie uns welche installieren"
     },
     "signIn": {
-      "explain": "Sie können die Informationen durchsuchen ohne wako mit Ihrem Trakt/SIMKL-Konto zu verbinden, aber Sie müssen wako mit Ihrem Trakt/SIMKL-Konto verbinden um Ihren Beobachtungsverlauf, Ihre Beobachtungsliste usw. zu synchronisieren und zu aktualisieren. Der Verlauf ist auf allen Ihren Geräten mit Trakt/SIMKL-Zugriff verfügbar, einschließlich Trakt.tv/SIMKL.com im Web."
+      "explain": "Sie können die Informationen durchsuchen ohne wako mit Ihrem Trakt/Simkl-Konto zu verbinden, aber Sie müssen wako mit Ihrem Trakt/Simkl-Konto verbinden um Ihren Beobachtungsverlauf, Ihre Beobachtungsliste usw. zu synchronisieren und zu aktualisieren. Der Verlauf ist auf allen Ihren Geräten mit Trakt/Simkl-Zugriff verfügbar, einschließlich trakt.tv/simkl.com im Web."
     }
   },
   "pop-over": {
@@ -390,8 +390,8 @@
     "cancel": "Abbrechen",
     "sign-in": {
       "or": "oder",
-      "trakt-button": "wako mit Ihrem Trakt Konto verbinden",
-      "simkl-button": "wako mit Ihrem SIMKL Konto verbinden"
+      "trakt-button": "wako mit Ihrem Trakt Benutzerkonto verbinden",
+      "simkl-button": "wako mit Ihrem Simkl Benutzerkonto verbinden"
     },
     "misc": {
       "aired": "Ausgestrahlt",
@@ -427,7 +427,7 @@
       "addedToUserList": "{{movieTitle}} auf {{trackers}} zu Ihrer Liste hinzugefügt",
       "removedFromUserList": "{{movieTitle}} auf {{trackers}} aus Ihrer Liste entfernt",
       "noRandomMovieFound": "Kein Film im Genre {{genreList}} gefunden",
-      "notFoundOnTrakt": "Film nicht auf trakt gefunden"
+      "notFoundOnTrakt": "Film nicht auf Trakt gefunden"
     },
     "show": {
       "addedToWatchlist": "{{showTitle}} auf {{trackers}} zu Ihrer Watchlist hinzugefügt",
@@ -436,7 +436,7 @@
       "removedFromCollection": "{{showTitle}} auf {{trackers}} von Ihrer Sammlung entfernt",
       "addedToUserList": "{{showTitle}} auf {{trackers}} zu Ihrer Liste hinzugefügt",
       "removedFromUserList": "{{showTitle}} auf {{trackers}} von Ihrer Liste entfernt",
-      "notFoundOnTrakt": "Serie nicht auf trakt gefunden"
+      "notFoundOnTrakt": "Serie nicht auf Trakt gefunden"
     },
     "season": {
       "markAsWatched": "{{showTitle}} Staffel {{seasonNumber}} auf {{trackers}} als gesehen markiert",
@@ -453,7 +453,7 @@
       "traktApiIssue1": "Trakt API - Diese Ressource konnte nicht geladen werden, bitte versuchen Sie es später erneut (Fehlercode {{errorStatus}})",
       "traktApiServerOverloaded": "Trakt API - Server ist überlastet. Bitte versuchen Sie es in 30s erneut",
       "traktNotConnectedAnyMore": "Trakt API - Sie sind nicht mehr mit Trakt verbunbden, bitte verbinden Sie sich erneut",
-      "simklNotConnectedAnyMore": "Simkl API - Sie sind nicht mehr mit SIMKL verbubnden, bitte verbinden Sie sich erneut",
+      "simklNotConnectedAnyMore": "Simkl API - Sie sind nicht mehr mit Simkl verbubnden, bitte verbinden Sie sich erneut",
       "simklApiServerOverloaded": "Simkl API - Server ist überlastet. Bitte versuchen Sie es in 30s erneut",
       "newVersionAvailable": "Eine neue Version von wako ist im App Store erhältlich",
       "updateInstalled": "wako wurde aktualisiert. Bitte starten Sie die App neu",

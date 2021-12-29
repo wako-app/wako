@@ -363,7 +363,7 @@
       "by": "von"
     },
     "install-addons": {
-      "title": "Es wurden keine Addons installiert",
+      "title": "Es wurden keine Erweiterungen installiert",
       "button": "Lassen Sie uns welche installieren"
     },
     "signIn": {
@@ -399,8 +399,8 @@
     },
     "pasteMediaTitle": "Videotitel einfügen",
     "install-addons": {
-      "text1": "Wussten Sie dass Sie Addons in wako installieren können?",
-      "text2": "Durch die Installation von Addons fügen Sie wako weitere, von Ihnen benötigte Funktionen hinzu"
+      "text1": "Wussten Sie dass Sie Erweiterungen in wako installieren können?",
+      "text2": "Durch die Installation von Erweiterungen fügen Sie wako weitere, von Ihnen benötigte Funktionen hinzu"
     },
     "contribution": {
       "remove-ads": "Tragen Sie zu wako bei um alle Anzeigen zu entfernen",
@@ -450,101 +450,101 @@
       "warningWebsocket": "Warnung - Sie sind nicht über den Websocket-Dienst mit Kodi verbunden. Sie müssen in Kodi diese Option aktivieren:\nFernsteuerung von Anwendungen auf anderen Systemen zulassen\n\nWeitere Informationen finden Sie unter https://wako.app/kodi-remote-control"
     },
     "app": {
-      "traktApiIssue1": "Trakt API - Failed to load resource, please try again later (error code {{errorStatus}})",
-      "traktApiServerOverloaded": "Trakt API - Server is overloaded. Please try again in 30s",
-      "traktNotConnectedAnyMore": "Trakt API - You're not connected to Trakt anymore, please reconnect",
-      "simklNotConnectedAnyMore": "Simkl API - You're not connected to SIMKL anymore, please reconnect",
-      "simklApiServerOverloaded": "Simkl API - Server is overloaded. Please try again in 30s",
-      "newVersionAvailable": "A new version of wako is available on the store",
-      "updateInstalled": "wako has been updated. Restart the app to enjoy update",
-      "noConnection": "Please check your internet connection"
+      "traktApiIssue1": "Trakt API - Diese Ressource konnte nicht geladen werden, bitte versuchen Sie es später erneut (Fehlercode {{errorStatus}})",
+      "traktApiServerOverloaded": "Trakt API - Server ist überlastet. Bitte versuchen Sie es in 30s erneut",
+      "traktNotConnectedAnyMore": "Trakt API - Sie sind nicht mehr mit Trakt verbunbden, bitte verbinden Sie sich erneut",
+      "simklNotConnectedAnyMore": "Simkl API - Sie sind nicht mehr mit SIMKL verbubnden, bitte verbinden Sie sich erneut",
+      "simklApiServerOverloaded": "Simkl API - Server ist überlastet. Bitte versuchen Sie es in 30s erneut",
+      "newVersionAvailable": "Eine neue Version von wako ist im App Store erhältlich",
+      "updateInstalled": "wako wurde aktualisiert. Bitte starten Sie die App neu",
+      "noConnection": "Bitte überprüfen Sie Ihre Internetverbindung"
     },
     "settings": {
-      "cacheCleared": "Cache cleared"
+      "cacheCleared": "Zwischenspeicher geleert"
     },
     "addons": {
-      "updated": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako needs to be restarted.",
-      "updatedWithRestart": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako is going to restart.",
-      "upToDate": "Add-ons are up to date"
+      "updated": "Diese Erweiterungen wurden aktualisiert:<br>{{updatedAddons}}<br><br>wako muss neu gestartet werden.",
+      "updatedWithRestart": "Diese Erweiterungen wurden aktualisiert:<br>{{updatedAddons}}<br><br>wako startet neu.",
+      "upToDate": "Erweiterungen sind aktuell"
     },
     "kodi": {
-      "hostUnreachable": "Your kodi host {{hostName}} is unreachable, please check your connection",
-      "noHost": "No host set for kodi"
+      "hostUnreachable": "Ihr kodi Host {{hostName}} ist nicht erreichbar, bitte überprüfen Sie die Verbindung",
+      "noHost": "Kein Kodi Host festgelegt"
     },
     "ads": {
-      "block": "Ouch, looks like you got a publicity blocker. Some parts of wako are only accessible to premium users (wako > settings > contribute) or by watching an ad"
+      "block": "Es sieht so aus als würden Sie einen Werbeblocker einsetzen. Einige Teile von wako sind nur für Premium-Nutzer zukänglich (Einstellungen -> Beitragen) oder durch das Ansehen einer Anzeige"
     },
     "trailer": {
-      "noTrailer": "No trailer found"
+      "noTrailer": "Kein Trailer gefunden"
     },
-    "premium-only": "This is feature is only for premium users",
-    "no-settings-saved": "Unfortunately, you do not have any settings saved online yet.",
-    "contribution-added": "Thanks for your contribution. You are now a Premium user. wako is going to restart",
-    "backup-deleted": "Your backup has been deleted",
-    "exit-app": "Press back again to quit",
-    "playlist-add": "Added to your playlist"
+    "premium-only": "Diese Funktion ist Premium-Nutzern vorbehalten",
+    "no-settings-saved": "Leider haben Sie noch keine Einstellungen online gespeichert.",
+    "contribution-added": "Danke für Ihren Beitrag, Sie sind jetzt ein Premium-Nutzer. wako wird neu gestartet",
+    "backup-deleted": "Ihre Sicherung wurde gelöscht",
+    "exit-app": "Drücken Sie zum Beenden erneut auf zurück",
+    "playlist-add": "Zu Ihrer Wiedergabeliste hinzugefügt"
   },
   "alerts": {
     "okButton": "Ok",
-    "cancelButton": "Cancel",
+    "cancelButton": "Abbrechen",
     "app-contribution": {
-      "thanksMessage": "Thanks for contributing to wako."
+      "thanksMessage": "Vielen Dank für Ihren Beitrag zu wako."
     },
     "movie": {
       "random": {
-        "header": "Get a random movie for genres:"
+        "header": "Holen Sie sich einen zufälligen Film für die Genre:"
       }
     },
     "addons": {
-      "customManifestUrl": "Third-party add-on URL",
-      "enterManifestUrl": "Enter the manifest URL"
+      "customManifestUrl": "URL für Erweiterungen von Drittanbietern",
+      "enterManifestUrl": "Geben Sie die URL des Manifests ein"
     },
     "show": {
-      "remove": "Remove this show?",
-      "hidden-add": "Hide this show?",
-      "hidden-remove": "Restore this show?"
+      "remove": "Serie entfernen?",
+      "hidden-add": "Serie verstecken?",
+      "hidden-remove": "Serie wiederherstellen?"
     },
     "kodi": {
-      "openUrl": "Open URL"
+      "openUrl": "URL öffnen"
     },
     "restore-settings": {
-      "restore-header": "Restore settings",
-      "restore-date": "Do you want to restore your settings saved on {{date}}?"
+      "restore-header": "Einstellungen wiederherstellen",
+      "restore-date": "Möchten Sie Ihre am {{date}} gespeicherten Einstellungen wiederherstellen?"
     },
     "delete-backup": {
-      "header": "Delete backup",
-      "restore-date": "Do you want to delete your backup saved on {{date}}?"
+      "header": "Sicherung löschen",
+      "restore-date": "Möchten Sie Ihre am {{date}} gespeicherte Sicherung löschen?"
     },
     "clear-resume": {
-      "message": "Delete all items?"
+      "message": "Alle Elemente löschen?"
     }
   },
   "notifications": {
     "shows": {
-      "newEpisode": "New Episode: {{showTitle}} {{episodeCode}}"
+      "newEpisode": "Neue Episode: {{showTitle}} {{episodeCode}}"
     }
   },
   "actionSheets": {
-    "addToWatchList": "Add to your Watch List",
-    "removeFromWatchList": "Remove from your Watch List",
-    "addToCollection": "Add to your Collection",
-    "removeFromCollection": "Remove from your Collection",
-    "addToList": "Add to {{listName}}",
-    "removeFromList": "Remove from {{listName}}",
+    "addToWatchList": "Zu Ihrer Beobachtungsliste hinzufügen",
+    "removeFromWatchList": "Von Ihrer Beobachtungsliste entfernen",
+    "addToCollection": "Zu Ihrer Sammlung hinzufügen",
+    "removeFromCollection": "Von Ihrer Sammlung entfernen",
+    "addToList": "Zu {{listName}} hinzufügen",
+    "removeFromList": "Von {{listName}} entfernen",
     "file-action": {
-      "openTitle": "Open with",
+      "openTitle": "Öffnen mit",
       "actions": {
         "play-kodi": "Kodi",
         "play-browser": "Browser",
-        "copy-url": "Copy URL",
+        "copy-url": "URL kopieren",
         "play-vlc": "VLC",
-        "download-vlc": "Download with VLC",
-        "share-url": "Share",
-        "open-with": "Other App",
+        "download-vlc": "Mit VLC runterladen",
+        "share-url": "Teilen",
+        "open-with": "Andere App",
         "play-nplayer": "NPlayer",
         "play-infuse": "Infuse",
         "cast": "Cast",
-        "add-to-playlist": "Add to your playlist"
+        "add-to-playlist": "Zu Ihrer Wiedergabeliste hinzufügen"
       }
     }
   }

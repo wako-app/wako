@@ -1,0 +1,551 @@
+{
+  "pages": {
+    "intro": {
+      "title": "Einleitung",
+      "skip": "ÜBERSPRINGEN",
+      "slide1": {
+        "title": "Willkommen bei wako",
+        "watchDemo": "Demo ansehen"
+      },
+      "slide2": {
+        "text1": "Nachhalten von Serien und Filmen",
+        "text2": "Benachrichtigung bei neuen Episoden",
+        "text3.1": "Steuerung von Medienabspielern",
+        "text3.2": "mit der eingebauten Fernbedienung",
+        "text4": "Und viele weitere Features"
+      },
+      "slide3": {
+        "title": "Was ist Trakt?",
+        "text": "Trakt ist eine Plattform, die viele Dinge tut, aber in erster Linie Serien und Filme verfolgt, die Sie sehen. Sie lässt sich in Medienzentren (wie Kodi) integrieren, um das Scrobbeln zu ermöglichen, sodass alles automatisch abläuft. Entdecken Sie neue Shows und Filme, folgen Sie Leuten mit ähnlichem Geschmack und sagen Sie Ihre Meinung, indem Sie die Website trakt.tv nutzen"
+      },
+      "slide4": {
+        "title": "Was ist Kodi?",
+        "text1.1": "Kodi ist ein kostenloses Open-Source-Mediencenter zum Abspielen von Videos, Musik, Bildern, Spielen und mehr. Kodi läuft unter Linux, OS&nbsp;X, Windows, iOS und Android.",
+        "text1.2": "Erfahren Sie mehr und installieren Sie es von der Kodi-Website."
+      },
+      "slide5": {
+        "text": "Achten Sie auf die nächsten Folgen, die Sie sich ansehen sollten"
+      },
+      "slide-addon": {
+        "text2": "Gehe zu Einstellungen > Erweiterungen um Erweiterungen zu verwalten"
+      },
+      "slide7": {
+        "text": "Fernbedienung"
+      },
+      "slide8": {
+        "title": "Bereit?",
+        "button": "Weiter"
+      }
+    },
+    "home": {
+      "hi": "Hallo",
+      "upNextToWatch": "Als nächstes anzusehen",
+      "retry": "Wiederholen",
+      "upToDate": "Hier gibt es gerade nichts zu sehen.",
+      "nothingToResume": "Hier gibt es gerade nichts fortzusetzen.",
+      "segment": {
+        "upNext": "Als nächstes",
+        "resume": "Fortsetzen",
+        "calendar": "Kalender"
+      }
+    },
+    "login": {
+      "message": "Bei Trakt einloggen oder anmelden um Ihre Filme/Serien zu sehen"
+    },
+    "media": {
+      "shared": {
+        "detail": {
+          "imdbRating": "IMDb Bewertung:",
+          "viewOnIMDb": "Auf IMDb ansehen",
+          "overview": "Zusammenfassung",
+          "cast": "Besetzung",
+          "fullCast": "Komplette Besetzung & Crew",
+          "network": "Netzwerk/Sender",
+          "related": "Mehr",
+          "release": "Veröffentlichung",
+          "runtime": "Länge",
+          "status": "Status",
+          "certification": "Alterseinstufung",
+          "originalTitle": "Originaltitel",
+          "originalLanguage": "Originalsprache",
+          "type": "Typ",
+          "episodes": "Episoden",
+          "alternativeTitle": "Alternative Titel",
+          "rating": "Bewertung",
+          "genres": "Genres"
+        },
+        "search-list": {
+          "explore": "Entdecken",
+          "list": "Liste",
+          "toWatch": "Ansehen",
+          "watched": "Gesehen",
+          "by": "von",
+          "mostDailyPlayed": "am meisten täglich gespielt",
+          "trending": "Angesagt",
+          "popular": "Beliebt",
+          "collection": "Sammlungen",
+          "recommendations": "Empfehlungen",
+          "watch-list": "Watchlist",
+          "history": "Verlauf",
+          "progress": "Fortschritt",
+          "completed": "Vollendet",
+          "on-hold": "Pausiert"
+        },
+        "pop-over": {
+          "explore": "Entdecken",
+          "hideWatched": "Gesehene ausblenden",
+          "pickList": "Liste auswählen",
+          "filters": "Filter"
+        }
+      }
+    },
+    "movie": {
+      "search-list": {
+        "search": "Film suchen"
+      },
+      "filter": {
+        "title": "Filter",
+        "rating": "Bewertung",
+        "genre": "Genre",
+        "certification": "Alterseinstufung",
+        "year": "Jahr",
+        "apply": "Anwenden",
+        "reset": "Zurücksetzen"
+      },
+      "not-on-tracking-platform": "Dieser Film ist auf Ihrer Tracking-Plattform nicht vorhanden"
+    },
+    "show": {
+      "search-list": {
+        "search": "Serie suchen",
+        "search-anime": "Anime suchen",
+        "myTvShows": "Meine Serien",
+        "myAnime": "Meine Animes"
+      },
+      "show-detail": {
+        "seasons": "Staffeln"
+      },
+      "episode-detail": {
+        "viewShow": "Serie ansehen"
+      }
+    },
+    "settings": {
+      "title": "Einstellungen",
+      "list": {
+        "contribution": {
+          "header": "Beitrag",
+          "item": "Beitragen"
+        },
+        "kodi": {
+          "item": "Konfiguration"
+        },
+        "addons": {
+          "header": "Erweiterungen",
+          "item": "Installation/Konfiguration von Erweiterungen"
+        },
+        "movies": {
+          "header": "Filme",
+          "which-provider": "Auswahl des Suchanbieters",
+          "default": "Standard"
+        },
+        "filer": {
+          "header": "Dateimanager",
+          "item": "Konfiguration",
+          "hideTab": "Reiter Dateimanager ausblenden"
+        },
+        "notification": {
+          "header": "Benachrichtigungen",
+          "notificationNotGranted": "Benachrichtigungen für wako sind derzeit deaktiviert. Zum Erhalten von Benachrichtigungen aktivieren Sie diese bitte in den Einstellungen der App",
+          "itemEnableTvShows": "Serien-Benachrichtigungen aktivieren",
+          "itemOnlyNewEpisodeOnUpToDateShows": "Bei neuen ausgestrahlten Folgen nur benachrichtigen wenn ich auf dem Laufenden bin"
+        },
+        "music-controls": {
+          "header": "Benachrichtigung zur Musiksteuerung",
+          "enabled": "Aktivieren",
+          "swipeToClose": "Zum Schließen wischen"
+        },
+        "trakt": {
+          "totalWatchedMovies": "Gesamtzahl angesehener Filme",
+          "totalWatchedEpisodes": "Gesamtzahl angesehenener Episonden",
+          "totalWatchedEpisodesAnime": "Gesamtzahl angesehenener Episoden (Animes)",
+          "apiStatus": "Trakt API Status",
+          "logout": "Abmelden",
+          "signIn": "wako mit Trakt Benutzerkonto verbinden",
+          "markMovieAsWatchedAuto": "Filme automatisch als gesehen markieren",
+          "markEpisodeAsWatchedAuto": "Episoden automatisch als gesehen markieren",
+          "markAsWatchedAutoProgress": "Prozentsatz um das Video als gesehen zu markieren"
+        },
+        "simkl": {
+          "signIn": "wako mit Simkl Benutzerkonto verbinden"
+        },
+        "tracker": {
+          "header": "Tracker",
+          "movie": "Tracker Filme",
+          "show": "Tracker Serien",
+          "not-recommended-warning": "Bitte beachten Sie, dass die Verwendung von Trakt + Simkl in derselben Kategorie nicht empfohlen wird und Fehler verursachen kann."
+        },
+        "application": {
+          "header": "Anwendung",
+          "darkMode": "Dunkler Modus",
+          "lang": "Sprache",
+          "review": "App bewerten",
+          "share": "App empfehlen",
+          "documentation": "Dokumentation",
+          "joinDiscord": "Auf Discord beitreten",
+          "joinTelegram": "Auf Telegram beitreten",
+          "support": "Unterstützung",
+          "clearCache": "Zwischenspeicher leeren",
+          "privacyPolicy": "Datenschutzbestimmungen",
+          "termsConditions": "Nutzungsbestimmungen",
+          "appVersion": "App Version"
+        },
+        "backup": {
+          "header": "Datensicherung",
+          "enable-restore-settings": "Sicherung aktivieren",
+          "enable-automatic-backup": "Automatische Sicherung aktivieren",
+          "backup-settings": "Einstellungen Sicherung",
+          "restore-settings": "Einstellungen aus Sicherung wiederherstellen",
+          "delete": "Onlinesicherung löschen"
+        }
+      }
+    },
+    "kodi-detection": {
+      "title": "Kodi-Erkennung",
+      "skip": "Überspringen",
+      "cardContent": "Kodi-Hosts werden jetzt im Netzwerk gesucht.<br />Wählen Sie eins aus der Liste aus um es hinzuzufügen, oder drücken Sie die Schaltfläche \"ÜBERSPRINGEN\" um es manuell hinzuzufügen.",
+      "detectedHosts": "Gefundene Hosts",
+      "detectHostHelper": "Noch kein Host gefunden. Bitte beachten Sie dass die Erkennung einige Sekunden dauern kann und stellen Sie sicher dass Kodi gestartet ist.<br><em>Zur automatischen Erkennung wird Zeroconf genutzt. Falls kein Host erkannt wurde stellen Sie sicher dass Zeroconf in den Kodi-Einstellungen aktiviert ist: <b>Einstellungen > Dienste > Allgemein und dort \"Dienste für andere Systeme ankündigen\"</b> einschalten.</em>",
+      "troubleShooting": "Wenn Sie Probleme beim Verbinden von wako mit Kodi haben, lesen Sie bitte die Dokumentation <b>hier</b>."
+    },
+    "kodi-remote-list": {
+      "title": "Kodi-Hosts",
+      "savedHosts": "Gespeicherte Hosts",
+      "noHostsAdded": "Es wurden noch keine Hosts hinzugefüht.",
+      "defaultHost": "Standardhost",
+      "addHost": "HINZUFÜGEN",
+      "linkVolumeHardwareTitle": "Lautstärke",
+      "linkVolumeHardware": "Beim Abspielen die Lautstärketasten der Hardware mit der Lautstärke von Kodi verbinden"
+    },
+    "kodi-settings": {
+      "title": "Kodi Host konfiguration",
+      "form": {
+        "name": "Name",
+        "ip": "Hostname/IP Adresse",
+        "port": "Port",
+        "advanced": "Erweiterte Einstellungen",
+        "login": "Anmeldung (optional)",
+        "password": "Passwort (optional)",
+        "rpcPort": "JSON RPC Port (optional)",
+        "status": "Verbindungsstatus:",
+        "save": "Host speichern",
+        "delete": "Host löschen"
+      }
+    },
+    "addons": {
+      "title": "Erweiterungen",
+      "need-contribute": "Ihr Testzeitraum ist abgelaufen. Bitte leisten Sie einen Beitrag um diese Funktion zu nutzen",
+      "list-installed": {
+        "header": "Installierte Erweiterungen"
+      },
+      "list-available": {
+        "header": "Verfügbare Erweiterungen"
+      },
+      "list-unknown-sources": {
+        "header": "Einstellungen",
+        "item": "Unbekannte Quellen",
+        "third-party": "Erweiterung eines Drittanbieters hinzufügen",
+        "alert": "Erweiterungen von Drittanbietern erhalten Zugriff auf Ihre in wako gespeicherten Daten. Indem Sie dies zulassen erklären Sie sich damit einverstanden dass Sie allein für Datenverlust und unerwünschtes Verhalten Ihrer App verantwortlich sind. Bitte beachten Sie, dass Erweiterungen von Drittanbietern weder von wako entwickelt noch unterstützt werden und wako nicht für die Funktion dieser Erweiterungen verantwortlich gemacht werden kann."
+      }
+    },
+    "addon": {
+      "title": "Erweiterung {{addonName}}",
+      "detail": "Details Erweiterung",
+      "settings": "Einstellungen Erweiterung",
+      "changeLogs": "Changelog",
+      "install": "Installieren",
+      "uninstall": "Löschen",
+      "thirdParty": "Diese Erweiterung wurde nicht von wako erstellt. Die Verwendung von Erweiterungen von Drittanbietern unterliegt immer Ihrer Verantwortung und dem geltenden Recht der Gerichtsbarkeit, in der Sie sich befinden. wako kann nicht verantwortlich gemacht werden.",
+      "uninstall-confirm": {
+        "header": "Erweiterung löschen",
+        "message": "Sind Sie sicher?"
+      },
+      "install-confirm": {
+        "header": "Erweiterung installieren",
+        "message": "Sind Sie sicher?"
+      }
+    },
+    "addon-settings": {
+      "title": "Einstellungen Erweiterung"
+    },
+    "addon-detail": {
+      "title": "Details Erweiterung"
+    },
+    "movie-discover": {
+      "title": "Filme entdecken",
+      "select-filters": "Alle Filter sind optional",
+      "searching": "Suche läuft, kann einige Zeit dauern",
+      "continue": "Fortsetzen",
+      "next-movie": "Weiter",
+      "no-movie": "Keine weiteren Filme",
+      "restart": "Neustart",
+      "min-rating": "Minimum Bewertung",
+      "released-year": "Erscheinungsjahr"
+    },
+    "filer": {
+      "title": "Dateimanager",
+      "noCompatibleAddon": "Bisher keine kompatiblen Erweiterungen installiert"
+    },
+    "filer-settings": {
+      "title": "Konfiguration Dateimanager",
+      "video-type": {
+        "header": "Transkodierte Dateien",
+        "preferTranscoded": "Transkodierte Dateien bevorzugen",
+        "preferTranscodedFilesChromecast": "Transkodierte Dateien lediglich für Chromecast bevorzugen",
+        "explainTranscoded": "Einige Dienste erstellen transkodierte Dateien Ihrer Videos in einem Format zur Verfügung, welches mit fast jedem Player (einschließlich Chromecast, welcher nur wenige Videoformate unterstützt) kompatibel ist. Die Aktivierung der Einstellung wird bei Nutzung eines Chromecasts empfohlen. Beachten Sie, dass transcodierte Dateien möglicherweise keine Untertitel oder Audiospuren, welche in den Originaldateien vorhanden sind, enthalten können."
+      },
+      "actions": {
+        "header": "Sortieren/Aktivieren der Aktionen beim Öffnen"
+      }
+    }
+  },
+  "modals": {
+    "app-contribution": {
+      "title": "Beitrag",
+      "premium-user": "Herzlichen Glückwunsch, Sie sind Premiumnutzer.",
+      "explain1": "Wenn Ihnen wako gefällt können Sie die Entwicklung der App unterstützen indem Sie eines der beiden Abomodelle unten auswählen. Dadurch werden die Anzeigen in der App entfernt.<br>Alle Geräte die unter ein- und demselben Nutzer angemeldet sind, sind davon betroffen.",
+      "explainUsername": "Ihre wako-ID wird basierend auf Ihrer Trakt- oder Simkl-Kennung generiert. Ihr Beitrag ist mit Ihrer wako-ID verknüpft.<br>Wenn Sie von Trakt zu Simkl oder umgekehrt wechseln möchten bleiben Sie bitte mit dem bisherigen Dienst verbunden, um weiterhin den Status Premiumnutzer zu behalten.",
+      "explainTierText1": "\"Stufe\" lebenslange Freischaltung",
+      "explainTierText2": "Es gibt verschiedene Freischaltungen. Alle haben den gleichen Effekt, lediglich der Preis ist unterschiedlich. Sie entscheiden wieviel die Nutzung von wako Ihnen wert ist",
+      "trialExpired": "Ihre Testphase ist abgelaufen. Um die App weiter zu nutzen wählen Sie bitte eines der Produkte unten",
+      "iosTextSubscriptionMonthlyByProduct": "Ihr iTunes Konto wird nach Ihrer Bestätigung mit einem Einkauf über {{ productPrice }}/Monat belastet.",
+      "iosTextSubscriptionYearlyByProduct": "Ihr iTunes Konto wird nach Ihrer Bestätigung mit einem Einkauf über {{ productPrice }}/Jahr belastet.",
+      "iosTextSubscriptionGeneral": "Abonnements verlängern sich automatisch wenn sie nicht spätestens 24 Stunden vor Ende der Zahlungsperiode gekündigt werden. Die Kündigung kann zu jedem Zeitpunkt in Ihrem iTunes Konto erfolgen. Ungenutze Testzeiträume verfallen bei Abschluss eines Abonnements. Für weitergehende Informationen schauen Sie bitte in die AGB und unsere Datenschutz-Bestimmungen.",
+      "subscriptionHeader": "Abonnement mit automatischer Verlängerung",
+      "consumableHeader": "Lebenslager Beitrag",
+      "otherSubscriptionHeader": "Andere Beiträge",
+      "manualSubscription": "Manueller Beitrag",
+      "ads12hRemoval": "Befreien Sie sich für die nächsten 12 Stunden von Vollbildanzeigen indem Sie sich 2 Prämienanzeigen ansehen",
+      "ads6hRemoval": "Befreien Sie sich für die nächsten 6 Stunden von Vollbildanzeigen indem Sie sich 1 Prämienanzeigen ansehen",
+      "lifetime": "Lebenslager Beitrag",
+      "username-header": "Ihre wako Benutzerkennung",
+      "restore-button": "Käufe wiederherstellen"
+    },
+    "app-outdated": {
+      "text": "Aktualisieren der App erforderlich um fortzufahren."
+    },
+    "kodi-remote-control": {
+      "title": "Kodi Fernbedienung",
+      "host": "Host",
+      "noHost.message": "Bisher wurde kein Host hinzugefügt.",
+      "noHost.add": "Hinzufügen",
+      "hostUnreachable": "Host {{hostName}} kann nicht erreicht werden.",
+      "tryReconnect": "Versuch der Neuverbindung",
+      "configure": "Konfigurieren"
+    },
+    "list-picker": {
+      "title": "Wählen Sie eine Liste aus",
+      "search": "Suchen Sie eine List",
+      "sort": {
+        "label": "Sortieren nach",
+        "options": {
+          "default": "Standard",
+          "rank": "Rang",
+          "recentlyAdded": "Kürzlich hinzugefügt",
+          "releasedDate": "Veröffentlichungsdatum",
+          "recentlyWatched": "Kürzlich angesehen",
+          "recentlyAired": "Kürzlich gesendet"
+        }
+      },
+      "myLists": "Meine Listen",
+      "myLikedLists": "Meine Favoritenlisten",
+      "trendingLists": "Trends",
+      "popularLists": "Beliebte Listen",
+      "likes": "Likes",
+      "by": "von"
+    },
+    "install-addons": {
+      "title": "Es wurden keine Erweiterungen installiert",
+      "button": "Lassen Sie uns welche installieren"
+    },
+    "signIn": {
+      "explain": "Sie können die Informationen durchsuchen ohne wako mit Ihrem Trakt/Simkl-Konto zu verbinden, aber Sie müssen wako mit Ihrem Trakt/Simkl-Konto verbinden um Ihren Beobachtungsverlauf, Ihre Beobachtungsliste usw. zu synchronisieren und zu aktualisieren. Der Verlauf ist auf allen Ihren Geräten mit Trakt/Simkl-Zugriff verfügbar, einschließlich trakt.tv/simkl.com im Web."
+    }
+  },
+  "pop-over": {
+    "kodi-subtitles": {
+      "header": "Untertitel",
+      "enable": "Untertitel aktivieren",
+      "select": "Untertitel",
+      "download": "Download",
+      "offset": "Versatz",
+      "close": "Schließen"
+    },
+    "kodi-audio": {
+      "header": "Audio stream",
+      "select": "Audio"
+    }
+  },
+  "shared": {
+    "noResult": "Kein Ergebnis",
+    "filtersApplied": "Es wurden Filter angewandt",
+    "cancel": "Abbrechen",
+    "sign-in": {
+      "or": "oder",
+      "trakt-button": "wako mit Ihrem Trakt Benutzerkonto verbinden",
+      "simkl-button": "wako mit Ihrem Simkl Benutzerkonto verbinden"
+    },
+    "misc": {
+      "aired": "Ausgestrahlt",
+      "airs": "Wird ausgestrahlt"
+    },
+    "pasteMediaTitle": "Videotitel einfügen",
+    "install-addons": {
+      "text1": "Wussten Sie dass Sie Erweiterungen in wako installieren können?",
+      "text2": "Durch die Installation von Erweiterungen fügen Sie wako weitere, von Ihnen benötigte Funktionen hinzu"
+    },
+    "contribution": {
+      "remove-ads": "Tragen Sie zu wako bei um alle Anzeigen zu entfernen",
+      "trial-expires-soon": "Ihre Testphase endet in {{days}} day(s), ohne Beitrag werden Sie dieses Feature nicht mehr nutzen können",
+      "need-contribute-button": "Etwas beitragen"
+    },
+    "calendar-pipe": {
+      "yesterday": "Gestern",
+      "today": "Heute",
+      "tomorrow": "Morgen",
+      "days-ago": "Vor {{days}} Tagen",
+      "in-days": "In {{days}} Tagen"
+    },
+    "onlyPremium": "Diese Funktion steht ausschließlich Premium-Nutzern zur Verfügung"
+  },
+  "toasts": {
+    "movie": {
+      "markAsWatched": "{{movieTitle}} auf {{trackers}} als gesehen markiert",
+      "markAsUnwatched": "{{movieTitle}} auf{{trackers}} als ungesehen markiert",
+      "addedToWatchlist": "{{movieTitle}} auf {{trackers}} zu Ihrer Watchlist hinzugefügt",
+      "removedFromWatchlist": "{{movieTitle}} auf {{trackers}} aus Ihrer Watchlist entfernt",
+      "addedToCollection": "{{movieTitle}} auf {{trackers}} zu Ihrer Sammlung hinzugefügt",
+      "removedFromCollection": "{{movieTitle}} auf {{trackers}} aus Ihrer Sammlung entfernt",
+      "addedToUserList": "{{movieTitle}} auf {{trackers}} zu Ihrer Liste hinzugefügt",
+      "removedFromUserList": "{{movieTitle}} auf {{trackers}} aus Ihrer Liste entfernt",
+      "noRandomMovieFound": "Kein Film im Genre {{genreList}} gefunden",
+      "notFoundOnTrakt": "Film nicht auf Trakt gefunden"
+    },
+    "show": {
+      "addedToWatchlist": "{{showTitle}} auf {{trackers}} zu Ihrer Watchlist hinzugefügt",
+      "removedFromWatchlist": "{{showTitle}} auf {{trackers}} von Ihrer Watchlist entfernt",
+      "addedToCollection": "{{showTitle}} auf {{trackers}} zu Ihrer Sammlung hinzugefügt",
+      "removedFromCollection": "{{showTitle}} auf {{trackers}} von Ihrer Sammlung entfernt",
+      "addedToUserList": "{{showTitle}} auf {{trackers}} zu Ihrer Liste hinzugefügt",
+      "removedFromUserList": "{{showTitle}} auf {{trackers}} von Ihrer Liste entfernt",
+      "notFoundOnTrakt": "Serie nicht auf Trakt gefunden"
+    },
+    "season": {
+      "markAsWatched": "{{showTitle}} Staffel {{seasonNumber}} auf {{trackers}} als gesehen markiert",
+      "markAsUnwatched": "{{showTitle}} Staffel {{seasonNumber}} auf {{trackers}} als ungesehen markiert"
+    },
+    "episode": {
+      "markAsWatched": "{{showTitle}} {{episodeCode}} auf {{trackers}} als gesehen markiert",
+      "markAsUnwatched": "{{showTitle}} {{episodeCode}} auf {{trackers}} als ungesehen markiert"
+    },
+    "kodi-remote-control": {
+      "warningWebsocket": "Warnung - Sie sind nicht über den Websocket-Dienst mit Kodi verbunden. Sie müssen in Kodi diese Option aktivieren:\nFernsteuerung von Anwendungen auf anderen Systemen zulassen\n\nWeitere Informationen finden Sie unter https://wako.app/kodi-remote-control"
+    },
+    "app": {
+      "traktApiIssue1": "Trakt API - Diese Ressource konnte nicht geladen werden, bitte versuchen Sie es später erneut (Fehlercode {{errorStatus}})",
+      "traktApiServerOverloaded": "Trakt API - Server ist überlastet. Bitte versuchen Sie es in 30s erneut",
+      "traktNotConnectedAnyMore": "Trakt API - Sie sind nicht mehr mit Trakt verbunbden, bitte verbinden Sie sich erneut",
+      "simklNotConnectedAnyMore": "Simkl API - Sie sind nicht mehr mit Simkl verbubnden, bitte verbinden Sie sich erneut",
+      "simklApiServerOverloaded": "Simkl API - Server ist überlastet. Bitte versuchen Sie es in 30s erneut",
+      "newVersionAvailable": "Eine neue Version von wako ist im App Store erhältlich",
+      "updateInstalled": "wako wurde aktualisiert. Bitte starten Sie die App neu",
+      "noConnection": "Bitte überprüfen Sie Ihre Internetverbindung"
+    },
+    "settings": {
+      "cacheCleared": "Zwischenspeicher geleert"
+    },
+    "addons": {
+      "updated": "Diese Erweiterungen wurden aktualisiert:<br>{{updatedAddons}}<br><br>wako muss neu gestartet werden.",
+      "updatedWithRestart": "Diese Erweiterungen wurden aktualisiert:<br>{{updatedAddons}}<br><br>wako startet neu.",
+      "upToDate": "Erweiterungen sind aktuell"
+    },
+    "kodi": {
+      "hostUnreachable": "Ihr kodi Host {{hostName}} ist nicht erreichbar, bitte überprüfen Sie die Verbindung",
+      "noHost": "Kein Kodi Host festgelegt"
+    },
+    "ads": {
+      "block": "Es sieht so aus als würden Sie einen Werbeblocker einsetzen. Einige Teile von wako sind nur für Premium-Nutzer zukänglich (Einstellungen > Beitragen) oder durch das Ansehen einer Anzeige"
+    },
+    "trailer": {
+      "noTrailer": "Kein Trailer gefunden"
+    },
+    "premium-only": "Diese Funktion ist Premium-Nutzern vorbehalten",
+    "no-settings-saved": "Leider haben Sie noch keine Einstellungen online gespeichert.",
+    "contribution-added": "Danke für Ihren Beitrag, Sie sind jetzt ein Premium-Nutzer. wako wird neu gestartet",
+    "backup-deleted": "Ihre Sicherung wurde gelöscht",
+    "exit-app": "Drücken Sie zum Beenden erneut auf zurück",
+    "playlist-add": "Zu Ihrer Wiedergabeliste hinzugefügt"
+  },
+  "alerts": {
+    "okButton": "Ok",
+    "cancelButton": "Abbrechen",
+    "app-contribution": {
+      "thanksMessage": "Vielen Dank für Ihren Beitrag zu wako."
+    },
+    "movie": {
+      "random": {
+        "header": "Holen Sie sich einen zufälligen Film für die Genre:"
+      }
+    },
+    "addons": {
+      "customManifestUrl": "URL für Erweiterungen von Drittanbietern",
+      "enterManifestUrl": "Geben Sie die URL des Manifests ein"
+    },
+    "show": {
+      "remove": "Serie entfernen?",
+      "hidden-add": "Serie verstecken?",
+      "hidden-remove": "Serie wiederherstellen?"
+    },
+    "kodi": {
+      "openUrl": "URL öffnen"
+    },
+    "restore-settings": {
+      "restore-header": "Einstellungen wiederherstellen",
+      "restore-date": "Möchten Sie Ihre am {{date}} gespeicherten Einstellungen wiederherstellen?"
+    },
+    "delete-backup": {
+      "header": "Sicherung löschen",
+      "restore-date": "Möchten Sie Ihre am {{date}} gespeicherte Sicherung löschen?"
+    },
+    "clear-resume": {
+      "message": "Alle Elemente löschen?"
+    }
+  },
+  "notifications": {
+    "shows": {
+      "newEpisode": "Neue Episode: {{showTitle}} {{episodeCode}}"
+    }
+  },
+  "actionSheets": {
+    "addToWatchList": "Zu Ihrer Beobachtungsliste hinzufügen",
+    "removeFromWatchList": "Von Ihrer Beobachtungsliste entfernen",
+    "addToCollection": "Zu Ihrer Sammlung hinzufügen",
+    "removeFromCollection": "Von Ihrer Sammlung entfernen",
+    "addToList": "Zu {{listName}} hinzufügen",
+    "removeFromList": "Von {{listName}} entfernen",
+    "file-action": {
+      "openTitle": "Öffnen mit",
+      "actions": {
+        "play-kodi": "Kodi",
+        "play-browser": "Browser",
+        "copy-url": "URL kopieren",
+        "play-vlc": "VLC",
+        "download-vlc": "Mit VLC runterladen",
+        "share-url": "Teilen",
+        "open-with": "Andere App",
+        "play-nplayer": "NPlayer",
+        "play-infuse": "Infuse",
+        "cast": "Cast",
+        "add-to-playlist": "Zu Ihrer Wiedergabeliste hinzufügen"
+      }
+    }
+  }
+}

@@ -131,10 +131,6 @@
     "settings": {
       "title": "Instellingen",
       "list": {
-        "contribution": {
-          "header": "Contributie",
-          "item": "Contributie"
-        },
         "kodi": {
           "item": "Instellen Hosts"
         },
@@ -307,9 +303,8 @@
   },
   "modals": {
     "app-contribution": {
-      "title": "Contributie",
+      "title": "Wako Premium",
       "premium-user": "Gefeliciteerd, u bent een Premium-gebruiker.",
-      "explain1": "Als je echt van wako houdt, kun je een Premium-gebruiker worden door een product te kiezen. Hiermee worden advertenties verwijderd. <br> Alle apparaten die bij dezelfde gebruiker zijn aangemeld, worden beïnvloed",
       "explainUsername": "Uw wako-ID wordt gegenereerd op basis van uw Trakt- of SIMKL-ID. Uw bijdrage is gekoppeld aan uw wako-ID. <br> Als u wilt overschakelen van Trakt naar SIMKL of vice versa, vergeet dan niet om verbonden te blijven met de dienst (Trakt of SIMKL) waarmee u verbonden was toen u uw bijdrage leverde om Premium gebruiker te blijven.",
       "explainTierText1": "\"Tier\" het product is een levenslange bijdrage",
       "explainTierText2": "Er zijn verschillende Tier-producten, ze hebben allemaal hetzelfde effect, alleen de prijs verandert, het laat je kiezen wat je denkt dat wako waard is",

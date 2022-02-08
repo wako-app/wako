@@ -131,9 +131,9 @@
     "settings": {
       "title": "Réglages",
       "list": {
-        "contribution": {
-          "header": "Contribution",
-          "item": "Contribuer"
+        "premium": {
+          "header": "Wako Premium",
+          "item": "Abonnement"
         },
         "kodi": {
           "item": "Configurer les hôtes"
@@ -306,9 +306,9 @@
   },
   "modals": {
     "app-contribution": {
-      "title": "Contribution",
+      "title": "Wako Premium",
       "premium-user": "Félicitations, vous êtes maintenant un utilisateur Premium.",
-      "explain1": "Si vous appréciez vraiment wako, vous pouvez devenir un utilisateur Premium en choisissant un produit ci-dessous. Cela supprimera les publicités.<br>Tous les appareils connectés au même utilisateur seront affectés",
+      "explain1": "Débloquer ces fonctionnalités en devenant un utilisateur Premium : <ul><li>Suppression des pubs</li><li>Add-on tierce</li><li>Reprise de la lecture<li>Hosts Kodi illimité</li><li>Sauvegarde des paramètres</li></ul><br>Tous les appareils connectés au même utilisateur seront affectés",
       "explainUsername": "Vous identifiant wako est généré en fonction de votre identifiant Trakt ou SIMKL. Votre contribution est liée à votre identifiant wako.<br>Si vous voulez passer de Trakt à SIMKL ou inversement pensez à rester connecter au service (Trakt ou SIMKL) auquel vous étiez connecté lors de votre contribution pour rester utilisateur Premium.",
       "explainTierText1": "<br>Le produit \"Tier\" est une contribution à vie",
       "explainTierText2": "<br>Il existe différents produits Tier, ils ont tous le même effet, seul le prix change, il vous permet de choisir ce que vous pensez que wako vaut",
@@ -485,7 +485,7 @@
     "okButton": "Ok",
     "cancelButton": "Annuler",
     "app-contribution": {
-      "thanksMessage": "Merci de contribuer wako."
+      "thanksMessage": "Merci de contribuer à wako."
     },
     "movie": {
       "random": {

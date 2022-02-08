@@ -131,9 +131,9 @@
     "settings": {
       "title": "Settings",
       "list": {
-        "contribution": {
-          "header": "Contribution",
-          "item": "Contribute"
+        "premium": {
+          "header": "Wako Premium",
+          "item": "Manage membership"
         },
         "kodi": {
           "item": "Configure Hosts"
@@ -242,7 +242,7 @@
     },
     "addons": {
       "title": "Add-ons",
-      "need-contribute": "Your trial period has ended, please contribute to use this feature",
+      "need-contribute": "Your trial period has ended, please become premium to use this feature",
       "list-installed": {
         "header": "Installed Add-ons"
       },
@@ -309,23 +309,23 @@
   },
   "modals": {
     "app-contribution": {
-      "title": "Contribution",
+      "title": "Wako Premium",
       "premium-user": "Congratulations, you are a Premium user.",
-      "explain1": "If you really enjoy wako, you can become a Premium user by choosing a product bellow. This will remove ads.<br>All devices logged to the same user will be affected",
-      "explainUsername": "Your wako ID is generated based on your Trakt or SIMKL ID. Your contribution is linked to your wako ID.<br>If you want to switch from Trakt to SIMKL or vice versa, remember to stay connected to the service (Trakt or SIMKL) you were connected to when you made your contribution to remain a Premium user.",
-      "explainTierText1": "\"Tier\" product is a lifetime contribution",
+      "explain1": "Unlock these features by becoming a Premium user: <ul><li>No more Ads</li><li>Third party add-on</li><li>Resume feature</li><li>Unlimited Kodi Hosts</li><li>Backup settings</li></ul><br>All devices logged to the same user will be affected",
+      "explainUsername": "Your wako ID is generated based on your Trakt or SIMKL ID. Your membership is linked to your wako ID.<br>If you want to switch from Trakt to SIMKL or vice versa, remember to stay connected to the service (Trakt or SIMKL) you were connected to when you made your membership to remain a Premium user.",
+      "explainTierText1": "\"Tier\" product is a lifetime membership",
       "explainTierText2": "There are different Tier products, they all have the same effect, only the price changes, it lets you choose what you think wako worth",
       "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
       "iosTextSubscriptionMonthlyByProduct": "A {{ productPrice }}/month purchase will be applied to your iTunes account on confirmation.",
       "iosTextSubscriptionYearlyByProduct": "A {{ productPrice }}/year purchase will be applied to your iTunes account on confirmation.",
       "iosTextSubscriptionGeneral": "Subscriptions will automatically renew unless canceled at least 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms & Conditions and Privacy Policy.",
       "subscriptionHeader": "Auto Renewable subscriptions",
-      "consumableHeader": "Lifetime Contribution",
-      "otherSubscriptionHeader": "Other Contributions",
-      "manualSubscription": "Manual Contribution",
+      "consumableHeader": "Lifetime Membership",
+      "otherSubscriptionHeader": "Other Membership",
+      "manualSubscription": "Manual Membership",
       "ads12hRemoval": "Get rid of full screen ads for the next 12h by watching 2 rewards ads",
       "ads6hRemoval": "Get rid of full screen ads for the next 6h by watching 1 reward ads",
-      "lifetime": "Lifetime contribution",
+      "lifetime": "Lifetime Membership",
       "username-header": "Your wako user ID",
       "restore-button": "Restore Purchases"
     },
@@ -403,9 +403,9 @@
       "text2": "By installing add-ons you will add new feature to wako that fit your needs"
     },
     "contribution": {
-      "remove-ads": "Contribute to wako to remove all ads",
-      "trial-expires-soon": "Your trial period will expire in {{days}} day(s), you won't be able to use this feature anymore unless you contribute",
-      "need-contribute-button": "Contribute to wako"
+      "remove-ads": "Become a Premium user to remove all ads",
+      "trial-expires-soon": "Your trial period will expire in {{days}} day(s), you won't be able to use this feature anymore unless you become premium",
+      "need-contribute-button": "Become Premium"
     },
     "calendar-pipe": {
       "yesterday": "Yesterday",

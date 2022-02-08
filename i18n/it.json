@@ -121,10 +121,6 @@
     "settings": {
       "title": "Impostazioni",
       "list": {
-        "contribution": {
-          "header": "Contributo",
-          "item": "Contribuisci"
-        },
         "kodi": {
           "item": "Configura Hosts"
         },
@@ -238,7 +234,7 @@
   },
   "modals": {
     "app-contribution": {
-      "title": "Contributo",
+      "title": "Wako Premium",
       "text1": "Se ti piace davvero wako, puoi contribuire iscrivendoti al seguente prodotto. Questo rimuoverà gli annunci<br /> <br />Grazie.",
       "trialExpired": "Il tuo periodo di prova è scaduto. Per continuare a utilizzare l'app, selezionare un prodotto di seguito",
       "iosTextSubscriptionMonthlyByProduct": "Un acquistao di {{ productPrice }}/al mese verrà applicato al tuo account iTunes alla conferma.",

@@ -131,10 +131,6 @@
     "settings": {
       "title": "Einstellungen",
       "list": {
-        "contribution": {
-          "header": "Beitrag",
-          "item": "Beitragen"
-        },
         "kodi": {
           "item": "Konfiguration"
         },
@@ -309,9 +305,8 @@
   },
   "modals": {
     "app-contribution": {
-      "title": "Beitrag",
+      "title": "Wako Premium",
       "premium-user": "Herzlichen Glückwunsch, Sie sind Premiumnutzer.",
-      "explain1": "Wenn Ihnen wako gefällt können Sie die Entwicklung der App unterstützen indem Sie eines der beiden Abomodelle unten auswählen. Dadurch werden die Anzeigen in der App entfernt.<br>Alle Geräte die unter ein- und demselben Nutzer angemeldet sind, sind davon betroffen.",
       "explainUsername": "Ihre wako-ID wird basierend auf Ihrer Trakt- oder Simkl-Kennung generiert. Ihr Beitrag ist mit Ihrer wako-ID verknüpft.<br>Wenn Sie von Trakt zu Simkl oder umgekehrt wechseln möchten bleiben Sie bitte mit dem bisherigen Dienst verbunden, um weiterhin den Status Premiumnutzer zu behalten.",
       "explainTierText1": "\"Stufe\" lebenslange Freischaltung",
       "explainTierText2": "Es gibt verschiedene Freischaltungen. Alle haben den gleichen Effekt, lediglich der Preis ist unterschiedlich. Sie entscheiden wieviel die Nutzung von wako Ihnen wert ist",

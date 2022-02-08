@@ -102,10 +102,6 @@
     "settings": {
       "title": "Ustawienia",
       "list": {
-        "contribution": {
-          "header": "Wsparcie",
-          "item": "Wesprzyj"
-        },
         "kodi": {
           "item": "Skonfiguruj hosta"
         },
@@ -200,7 +196,7 @@
   },
   "modals": {
     "app-contribution": {
-      "title": "Składka",
+      "title": "Wako Premium",
       "text": "Wako jest damowe i nie zawiera żadnych reklam. <br />Aby aplikacja była coraz lepsza, potrzeba dużo pracy. <br />Jeśli naprawdę lubisz Wako, możesz przyczynić się do rozwoju, subskrybując poniżej<br /><br />Dziękuję!",
       "iosTextSubscriptionMonthlyByProduct": "A {{ productPrice }}/month purchase will be applied to your iTunes account on confirmation.",
       "iosTextSubscriptionYearlyByProduct": "A {{ productPrice }}/year purchase will be applied to your iTunes account on confirmation.",

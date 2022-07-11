@@ -1,42 +1,5 @@
 {
   "pages": {
-    "intro": {
-      "title": "Introduction",
-      "skip": "SKIP",
-      "slide1": {
-        "title": "Welcome to wako",
-        "watchDemo": "Watch Demo"
-      },
-      "slide2": {
-        "text1": "Track every TV show & movie you watch with",
-        "text2": "Be notified on new episodes",
-        "text3.1": "Control your favorite media player",
-        "text3.2": "with the built-in remote control",
-        "text4": "And many more other features"
-      },
-      "slide3": {
-        "title": "What is Trakt.tv?",
-        "text": "is a platform that does many things, but primarily keeps track of TV shows and movies you watch. It integrates with media centers (like Kodi) to enable scrobbling, so everything is automatic. Discover new shows and movies, follow people with similar tastes and voice your opinion by using the Trakt.tv website"
-      },
-      "slide4": {
-        "title": "What is Kodi?",
-        "text1.1": "Kodi is a free and open source media center for playing videos, music, pictures, games, and more. Kodi runs on  Linux, OS&nbsp;X, Windows, iOS, and Android.",
-        "text1.2": "Learn more and install from Kodi’s website."
-      },
-      "slide5": {
-        "text": "Be aware of the next episodes to watch"
-      },
-      "slide-addon": {
-        "text2": "Go to Settings > Add-ons to manage your add-ons"
-      },
-      "slide7": {
-        "text": "remote control"
-      },
-      "slide8": {
-        "title": "Ready?",
-        "button": "Continue"
-      }
-    },
     "home": {
       "hi": "Hi",
       "upNextToWatch": "Up Next To Watch",

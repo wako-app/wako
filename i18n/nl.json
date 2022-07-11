@@ -1,42 +1,5 @@
 {
   "pages": {
-    "intro": {
-      "title": "Introductie",
-      "skip": "OVERSLAAN",
-      "slide1": {
-        "title": "Welkom bij wako",
-        "watchDemo": "Bekijk Demo"
-      },
-      "slide2": {
-        "text1": "Volg elk tv-programma en elke film waarnaar u kijkt",
-        "text2": "Blijf op de hoogte van nieuwe afleveringen",
-        "text3.1": "Bedien uw favoriete mediaspeler",
-        "text3.2": "met de ingebouwde afstandsbediening",
-        "text4": "En nog veel meer andere functies"
-      },
-      "slide3": {
-        "title": "Wat is Trakt.tv?",
-        "text": "is een platform dat veel dingen doet, maar vooral tv-programma's en films die je kijkt, bijhoudt. Het integreert met mediacentra (zoals Kodi) om scrobbelen mogelijk te maken, dus alles is automatisch. Ontdek nieuwe shows en films, volg mensen met dezelfde smaak en laat je mening horen via de Trakt.tv-website"
-      },
-      "slide4": {
-        "title": "Wat is Kodi?",
-        "text1.1": "Kodi is een gratis en open source mediacentrum voor het afspelen van video's, muziek, afbeeldingen, games en meer. Kodi draait op Linux, OS & nbsp; X, Windows, iOS en Android.",
-        "text1.2": "Leer meer en installeer vanaf de website van Kodi."
-      },
-      "slide5": {
-        "text": "Let op de volgende afleveringen om te bekijken"
-      },
-      "slide-addon": {
-        "text2": "Ga naar Instellingen> Add-ons om uw add-ons te beheren"
-      },
-      "slide7": {
-        "text": "afstandsbediening"
-      },
-      "slide8": {
-        "title": "Klaar?",
-        "button": "Ga Verder"
-      }
-    },
     "home": {
       "hi": "Hi",
       "upNextToWatch": "Het Volgende Bekijken",

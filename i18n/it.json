@@ -1,42 +1,5 @@
 {
   "pages": {
-    "intro": {
-      "title": "Introduzione",
-      "skip": "SALTA",
-      "slide1": {
-        "title": "Benvenuto in Wako",
-        "watchDemo": "Guarda Demo"
-      },
-      "slide2": {
-        "text1": "Tieni traccia di tutti i programmi TV e i film che guardi",
-        "text2": "Ricevi le notifiche per nuovi episodi",
-        "text3.1": "Controlla il tuo media player preferito",
-        "text3.2": "con il telecomando integrato",
-        "text4": "E molte altre altre funzionalità"
-      },
-      "slide3": {
-        "title": "Che cos'è Trakt.tv?",
-        "text": "è una piattaforma che fa molte cose, principalmente tiene traccia dei programmi TV e dei film che guardi. Si integra con i media center (come Kodi) per consentire lo scrobbling, quindi tutto è automatico. Scopri nuovi programmi e film, segui persone con gusti simili ai tuoi e esprimi la tua opinione utilizzando il sito Trakt.tv"
-      },
-      "slide4": {
-        "title": "Che cos'è Kodi?",
-        "text1.1": "Kodi è un media center gratuito e open source per la riproduzione di video, musica, immagini, giochi e altro. Kodi funziona su Linux, OS&nbsp;X, Windows, iOS e Android.",
-        "text1.2": "Per ulteriori info e installazione visita il sito di Kodi."
-      },
-      "slide5": {
-        "text": "Tieniti aggiornato sui prossimi episodi da guardare"
-      },
-      "slide-addon": {
-        "text2": "Vai su Impostazioni > Add-ons per gestire gli add-ons"
-      },
-      "slide7": {
-        "text": "telecomando"
-      },
-      "slide8": {
-        "title": "Pronto?",
-        "button": "Continua"
-      }
-    },
     "home": {
       "hi": "Ciao",
       "upNextToWatch": "Prossimo Da Vedere",

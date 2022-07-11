@@ -1,42 +1,5 @@
 {
   "pages": {
-    "intro": {
-      "title": "Introducción",
-      "skip": "SALTAR",
-      "slide1": {
-        "title": "Bienvenido a wako",
-        "watchDemo": "Ver Demo"
-      },
-      "slide2": {
-        "text1": "Seguí cada serie de Tv o película que mirás",
-        "text2": "Notificación de nuevos episodios",
-        "text3.1": "Controlá tu reproductor multimedia favorito",
-        "text3.2": "Con el control remoto incorporado"
-      },
-      "slide3": {
-        "title": "¿Qué es Trakt.tv?",
-        "text": "es una plataforma que hace muchas cosas, pero principalmente realiza un seguimiento de tus series y películas favoritas. Se integra con los centros de medios (como Kodi) para permitir el scrobbling, por lo que todo es automático. Descubra nuevas series y películas, siga a personas con gustos similares y exprese su opinión utilizando el sitio web Trakt.tv "
-      },
-      "slide4": {
-        "title": "¿Qué es Kodi?",
-        "text1.1": "Kodi es un centro multimedia gratuito y de código abierto para reproducir videos, música, imágenes, juegos y más. Kodi se ejecuta en Linux, OS & nbsp; X, Windows, iOS y Android.",
-        "text1.2": "Obtenga más información e instálelo desde el sitio web de Kodi."
-      },
-      "slide5": {
-        "text": "Esté al tanto de los próximos episodios a ver"
-      },
-      "slide6": {
-        "text1.1": "Agrega la película a tu lista de visualización",
-        "text1.2": "Marcar como visto"
-      },
-      "slide7": {
-        "text": "control remoto"
-      },
-      "slide8": {
-        "title": "Listo?",
-        "button": "Continuar"
-      }
-    },
     "home": {
       "hi": "Hola",
       "upNextToWatch": "Siguiente a visualizar",

@@ -1,42 +1,5 @@
 {
   "pages": {
-    "intro": {
-      "title": "Introduction",
-      "skip": "PASSER",
-      "slide1": {
-        "title": "Bienvenue sur wako",
-        "watchDemo": "Voir la Demo"
-      },
-      "slide2": {
-        "text1": "Suivez séries et film que vous regardez avec",
-        "text2": "Etre averti des nouveaux épisodes",
-        "text3.1": "Contrôlez votre media center préféré",
-        "text3.2": "avec la télécommande intégrée",
-        "text4": "Et bien d'autres fonctionnalités"
-      },
-      "slide3": {
-        "title": "Qu'est-ce que Trakt.tv ?",
-        "text": "est une plateforme qui fait beaucoup de choses, mais qui garde surtout une trace des séries et des films que tu regardes. Découvrez de nouvelles séries et de nouveaux films, suivez des gens aux goûts similaires et donnez votre avis en utilisant le site Trakt.tv."
-      },
-      "slide4": {
-        "title": "Qu'est-ce que Kodi ?",
-        "text1.1": "Kodi est un media center gratuit et open source pour lire des vidéos, de la musique, des photos, des jeux et plus encore. Kodi fonctionne sous Linux, OS X, Windows, iOS et Android.",
-        "text1.2": "Pour en savoir plus et l'installer, consultez le site Web de Kodi."
-      },
-      "slide5": {
-        "text": "Soyez au courant des prochains épisodes à regarder"
-      },
-      "slide-addon": {
-        "text2": "Allez dans Paramètres > Add-ons pour gérer vos add-ons"
-      },
-      "slide7": {
-        "text": "télécommande"
-      },
-      "slide8": {
-        "title": "Prêt ?",
-        "button": "Continuer"
-      }
-    },
     "home": {
       "hi": "Salut",
       "upNextToWatch": "À Voir",

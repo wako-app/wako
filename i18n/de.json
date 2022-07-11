@@ -1,42 +1,5 @@
 {
   "pages": {
-    "intro": {
-      "title": "Einleitung",
-      "skip": "ÜBERSPRINGEN",
-      "slide1": {
-        "title": "Willkommen bei wako",
-        "watchDemo": "Demo ansehen"
-      },
-      "slide2": {
-        "text1": "Nachhalten von Serien und Filmen",
-        "text2": "Benachrichtigung bei neuen Episoden",
-        "text3.1": "Steuerung von Medienabspielern",
-        "text3.2": "mit der eingebauten Fernbedienung",
-        "text4": "Und viele weitere Features"
-      },
-      "slide3": {
-        "title": "Was ist Trakt?",
-        "text": "Trakt ist eine Plattform, die viele Dinge tut, aber in erster Linie Serien und Filme verfolgt, die Sie sehen. Sie lässt sich in Medienzentren (wie Kodi) integrieren, um das Scrobbeln zu ermöglichen, sodass alles automatisch abläuft. Entdecken Sie neue Shows und Filme, folgen Sie Leuten mit ähnlichem Geschmack und sagen Sie Ihre Meinung, indem Sie die Website trakt.tv nutzen"
-      },
-      "slide4": {
-        "title": "Was ist Kodi?",
-        "text1.1": "Kodi ist ein kostenloses Open-Source-Mediencenter zum Abspielen von Videos, Musik, Bildern, Spielen und mehr. Kodi läuft unter Linux, OS&nbsp;X, Windows, iOS und Android.",
-        "text1.2": "Erfahren Sie mehr und installieren Sie es von der Kodi-Website."
-      },
-      "slide5": {
-        "text": "Achten Sie auf die nächsten Folgen, die Sie sich ansehen sollten"
-      },
-      "slide-addon": {
-        "text2": "Gehe zu Einstellungen > Erweiterungen um Erweiterungen zu verwalten"
-      },
-      "slide7": {
-        "text": "Fernbedienung"
-      },
-      "slide8": {
-        "title": "Bereit?",
-        "button": "Weiter"
-      }
-    },
     "home": {
       "hi": "Hallo",
       "upNextToWatch": "Als nächstes anzusehen",

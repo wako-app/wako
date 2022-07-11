@@ -1,42 +1,5 @@
 {
   "pages": {
-    "intro": {
-      "title": "Wstęp",
-      "skip": "POMIŃ",
-      "slide1": {
-        "title": "Witaj w Wako",
-        "watchDemo": "Obejrzyj Demo"
-      },
-      "slide2": {
-        "text1": "Śledź swoje seriale oraz filmy, które oglądasz",
-        "text2": "Otrzymuj powiadomienia o nowych odcinkach",
-        "text3.1": "Kontroluj swój ulubiony odtwarzacz multimedialny",
-        "text3.2": "za pomocą wbudowanego pilota"
-      },
-      "slide3": {
-        "title": "Czym jest Trakt.tv?",
-        "text": "To platforma, która robi wiele rzeczy, ale przede wszystkim śledzi seriale telewizyjne i oglądane filmy. Integruje się z centrami multimedialnymi (takimi jak Kodi), więc wszystko jest automatyczne. Odkryj nowe seriale i filmy, obserwuj osoby o podobnych upodobaniach i wyrażaj swoją opinię, korzystając ze strony Trakt.tv"
-      },
-      "slide4": {
-        "title": "Czym jest Kodi?",
-        "text1.1": "Kodi jest darmową aplikacją z otwartym źródłem do odtwarzania wideo, muzyki, obrazów, gier oraz dużo, dużo więcej. Kodi działa na Linux, OSX, Windows, iOS oraz Android.",
-        "text1.2": "Dowiedz się więcej oraz pobierz Kodi z ich oficjalnej strony."
-      },
-      "slide5": {
-        "text": "Bądź na bieżąco z kolejnymi odcinkami do obejrzenia"
-      },
-      "slide6": {
-        "text1.1": "Dodaj film do listy do oglądania",
-        "text1.2": "oznacz jako obejrzane"
-      },
-      "slide7": {
-        "text": "zdalne sterowanie"
-      },
-      "slide8": {
-        "title": "Gotowy?",
-        "button": "Kontynuuj"
-      }
-    },
     "home": {
       "hi": "Cześć",
       "upNextToWatch": "Następne do obejrzenia",

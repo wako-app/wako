@@ -277,8 +277,8 @@
       "explain1": "قم بتفعيل هذه الميّزات عندما تصبح مشترِكاً مميّزاً: <ul><li>لا مزيد من الإعلانات</li><li>إضافات طرف ثالث</li><li>ميّزة قائمة التشغيل</li><li>عدد غير محدود لضيفات كودي</li><li>إعدادات النسخ الإحتياطي</li></ul><br>ستتأثّر جميع الأجهزة التي تمّ تسجيل دخولها لنفس",
       "explainUsername": "يتمّ إنشاء مُعرّف واكو الخاص بك بناءً على مُعرِّف Trakt أو SIMKL.<br>إذا كنت تريد التبديل من Trakt إلى SIMKL أو العكس، تذكّر أن تظل مسجّل دخول بالخدمة (Trakt أو SUMKL) التي كنت متّصلاً بها عندما قمت بعمل عضويّتك لتظل مشترِكاً مميّزاً.",
       "explainTierText1": "\"Tier\" عُضويّة مدى الحياة",
-      "explainTierText2": "توجد مساهمات متعدّدة, جميعها لها نفس المميّزات, الفرق هو السعر, يتيح لك اختيار ما تعتَقِد أنّ واكو يستحقّه",
-      "trialExpired": "انتهت فترتك التجريبيّة. للاستمرار في استخدام التطبيق, الرجاء اختيار احد المساهمات بالأسفل",
+      "explainTierText2": "توجد إشتراكات متعدّدة, جميعها لها نفس المميّزات, الفرق هو السعر, يتيح لك اختيار ما تعتَقِد أنّ واكو يستحقّه",
+      "trialExpired": "انتهت فترتك التجريبيّة. للاستمرار في استخدام التطبيق, الرجاء اختيار احد الإشتراكات بالأسفل",
       "iosTextSubscriptionMonthlyByProduct": "{{ productPrice }}/في الشهر سوف تُخصَم من حسابك في الايتونز عند التفعيل.",
       "iosTextSubscriptionYearlyByProduct": "{{ productPrice }}/في السنة سوف تُخصَم من حسابك في الايتونز عند التفعيل.",
       "iosTextSubscriptionGeneral": "سيتم تجديد الإشتراكات تلقائيّاً ما لم يتمّ إلغاؤها قبل 24 ساعة على الأقل من نهاية الفترة الحاليّة. يمكنك الإلغاء في أي وقت باستخدام إعدادات حساب ايتونز الخاص بك. سيتمّ خسارة أي جزء غير مستخدَم من الإصدار التجريبي المجّاني إذا قمت بشراء إشتراك. لمزيد من المعلومات ، راجع الشروط و الأحكام و سياسة الخصوصيّة الخاصّة بنا.",
@@ -381,71 +381,71 @@
   },
   "toasts": {
     "movie": {
-      "markAsWatched": "{{trackers}} كمُشاهَد في {{movieTitle}} تمّ تعليم",
-      "markAsUnwatched": "{{trackers}} كغير مُشاهَد في {{movieTitle}} تمّ تعليم",
-      "addedToWatchlist": "{{trackers}} إلى قائمة المُشاهَدة في {{movieTitle}} تمّ إضافة",
-      "removedFromWatchlist": "{{trackers}} من قائمة المُشاهَدة في {{movieTitle}} تمّ حذف",
-      "addedToCollection": "{{trackers}} إلى مجموعتك في {{movieTitle}} تمّ إضافة",
-      "removedFromCollection": "{{trackers}} من مجموعتك في {{movieTitle}} تمّ حذف",
-      "addedToUserList": "{{trackers}} إلى قائمتك في {{movieTitle}} تمّ إضافة",
-      "removedFromUserList": "{{trackers}} من قائمتك في {{movieTitle}} تمّ حذف",
-      "noRandomMovieFound": " {{genreList}} :لم يتمّ العثور على الفيلم في الفئات",
-      "notFoundOnTrakt": "Trakt الفيلم غير متوفّر في"
+      "markAsWatched": "تمّ تعليم {{movieTitle}} كمُشاهَد في {{trackers}}",
+      "markAsUnwatched": "تمّ تعليم {{movieTitle}} كغير مُشاهَد في {{trackers}}",
+      "addedToWatchlist": "تمّ إضافة {{movieTitle}} إلى قائمة المُشاهَدة في {{trackers}}",
+      "removedFromWatchlist": "تمّ حَذْف {{movieTitle}} من قائمة المُشاهَدة في {{trackers}}",
+      "addedToCollection": "تمّ إضافة {{movieTitle}} إلى مجموعتك في {{trackers}}",
+      "removedFromCollection": "تمّ حَذْف {{movieTitle}} من مجموعتك في {{trackers}}",
+      "addedToUserList": "تمّ إضافة {{movieTitle}} إلى قائمتك في {{trackers}}",
+      "removedFromUserList": "تمّ حَذْف {{movieTitle}} من قائمتك في {{trackers}}",
+      "noRandomMovieFound": " لم يتمّ العثور على الفيلم في الفئات : {{genreList}}",
+      "notFoundOnTrakt": "الفيلم غير متوفِّر في trakt"
     },
     "show": {
-      "addedToWatchlist": "{{trackers}} إلى قائمة المُشاهَدة في {{showTitle}} تمّ إضافة",
-      "removedFromWatchlist": "{{trackers}} من قائمة المُشاهَدة في {{showTitle}} تمّ حذف",
-      "addedToCollection": "{{trackers}} إلى مجموعتك في {{showTitle}} تمّ إضافة",
-      "removedFromCollection": "{{trackers}} من مجموعتك في {{showTitle}} تمّ حذف",
-      "addedToUserList": "{{trackers}} إلى قائمتك في {{showTitle}} تمّ إضافة",
-      "removedFromUserList": "{{trackers}} من قائمتك في {{showTitle}} تمّ حذف",
-      "notFoundOnTrakt": "Trakt المسلسل غير متوفر في"
+      "addedToWatchlist": "تمّ إضافة {{showTitle}} إلى قائمة المُشاهَدة في {{trackers}}",
+      "removedFromWatchlist": "تمّ حَذْف {{showTitle}} من قائمة المُشاهَدة في {{trackers}}",
+      "addedToCollection": "تمّ إضافة {{showTitle}} إلى مجموعتك في {{trackers}}",
+      "removedFromCollection": "تمّ حَذْف {{showTitle}} من مجموعتك في {{trackers}}",
+      "addedToUserList": "تمّ إضافة {{showTitle}} إلى قائمتك في {{trackers}}",
+      "removedFromUserList": "تمّ حَذْف {{showTitle}} من قائمتك في {{trackers}}",
+      "notFoundOnTrakt": "المسلسل غير متوفِّر في trakt"
     },
     "season": {
-      "markAsWatched": "{{trackers}} كمُشاهَد في {{seasonNumber}} الموسم {{showTitle}} تمّ تعليم",
-      "markAsUnwatched": "{{trackers}} كغير مُشاهَد في {{seasonNumber}} الموسم {{showTitle}} تمّ تعليم"
+      "markAsWatched": "تمّ تعليم {{showTitle}} الموسم {{seasonNumber}} كمُشاهَد في {{trackers}}",
+      "markAsUnwatched": "تمّ تعليم {{showTitle}} الموسم {{seasonNumber}} كغير مُشاهَد في {{trackers}}"
     },
     "episode": {
-      "markAsWatched": "{{trackers}} كمُشاهَد في {{episodeCode}} {{showTitle}} تمّ تعليم",
-      "markAsUnwatched": "{{trackers}} كغير مُشاهَد في {{episodeCode}} {{showTitle}} تمّ تعليم"
+      "markAsWatched": "تمّ تعليم {{showTitle}} {{episodeCode}} كمُشاهَد في {{trackers}}",
+      "markAsUnwatched": "تمّ تعليم {{showTitle}} {{episodeCode}} كغير مُشاهَد في {{trackers}}"
     },
     "kodi-remote-control": {
-      "warningWebsocket": "لمزيد من المعلومات https://wako.app/kodi-remote-control إذهب إلى\n\n السماح بالتحكم عن بعد من التطبيقات في الأنظمة الأخرى\n :تحتاج إلى تنشيط هذا الخيار في كودي .websocket تحذير - أنت لست متصل بكودي من خلال خدمة"
+      "warningWebsocket": "تحذير - أنت لست متّصل بـ كودي من خلال خِدمة websocket. تحتاج إلى تنشيط هذا الخيار في كودي:\nالسماح بالتحكّم عن بعد من التطبيقات في الأنظمة الأُخرى\n\nللمزيد من المعلومات إذهب إلى https://wako.app/kodi-remote-control"
     },
     "app": {
-      "traktApiIssue1": "({{errorStatus}} فشل تحميل المورد، يرجى المحاولة مرّة أخرى في وقت لاحق (رمز الخطأ - Trakt API",
-      "traktApiServerOverloaded": "الخادم مثقل. يرجى المحاولة مرة أخرى بعد 30 ثانية - Trakt API",
-      "traktNotConnectedAnyMore": "يرجى معاودة الإتصال Trakt أنت غير متّصل بـ - Trakt API",
-      "simklNotConnectedAnyMore": "يرجى معاودة الإتصال Simkl أنت غير متّصل بـ - Simkl API",
-      "simklApiServerOverloaded": "الخادم مثقل. يرجى المحاولة مرّة أخرى بعد 30 ثانية - Simkl API",
+      "traktApiIssue1": "Trakt API - فَشلَ تحميل المورد، الرجاء المحاولة مرّة أُخرى في وقت لاحق (error code {{errorStatus}})",
+      "traktApiServerOverloaded": "Trakt API - الخادم مُثقل. الرجاء المحاولة مرّة أُخرى بعد 30 ثانية",
+      "traktNotConnectedAnyMore": "Trakt API - الرجاء معاودة الإتصال Trakt أنت غير متّصل بـ",
+      "simklNotConnectedAnyMore": "Simkl API - الرجاء معاودة الإتصال Simkl أنت غير متّصل بـ",
+      "simklApiServerOverloaded": "Simkl API -  الخادم مُثقل. الرجاء المحاولة مرّة أُخرى بعد 30 ثانية",
       "newVersionAvailable": "يتوفّر إصدار جديد من واكو في المتجر",
       "updateInstalled": "تمّ تحديث واكو. أعِد تشغيل التطبيق للإستمتاع بالتحديث",
-      "noConnection": "الرجاء التحقّق من إتصال الإنترنت الخاصّ بك"
+      "noConnection": "الرجاء التحقّق من إتصال الإنترنت الخاص بك"
     },
     "settings": {
       "cacheCleared": "تمّ مسح ذاكرة التخزين المؤقّت"
     },
     "addons": {
-      "updated": "يجب إعادة تشغيل واكو<br><br>{{updatedAddons}}<br>:تم تحديث هذة الإضافات",
-      "updatedWithRestart": "سيتمّ إعادة تشغيل واكو<br><br>{{updatedAddons}}<br>:تم تحديث هذة الإضافات",
+      "updated": "تمّ تحديث هذه الإضافات:<br>{{updatedAddons}}<br><br> يجب إعادة تشغيل واكو.",
+      "updatedWithRestart": "تمّ تحديث هذه الإضافات:<br>{{updatedAddons}}<br><br>سيتمّ إعادة تشغيل واكو.",
       "upToDate": "جميع الإضافات محدّثة"
     },
     "kodi": {
-      "hostUnreachable": "لا يمكن الوصول إليه، يرجى التحقّق من إتصالك {{hostName}} مضيف كودي",
+      "hostUnreachable": "لا يمكن الوصول إلى مضيف كودي الخاص بك {{hostName}} ، يرجى التحقّق من إتصالك",
       "noHost": "لم يتمّ تعيين مضيف لـ كودي"
     },
     "ads": {
-      "block": "أوه، يبدو أنّه لديك مانع إعلانات. بعض أجزاء واكو متاحة فقط للمشترِكين المميّزين (واكو > الإعدادات > المُساهَمة) أو من خلال مُشاهَدة إعلان"
+      "block": "أوه، يبدو أنّه لديك مانع إعلانات. بعض أجزاء واكو متاحة فقط للمشترِكين المميّزين (واكو > الإعدادات > إدارة العضويّة) أو من خلال مُشاهَدة إعلان"
     },
     "trailer": {
-      "noTrailer": "لم يتمّ العثور على دعاية"
+      "noTrailer": "لم يتمّ العثور على ڤيديو دعائي"
     },
     "premium-only": "هذه الميّزة مخصّصة فقط للمشترِكين المميّزين",
     "no-settings-saved": "لسوء الحظ، ليس لديك أيّ إعدادات محفوظة على الإنترنت حتّى الآن",
     "contribution-added": "شكراً لمساهمتك. أنت الآن مشترِك مميّز. سوف يتمّ إعادة تشغيل واكو",
     "backup-deleted": "تمّ حذف نسختك الإحتياطيّة",
-    "exit-app": "إضغط رجوع مرّة أخرى للخروج",
-    "playlist-add": "تمّت إضافته إلى قائمة التشغيل الخاصّة بك"
+    "exit-app": "إضغط رجوع مرّة أُخرى للخروج",
+    "playlist-add": "تَمَّت إضافته إلى قائمة التشغيل الخاصّة بك"
   },
   "alerts": {
     "okButton": "موافق",
@@ -472,11 +472,11 @@
     },
     "restore-settings": {
       "restore-header": "إستعادة الإعدادات",
-      "restore-date": "؟{{date}} هل تريد إستعادة الإعدادات المحفوظة في تاريخ"
+      "restore-date": "هل تريد إستعادة الإعدادات المحفوظة في تاريخ {{date}} ؟"
     },
     "delete-backup": {
-      "header": "حذف النسخة الإحتياطية",
-      "restore-date": "؟{{date}} هل تريد حذف الإعدادات المحفوظة في تاريخ"
+      "header": "حذف النسخة الإحتياطيّة",
+      "restore-date": "هل تريد حذف الإعدادات المحفوظة في تاريخ {{date}} ؟"
     },
     "clear-resume": {
       "message": "حذف جميع العناصر؟"
@@ -484,7 +484,7 @@
   },
   "notifications": {
     "shows": {
-      "newEpisode": "{{episodeCode}} {{showTitle}} :حلقة جديدة"
+      "newEpisode": "حلقة جديدة : {{showTitle}} {{episodeCode}}"
     }
   },
   "actionSheets": {
@@ -492,8 +492,8 @@
     "removeFromWatchList": "حذف من قائمة المُشاهَدة الخاصّة بك",
     "addToCollection": "أضف إلى مجموعتك",
     "removeFromCollection": "حذف من مجموعتك",
-    "addToList": "{{listName}} أضف إلى",
-    "removeFromList": "{{listName}} حذف من",
+    "addToList": "أضف إلى {{listName}}",
+    "removeFromList": "حذف من {{listName}}",
     "file-action": {
       "openTitle": "فتح باستخدام",
       "actions": {
@@ -501,13 +501,13 @@
         "play-browser": "متصفّح",
         "copy-url": "نسخ الرابط",
         "play-vlc": "VLC",
-        "download-vlc": " VLC التحميل من خلال",
+        "download-vlc": "التحميل من خلال VLC",
         "share-url": "مشارَكة",
         "open-with": "تطبيقات أخرى",
         "play-nplayer": "NPlayer",
         "play-infuse": "Infuse",
         "cast": "بث",
-        "add-to-playlist": "أضف إلى قائمة التشغيل الخاصّة بك"
+        "add-to-playlist": "أضِف إلى قائمة التشغيل الخاصّة بك"
       }
     }
   }

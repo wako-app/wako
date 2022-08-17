@@ -274,7 +274,7 @@
     "app-contribution": {
       "title": "Wako Premium",
       "premium-user": "Congratulations, you are a Premium user.",
-      "explain1": "Unlock these features by becoming a Premium user: <ul><li>No more Ads</li><li>Third party add-on</li><li>Playlist feature</li><li>Unlimited Kodi Hosts</li><li>Backup settings</li></ul><br>All devices logged to the same user will be affected",
+      "explainContent": "Unlock these features by becoming a Premium user: <ul><li>No more Ads</li><li>Playlist feature</li><li>Unlimited Kodi Hosts</li><li>Backup settings</li></ul><br>All devices logged to the same user will be affected",
       "explainUsername": "Your wako ID is generated based on your Trakt or SIMKL ID. Your membership is linked to your wako ID.<br>If you want to switch from Trakt to SIMKL or vice versa, remember to stay connected to the service (Trakt or SIMKL) you were connected to when you made your membership to remain a Premium user.",
       "explainTierText1": "\"Tier\" product is a lifetime membership",
       "explainTierText2": "There are different Tier products, they all have the same effect, only the price changes, it lets you choose what you think wako worth",

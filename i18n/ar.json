@@ -94,7 +94,7 @@
     "settings": {
       "title": "إعدادات",
       "list": {
-        premium": {
+        "premium": {
           "header": "واكو بريميوم",
           "item": "إدارة العضويّة"
         },

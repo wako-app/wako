@@ -110,6 +110,9 @@
           "which-provider": "Choose your provider on search",
           "default": "default"
         },
+        "shows": {
+          "header": "TV Shows"
+        },
         "filer": {
           "header": "File Explorer",
           "item": "Configure",

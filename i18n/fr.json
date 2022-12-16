@@ -132,13 +132,13 @@
           "totalWatchedEpisodesAnime": "Nombre d'épisodes (anime) regardés",
           "apiStatus": "Statut de l'API Trakt",
           "logout": "Déconnexion",
-          "signIn": "Connectez wako à votre compte Trakt",
+          "signIn": "Continuer avec Trakt",
           "markMovieAsWatchedAuto": "Marquer les films comme vu automatiquement",
           "markEpisodeAsWatchedAuto": "Marquer les épisodes comme vu automatiquement",
           "markAsWatchedAutoProgress": "Pourcentage à voir pour marquer la vidéo comme vu"
         },
         "simkl": {
-          "signIn": "Connectez wako à votre compte  SIMKL"
+          "signIn": "Continuer avec SIMKL"
         },
         "tracker": {
           "header": "Traquer",
@@ -272,7 +272,7 @@
       "title": "Wako Premium",
       "premium-user": "Félicitations, vous êtes maintenant un utilisateur Premium.",
       "explainContent": "Débloquer ces fonctionnalités en devenant un utilisateur Premium : <ul><li>Suppression des pubs</li><li>Playlist<li>Hosts Kodi illimité</li><li>Sauvegarde des paramètres</li></ul><br>Tous les appareils connectés au même utilisateur seront affectés",
-      "explainUsername": "Vous identifiant wako est généré en fonction de votre identifiant Trakt ou SIMKL. Votre contribution est liée à votre identifiant wako.<br>Si vous voulez passer de Trakt à SIMKL ou inversement pensez à rester connecter au service (Trakt ou SIMKL) auquel vous étiez connecté lors de votre contribution pour rester utilisateur Premium.",
+      "explainMembership": "En savoir plus sur l'abonnement",
       "explainTierText1": "<br>Le produit \"Tier\" est une contribution à vie",
       "explainTierText2": "<br>Il existe différents produits Tier, ils ont tous le même effet, seul le prix change, il vous permet de choisir ce que vous pensez que wako vaut",
       "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
@@ -350,8 +350,8 @@
     "cancel": "Annuler",
     "sign-in": {
       "or": "ou",
-      "trakt-button": "Connectez-vous avec Trakt",
-      "simkl-button": "Connectez-vous avec SIMKL"
+      "trakt-button": "Continuer avec Trakt",
+      "simkl-button": "Continuer avec SIMKL"
     },
     "misc": {
       "aired": "Diffusé le",

@@ -94,9 +94,11 @@
     "settings": {
       "title": "Settings",
       "list": {
-        "premium": {
-          "header": "Wako Premium",
-          "item": "Manage membership"
+        "account": {
+          "header": "Account",
+          "premium": "Manage membership",
+          "logout": "Logout",
+          "login": "Login"
         },
         "kodi": {
           "item": "Configure Hosts"
@@ -135,13 +137,13 @@
           "totalWatchedEpisodesAnime": "Total episodes (anime) watched",
           "apiStatus": "Trakt API Status",
           "logout": "Logout",
-          "signIn": "Connect wako to your Trakt account",
+          "signIn": "Continue with Trakt",
           "markMovieAsWatchedAuto": "Mark movies as watched automatically",
           "markEpisodeAsWatchedAuto": "Mark episodes as watched automatically",
           "markAsWatchedAutoProgress": "Percentage to watch to mark the video as watched"
         },
         "simkl": {
-          "signIn": "Connect wako to your SIMKL account"
+          "signIn": "Continue with SIMKL"
         },
         "tracker": {
           "header": "Tracker",
@@ -278,7 +280,7 @@
       "title": "Wako Premium",
       "premium-user": "Congratulations, you are a Premium user.",
       "explainContent": "Unlock these features by becoming a Premium user: <ul><li>No more Ads</li><li>Playlist feature</li><li>Unlimited Kodi Hosts</li><li>Backup settings</li></ul><br>All devices logged to the same user will be affected",
-      "explainUsername": "Your wako ID is generated based on your Trakt or SIMKL ID. Your membership is linked to your wako ID.<br>If you want to switch from Trakt to SIMKL or vice versa, remember to stay connected to the service (Trakt or SIMKL) you were connected to when you made your membership to remain a Premium user.",
+      "explainMembership": "Learn more about my membership",
       "explainTierText1": "\"Tier\" product is a lifetime membership",
       "explainTierText2": "There are different Tier products, they all have the same effect, only the price changes, it lets you choose what you think wako worth",
       "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
@@ -356,8 +358,8 @@
     "cancel": "Cancel",
     "sign-in": {
       "or": "or",
-      "trakt-button": "Connect wako to your Trakt account",
-      "simkl-button": "Connect wako to your SIMKL account"
+      "trakt-button": "Continue with Trakt",
+      "simkl-button": "Continue with SIMKL"
     },
     "misc": {
       "aired": "Aired",

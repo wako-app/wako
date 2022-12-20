@@ -404,7 +404,7 @@
       "removedFromCollection": "Removed {{showTitle}} from your Collection on {{trackers}}",
       "addedToUserList": "Added {{showTitle}} to your list on {{trackers}}",
       "removedFromUserList": "Removed {{showTitle}} from your list on {{trackers}}",
-      "notFoundOnTrakt": "Show not found on trakt"
+      "notFound": "Show not found"
     },
     "season": {
       "markAsWatched": "Marked {{showTitle}} season {{seasonNumber}} as watched on {{trackers}}",

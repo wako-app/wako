@@ -396,7 +396,7 @@
       "removedFromCollection": "{{showTitle}} a été retiré de votre Collection dans {{trackers}}",
       "addedToUserList": "{{showTitle}} a été ajouté à la liste dans {{trackers}}",
       "removedFromUserList": "{{showTitle}} a été retiré de la liste dans {{trackers}}",
-      "notFoundOnTrakt": "Série non trouvée sur trakt"
+      "notFound": "Série non trouvée"
     },
     "season": {
       "markAsWatched": "{{showTitle}} saison {{seasonNumber}} a été marquée comme vue dans {{trackers}}",

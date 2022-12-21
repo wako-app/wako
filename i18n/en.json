@@ -109,8 +109,8 @@
         },
         "movies": {
           "header": "Movies",
-          "which-provider": "Choose your provider on search",
-          "default": "default"
+          "which-provider": "Search provider",
+          "default": "Default"
         },
         "shows": {
           "header": "TV Shows"
@@ -136,7 +136,7 @@
           "totalWatchedEpisodes": "Total episodes watched",
           "totalWatchedEpisodesAnime": "Total episodes (anime) watched",
           "apiStatus": "Trakt API Status",
-          "logout": "Logout",
+          "disconnect": "Disconnect",
           "signIn": "Continue with Trakt",
           "markMovieAsWatchedAuto": "Mark movies as watched automatically",
           "markEpisodeAsWatchedAuto": "Mark episodes as watched automatically",

@@ -108,7 +108,7 @@
         "movies": {
           "header": "Films",
           "which-provider": "Choisissez votre fournisseur lors de la recherche",
-          "default": "défaut"
+          "default": "Défaut"
         },
         "filer": {
           "header": "Fichiers",
@@ -131,7 +131,7 @@
           "totalWatchedEpisodes": "Nombre d'épisodes regardés",
           "totalWatchedEpisodesAnime": "Nombre d'épisodes (anime) regardés",
           "apiStatus": "Statut de l'API Trakt",
-          "logout": "Déconnexion",
+          "disconnect": "Déconnecter",
           "signIn": "Continuer avec Trakt",
           "markMovieAsWatchedAuto": "Marquer les films comme vu automatiquement",
           "markEpisodeAsWatchedAuto": "Marquer les épisodes comme vu automatiquement",

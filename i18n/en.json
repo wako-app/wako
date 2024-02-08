@@ -287,6 +287,7 @@
       "iosTextSubscriptionMonthlyByProduct": "A {{ productPrice }}/month purchase will be applied to your iTunes account on confirmation.",
       "iosTextSubscriptionYearlyByProduct": "A {{ productPrice }}/year purchase will be applied to your iTunes account on confirmation.",
       "iosTextSubscriptionGeneral": "Subscriptions will automatically renew unless canceled at least 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms & Conditions and Privacy Policy.",
+      "androidTextSubscriptionGeneral": "Subscriptions will automatically renew unless canceled at least 24-hours before the end of the current period. You can cancel anytime with your Google Play account settings. ",
       "subscriptionHeader": "Auto Renewable subscriptions",
       "consumableHeader": "Lifetime Membership",
       "otherSubscriptionHeader": "Other Membership",

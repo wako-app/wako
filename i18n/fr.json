@@ -477,6 +477,9 @@
     },
     "clear-resume": {
       "message": "Supprimer tous les éléments ?"
+    },
+    "simkl": {
+      "pinCode": "Veuillez vous rendre sur {{url}} et saisir le code {{code}}"
     }
   },
   "notifications": {

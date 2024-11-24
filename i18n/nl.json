@@ -470,6 +470,9 @@
     },
     "clear-resume": {
       "message": "Verwijder alle items?"
+    },
+    "simkl": {
+      "pinCode": "Ga naar {{url}} en voer de code {{code}} in"
     }
   },
   "notifications": {

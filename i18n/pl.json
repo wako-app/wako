@@ -259,6 +259,9 @@
       "random": {
         "header": "Losowy film dla gatunku:"
       }
+    },
+    "simkl": {
+      "pinCode": "Przejdź do {{url}} i wprowadź kod {{code}}"
     }
   },
   "notifications": {

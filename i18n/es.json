@@ -181,7 +181,7 @@
       "consumableHeader": "Contribución de por vida"
     },
     "app-outdated": {
-      "text": "Su aplicación está desactualizada, debe actualizarla para continuar"
+      "text": "Su aplicación est�� desactualizada, debe actualizarla para continuar"
     },
     "kodi-remote-control": {
       "title": "Control Remoto Kodi",
@@ -295,6 +295,9 @@
     "addons": {
       "customManifestUrl": "URL de add-on personalizado",
       "enterManifestUrl": "Ingrese la URL del manifest"
+    },
+    "simkl": {
+      "pinCode": "Por favor, ve a {{url}} e ingresa el código {{code}}"
     }
   },
   "notifications": {

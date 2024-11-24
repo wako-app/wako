@@ -486,6 +486,9 @@
     },
     "clear-resume": {
       "message": "Delete all items?"
+    },
+    "simkl": {
+      "pinCode": "Please go to {{url}} and enter the code {{code}}"
     }
   },
   "notifications": {

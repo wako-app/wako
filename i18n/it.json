@@ -353,6 +353,9 @@
     },
     "kodi": {
       "openUrl": "Apri URL"
+    },
+    "simkl": {
+      "pinCode": "Vai su {{url}} e inserisci il codice {{code}}"
     }
   },
   "notifications": {

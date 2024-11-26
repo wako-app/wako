@@ -301,7 +301,7 @@
       "noHost.message": "تطبيقك غير محدَّث، يجب عليك تحديثه للمتابعة",
       "noHost.add": "إضافة",
       "hostUnreachable": "لايمكن الوصول له {{hostName}} المضيف",
-      "tryReconnect": "محاولة الإتصال"
+      "tryReconnect": "محاولة الإتصال",
       "configure": "تهيئة"
     },
     "list-picker": {

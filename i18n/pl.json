@@ -268,5 +268,12 @@
     "shows": {
       "newEpisode": "Nowy odcinek: {{showTitle}} {{episodeCode}}"
     }
+  },
+  "actionSheets": {
+    "file-action": {
+      "actions": {
+        "wako-video-player": "Wbudowany odtwarzacz wideo"
+      }
+    }
   }
 }

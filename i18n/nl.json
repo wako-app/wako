@@ -500,7 +500,8 @@
         "play-nplayer": "NPlayer",
         "play-infuse": "Infuse",
         "cast": "Cast",
-        "add-to-playlist": "Voeg toe aan je playlist"
+        "add-to-playlist": "Voeg toe aan je playlist",
+        "wako-video-player": "Ingebouwde videospeler"
       }
     }
   }

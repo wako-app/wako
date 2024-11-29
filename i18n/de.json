@@ -505,7 +505,8 @@
         "play-nplayer": "NPlayer",
         "play-infuse": "Infuse",
         "cast": "Cast",
-        "add-to-playlist": "Zu Ihrer Wiedergabeliste hinzufügen"
+        "add-to-playlist": "Zu Ihrer Wiedergabeliste hinzufügen",
+        "wako-video-player": "Integrierter Video-Player"
       }
     }
   }

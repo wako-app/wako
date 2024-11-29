@@ -273,6 +273,18 @@
       "actions": {
         "header": "Sort/Enable Open Actions"
       }
+    },
+    "search": {
+      "trending": {
+        "movies": "Trending Movies",
+        "shows": "Trending Shows",
+        "anime": "Trending Anime"
+      },
+      "search-results": {
+        "movies": "Search Results - Movies",
+        "shows": "Search Results - Shows",
+        "anime": "Search Results - Anime"
+      }
     }
   },
   "modals": {
@@ -516,7 +528,8 @@
         "play-nplayer": "NPlayer",
         "play-infuse": "Infuse",
         "cast": "Cast",
-        "add-to-playlist": "Add to your playlist"
+        "add-to-playlist": "Add to your playlist",
+        "wako-video-player": "Play on Wako"
       }
     }
   }

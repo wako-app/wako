@@ -265,6 +265,18 @@
         "preferTranscodedFilesChromecast": "Préfère les fichiers transcodés pour Chromecast uniquement",
         "explainTranscoded": "Certains services créés des fichiers transcodés de vos vidéos dans un format qui est compatible avec presque tous les lecteurs, y compris Chromecast qui ne prend en charge que quelques formats vidéo. Il est préférable de l'activer pour Chromecast. Soyez conscient que les fichiers transcodés n'incluront peut être pas d'autres pistes sous-titres/audio que les fichiers originaux pourraient inclure"
       }
+    },
+    "search": {
+      "trending": {
+        "movies": "Films Tendance",
+        "shows": "Séries Tendance",
+        "anime": "Anime Tendance"
+      },
+      "search-results": {
+        "movies": "Résultats de la recherche - Films",
+        "shows": "Résultats de la recherche - Séries",
+        "anime": "Résultats de la recherche - Anime"
+      }
     }
   },
   "modals": {
@@ -507,7 +519,8 @@
         "play-nplayer": "NPlayer",
         "play-infuse": "Infuse",
         "cast": "Cast",
-        "add-to-playlist": "Ajouter à votre playlist"
+        "add-to-playlist": "Ajouter à votre playlist",
+        "wako-video-player": "Lecteur vidéo intégré"
       }
     }
   }

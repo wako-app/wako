@@ -181,7 +181,7 @@
       "consumableHeader": "Contribución de por vida"
     },
     "app-outdated": {
-      "text": "Su aplicación est�� desactualizada, debe actualizarla para continuar"
+      "text": "Su aplicación est desactualizada, debe actualizarla para continuar"
     },
     "kodi-remote-control": {
       "title": "Control Remoto Kodi",
@@ -311,6 +311,11 @@
     "addToCollection": "Añadir a tu colección",
     "removeFromCollection": "Eliminar de tu colección",
     "addToList": "Agregar a {{listName}}",
-    "removeFromList": "Eliminar de {{listName}}"
+    "removeFromList": "Eliminar de {{listName}}",
+    "file-action": {
+      "actions": {
+        "wako-video-player": "Reproductor de video incorporado"
+      }
+    }
   }
 }

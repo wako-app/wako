@@ -369,6 +369,11 @@
     "addToCollection": "Aggiungi alla tua Collezione",
     "removeFromCollection": "Rimuovi dalla tua Collezione",
     "addToList": "Aggiungi a {{listName}}",
-    "removeFromList": "Rimuovi da {{listName}}"
+    "removeFromList": "Rimuovi da {{listName}}",
+    "file-action": {
+      "actions": {
+        "wako-video-player": "Lettore video integrato"
+      }
+    }
   }
 }

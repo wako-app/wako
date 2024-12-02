@@ -509,10 +509,10 @@
     "file-action": {
       "openTitle": "Ouvrir avec",
       "actions": {
-        "play-kodi": "Kodi",
+        "play-kodi": "Lire avec Kodi",
         "play-browser": "Navigateur",
         "copy-url": "Copier l'URL",
-        "play-vlc": "VLC",
+        "play-vlc": "Lire avec VLC",
         "download-vlc": "Télécharger avec VLC",
         "share-url": "Partager",
         "open-with": "Une autre App",
@@ -520,7 +520,7 @@
         "play-infuse": "Infuse",
         "cast": "Cast",
         "add-to-playlist": "Ajouter à votre playlist",
-        "wako-video-player": "Lecteur vidéo intégré"
+        "wako-video-player": "Lire avec Wako"
       }
     }
   }

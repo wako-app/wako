@@ -35,7 +35,8 @@
           "episodes": "Episodes",
           "alternativeTitle": "Alternative Title",
           "rating": "Rating",
-          "genres": "Genres"
+          "genres": "Genres",
+          "resume-button": "Resume"
         },
         "search-list": {
           "explore": "Explore",

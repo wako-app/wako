@@ -99,7 +99,8 @@
           "header": "Account",
           "premium": "Manage membership",
           "logout": "Logout",
-          "login": "Login"
+          "login": "Login",
+          "deleteAccount": "Delete account"
         },
         "kodi": {
           "item": "Configure Hosts"
@@ -464,7 +465,8 @@
     "contribution-added": "Thanks for your contribution. You are now a Premium user. wako is going to restart",
     "backup-deleted": "Your backup has been deleted",
     "exit-app": "Press back again to quit",
-    "playlist-add": "Added to your playlist"
+    "playlist-add": "Added to your playlist",
+    "accountDeleted": "Your account has been deleted"
   },
   "alerts": {
     "okButton": "Ok",
@@ -502,7 +504,10 @@
     },
     "simkl": {
       "pinCode": "Please go to {{url}} and enter the code {{code}}"
-    }
+    },
+
+    "deleteAccount": "Delete account",
+    "deleteAccountConfirmation": "Are you sure you want to delete your account? This action cannot be undone."
   },
   "notifications": {
     "shows": {

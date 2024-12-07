@@ -386,8 +386,7 @@
       "text2": "By installing add-ons you will add new feature to wako that fit your needs"
     },
     "contribution": {
-      "remove-ads": "Become a Premium user to remove all ads",
-      "trial-expires-soon": "Your trial period will expire in {{days}} day(s), you won't be able to use this feature anymore unless you become premium",
+      "feature-only-for-premium": "This feature is only available for Premium users",
       "need-contribute-button": "Become Premium"
     },
     "calendar-pipe": {

@@ -318,9 +318,8 @@
       "text2": "Εγκαθιστώντας πρόσθετα επεκτείνετε τις δυνατότητες του wako που πληρούν τις απαιτήσεις σας"
     },
     "contribution": {
-      "remove-ads": "Συνεισφέρετε στο wako για αφαίρεση όλων των διαφημίσεων",
-      "trial-expires-soon": "Η δοκιμαστική περίοδος λήγει σε {{days}} μέρ(α/ες), δεν θα είστε σε θέση να χρησιμοποιήσετε αυτήν τη λειτουργία περαιτέρω, εκτός και αν συνεισφέρετε στο wako",
-      "need-contribute-button": "Συνεισφέρετε στο wako"
+      "feature-only-for-premium": "Diese Funktion ist ausschließlich für Premium-Nutzern verfügbar",
+      "need-contribute-button": "Etwas beitragen"
     },
     "calendar-pipe": {
       "yesterday": "Χθές",

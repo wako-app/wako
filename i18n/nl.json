@@ -356,8 +356,7 @@
       "text2": "Door add-ons te installeren, voegt u een nieuwe functie toe aan wako die aan uw behoeften voldoet"
     },
     "contribution": {
-      "remove-ads": "Draag bij aan wako om alle advertenties te verwijderen",
-      "trial-expires-soon": "Uw proefperiode loopt over {{days}} dag (en) af. U kunt deze functie niet meer gebruiken tenzij u bijdraagt",
+      "feature-only-for-premium": "Deze functie is alleen beschikbaar voor Premium-gebruikers",
       "need-contribute-button": "Draag bij aan wako"
     },
     "calendar-pipe": {

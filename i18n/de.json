@@ -361,8 +361,7 @@
       "text2": "Durch die Installation von Erweiterungen fügen Sie wako weitere, von Ihnen benötigte Funktionen hinzu"
     },
     "contribution": {
-      "remove-ads": "Tragen Sie zu wako bei um alle Anzeigen zu entfernen",
-      "trial-expires-soon": "Ihre Testphase endet in {{days}} day(s), ohne Beitrag werden Sie dieses Feature nicht mehr nutzen können",
+      "feature-only-for-premium": "Diese Funktion ist ausschließlich für Premium-Nutzern verfügbar",
       "need-contribute-button": "Etwas beitragen"
     },
     "calendar-pipe": {

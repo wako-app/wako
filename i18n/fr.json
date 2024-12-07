@@ -375,8 +375,7 @@
       "text2": "En installant des add-ons, vous ajouterez à wako de nouvelles fonctionnalités qui répondront à vos besoins."
     },
     "contribution": {
-      "remove-ads": "Contribuez à wako pour supprimer toutes les pubs",
-      "trial-expires-soon": "Votre période d'essai expirera dans {{days}} jour(s), vous ne pourrez plus utiliser cette fonctionnalité à moins que vous ne contribuiez",
+      "feature-only-for-premium": "Cette fonctionnalité est disponible seulement pour les utilisateurs Premium",
       "need-contribute-button": "Contribuer à wako"
     },
     "calendar-pipe": {

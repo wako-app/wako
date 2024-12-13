@@ -1,450 +1,345 @@
 {
-  "pages": {
-    "home": {
-      "hi": "Χαίρετε",
-      "upNextToWatch": "Επόμενα στοιχεία προς παρακολούθηση",
-      "retry": "Δοκιμάστε ξανά",
-      "upToDate": "Δεν σας απομένει τίποτα νέο να δείτε, είστε ενήμεροι :)",
-      "segment": {
-        "upNext": "Επόμενα στοιχεία",
-        "resume": "Συνέχιση",
-        "calendar": "Ημερολόγιο"
-      }
-    },
-    "login": {
-      "message": "Συνδεθείτε ή εγγραφείτε στο Trakt για να δείτε τις Ταινίες/Σειρές σας"
-    },
-    "media": {
-      "shared": {
-        "detail": {
-          "imdbRating": " Βαθμολογία IMDb:",
-          "viewOnIMDb": "Προβολή στο IMDb",
-          "overview": "Επισκόπηση",
-          "cast": "Ηθοποιοί",
-          "fullCast": "Πλήρης λίστα συντελεστών",
-          "network": "Δίκτυο",
-          "related": "Περισσότερα σάν αυτό",
-          "release": "Κυκλοφορία",
-          "runtime": "Διάρκεια",
-          "status": "Κατάσταση",
-          "certification": "Πιστοποίηση",
-          "originalTitle": "Πρωτότυπος τίτλος",
-          "originalLanguage": "Πρωτότυπη γλώσσα",
-          "rating": "Βαθμολογία",
-          "genres": "Είδη"
-        },
-        "search-list": {
-          "explore": "Εξερεύνηση",
-          "list": "Λίστα",
-          "toWatch": "Προς παρακολούθηση",
-          "watched": "Προβεβλημένα",
-          "by": "κατά",
-          "mostDailyPlayed": "Περισσότερες ημερήσιες προβολές",
-          "trending": "Τάσεις",
-          "popular": "Δημοφιλή",
-          "collection": "Συλλογή",
-          "recommendations": "Προτάσεις",
-          "watch-list": "Λίστα προβολών",
-          "history": "Ιστορικό",
-          "progress": "Πρόοδος",
-          "completed": "Ολοκληρωμένα"
-        },
-        "pop-over": {
-          "explore": "Εξερεύνηση",
-          "hideWatched": "Απόκρυψη προβεβλημένων",
-          "pickList": "Επιλέξτε μια λίστα",
-          "filters": "Φίλτρα"
-        }
-      }
-    },
-    "movie": {
-      "search-list": {
-        "search": "Αναζήτηση ταινίας"
-      },
-      "filter": {
-        "title": "Φίλτρα",
-        "rating": "Βαθμολογία",
-        "genre": "Είδος",
-        "certification": "Πιστοποίηση",
-        "year": "Έτος",
-        "apply": "Εφαρμογή",
-        "reset": "Επαναφορά"
-      }
-    },
-    "show": {
-      "search-list": {
-        "search": "Αναζήτηση σειράς",
-        "search-anime": "Αναζήτηση anime",
-        "myTvShows": "Οι σειρές μου",
-        "myAnime": "Τα anime μου"
-      },
-      "show-detail": {
-        "seasons": "Κύκλοι"
-      },
-      "episode-detail": {
-        "viewShow": "Προβολή σειράς"
-      }
-    },
-    "settings": {
-      "title": "Ρυθμίσεις",
-      "list": {
-        "kodi": {
-          "item": "Διαμόρφωση εξυπηρετητών"
-        },
-        "addons": {
-          "header": "Πρόσθετα",
-          "item": "Διαμόρφωση / Εγκατάσταση προσθέτων"
-        },
-        "notification": {
-          "header": "Ειδοποιήσεις",
-          "notificationNotGranted": "Οι ειδοποιήσεις του wako είναι ανενεργές. Άν επιθυμείτε να λαμβάνετε ειδοποιήσεις παρακαλείστε να τις ενεργοποιήσετε στις ρυθμίσεις του συστήματός σας",
-          "itemEnableTvShows": "Ενεργοποίηση ειδοποιήσεων σειρών",
-          "itemOnlyNewEpisodeOnUpToDateShows": "Ειδοποιήσεις μόνο για επόμενα στοιχεία προς παρακολούθηση"
-        },
-        "trakt": {
-          "totalWatchedMovies": "Σύνολο προβεβλημένων ταινιών",
-          "totalWatchedEpisodes": "Σύνολο προβεβλημένων επεισοδίων",
-          "totalWatchedEpisodesAnime": "Σύνολο προβεβλημένων επεισοδίων anime",
-          "apiStatus": "Κατάσταση Trakt API",
-          "logout": "Αποσύνδεση",
-          "signIn": "Σύνδεση ή εγγραφή στο Trakt",
-          "markMovieAsWatchedAuto": "Αυτόματη σήμανση ταινιών ως προβεβλημένες",
-          "markEpisodeAsWatchedAuto": "Αυτόματη σήμανση επεισοδίων ως προβεβλημένα",
-          "markAsWatchedAutoProgress": "Ποσοστό διάρκειας παρακολούθησης για σήμανση ως προβεβλημένο"
-        },
-        "simkl": {
-          "signIn": "Σύνδεση ή εγγραφή στο SIMKL"
-        },
-        "tracker": {
-          "header": "Ιχνηλάτης",
-          "movie": "Ιχνηλάτης για ταινίες",
-          "show": "Ιχνηλάτης για σειρές",
-          "not-recommended-warning": "Παρακαλώ λάβετε υπόψην ότι δέν προτείνεται η ταυτόχρονη χρήση Trakt + SIMKL για την ίδια κατηγορία και ενδέχεται να προκαλέσει σφάλματα/μη προβλεπόμενη συμπεριφορά του προγράμματος."
-        },
-        "application": {
-          "header": "Εφαρμογή",
-          "darkMode": "Σκούρο θέμα",
-          "lang": "Γλώσσα",
-          "review": "Γράψτε μία κριτική για την εφαρμογή",
-          "share": "Κοινοποιήστε την εφαρμογή",
-          "documentation": "Τεκμηρίωση λογισμικού",
-          "joinDiscord": "Είσοδος στην ομάδα Discord",
-          "joinTelegram": "Είσοδος στην ομάδα Telegram",
-          "support": "Υποστήριξη",
-          "clearCache": "Εκκαθάριση προσωρινής μνήμης",
-          "privacyPolicy": "Πολιτική απορρήτου",
-          "termsConditions": "Όροι & Προϋποθέσεις ",
-          "appVersion": "Έκδοση εφαρμογής"
-        },
-        "backup": {
-          "header": "Αντίγραφο ασφαλείας",
-          "enable-restore-settings": "Ενεργοποίηση δημιουγίας αντιγράφου ασφαλείας ρυθμίσεων",
-          "restore-settings": "Επαναφορά ρυθμίσεων απο αντίγραφο ασφαλείας",
-          "delete": "Διαγραφή online αντιγράφου ασφαλείας"
-        }
-      }
-    },
-    "kodi-detection": {
-      "title": "Εντοπισμός Kodi",
-      "skip": "Παράλειψη",
-      "cardContent": "Πραγματοποιείται αναζήτηση για εξυπηρετητές Kodi στο δίκτυό σας.<br />Επιλέξτε έναν απο τη λίστα για να το προσθέσετε ή επιλέξτε \"ΠΑΡΑΛΕΙΨΗ\" για να τον προσθέσετε χειροκίνητα.",
-      "detectedHosts": "Εντοπισμένοι εξυπηρετητές",
-      "detectHostHelper": "Δεν βρέθηκαν εξυπηρετητές ακόμα (ενδέχεται να χρειαστούν μερικά δευτερόλεπτα). Μήν ξεχάσετε να εκκινήσετε το Kodi<br><em>Ο αυτόματος εντοπισμός λειτουργεί μέσω του Zeroconf. Αν δεν εντοπίζεται το Kodi σας, δοκιμάστε να ενεργοποιήσετε το Zeroconf στο Kodi μέσω των <b>Ρυθμίσεων, στην ενότητα Υπηρεσίες > Γενικές και ενεργοποιήστε την ρύθμιση \"Ανακοινώστε υπηρεσίες σε άλλα συστήματα\"</b></em>",
-      "troubleShooting": "Αν συναντάτε οποιοδήποτε πρόβλημα στην σύνδεση του wako με το Kodi, παρακαλώ διαβάστε την τεκμηρίωση του λογισμικού <b>εδώ</b>"
-    },
-    "kodi-remote-list": {
-      "title": "Εξυπηρετητές Kodi",
-      "savedHosts": "Αποθηκευμένοι εξυπηρετητές",
-      "noHostsAdded": "Δεν έχουν προστεθεί εξυπηρετητές ακόμα",
-      "defaultHost": "Προεπιλεγμένος εξυπηρετητής",
-      "addHost": "ΠΡΟΣΘΗΚΗ",
-      "linkVolumeHardwareTitle": "Ένταση",
-      "linkVolumeHardware": "Σύνδεση υλικών πλήκτρων έντασης με την ένταση του Kodi κατά την αναπαραγωγή"
-    },
-    "kodi-settings": {
-      "title": "Διαμόρφωση εξυπηρετητών Kodi",
-      "form": {
-        "name": "Όνομα",
-        "ip": "Hostname/Διεύθυνση IP",
-        "port": "Host Port",
-        "advanced": "Προχωρημένες ρυθμίσεις",
-        "login": "Όνομα χρήστη (προαιρετικό)",
-        "password": "Κωδικός (προαιρετικό)",
-        "rpcPort": "JSON RPC port (προαιρετικό)",
-        "status": "Κατάσταση σύνδεσης:",
-        "save": "Αποθήκευση εξυπηρετητή",
-        "delete": "Διαγραφή εξυπηρετητή"
-      }
-    },
-    "addons": {
-      "title": "Πρόσθετα",
-      "need-contribute": "Η δοκιμαστική περίοδος έληξε, παρακαλείστε να συνεισφέρετε στο wako για να χρησιμοποιήσετε αυτή την λειτουργία",
-      "list-installed": {
-        "header": "Εγκατεστημένα πρόσθετα"
-      },
-      "list-available": {
-        "header": "Διαθέσιμα πρόσθετα"
-      },
-      "list-unknown-sources": {
-        "header": "Ρυθμίσεις",
-        "item": "Άγνωστες πηγές",
-        "third-party": "Προσθήκη πρόσθετου απο τρίτους",
-        "alert": "Τα πρόσθετα τρίτων θα αποκτήσουν πρόσβαση στα δεδομένα σας εντός αυτής της εφαρμογής. Επιτρέποντας αυτό, αποδέχεστε ότι φέρετε την ευθύνη για οποιαδήποτε πιθανή απώλεια προσωπικών δεδομένων ή ανεπιθύμητης συμπεριφοράς της εφαρμογής. Παρακαλούμε κατανοήστε ότι πρόσθετα απο τρίτους δεν αναπτύσσονται ούτε εγκρίνονται απο τους δημιουργούς του wako και το wako δεν είναι υπεύθυνο για τις λειτουργίες τους."
-      }
-    },
-    "addon": {
-      "title": "Πρόσθετο {{addonName}}",
-      "detail": "Λεπτομέρειες πρόσθετου",
-      "settings": "Ρυθμίσεις πρόσθετου",
-      "changeLogs": "Αρχεία καταγραφής αλλαγών",
-      "install": "Εγκατάσταση",
-      "uninstall": "Κατάργηση",
-      "thirdParty": "Αυτό το πρόσθετο δεν έχει αναπτυχθεί απο τους δημιουργούς του wako. Η χρήση προσθέτων απο τρίτους σας καταστά υπεύθυνους και οφείλει να υπόκειται στους νόμους της χώρας σας. Το wako δεν φέρει καμία ευθύνη",
-      "uninstall-confirm": {
-        "header": "Κατάργηση αυτού του πρόσθετου",
-        "message": "Είστε σίγουροι;"
-      },
-      "install-confirm": {
-        "header": "Εγκατάσταση αυτού του πρόσθετου",
-        "message": "Είστε σίγουροι;"
-      }
-    },
-    "addon-settings": {
-      "title": "Ρυθμίσεις πρόσθετου"
-    },
-    "addon-detail": {
-      "title": "Λεπτομέρειες πρόσθετου"
-    },
-    "movie-discover": {
-      "title": "Ανακαλύψτε ταινίες",
-      "select-filters": "Όλα τα φίλτρα είναι προαιρετικά",
-      "searching": "Έρευνα σε εξέλιξη, ενδέχεται να πάρει λίγη ώρα",
-      "continue": "Συνέχεια",
-      "next-movie": "Επόμενη",
-      "no-movie": "Δεν βρέθηκαν άλλες ταινίες για να ανακαλύψετε",
-      "restart": "Επανέναρξη",
-      "min-rating": "Ελάχιστη βαθμολογία",
-      "released-year": "Έτος κυκλοφορίας απο (year)"
-    }
-  },
-  "modals": {
-    "app-contribution": {
-      "title": "Wako Premium",
-      "premium-user": "Συγχαρητήρια, είστε χρήστης Premium.",
-      "explainUsername": "Το wako user ID παράγεται βάσει του Trakt ή SIMKL ID. Η συνεισφορά σας συνδέεται με το wako user ID σας.<br>Άν θέλετε να αλλάξετε απο Trakt σε SIMKL ή αντίστροφα, θυμηθείτε να παραμείνετε συνδεδεμένοι  στην υπηρεσία (Trakt ή SIMKL) στην οποία ήσασταν συνδεδεμένοι κατα τη διάρκεια της συνεισφοράς για να παραμείνετε Premium χρήστης.",
-      "explainTierText1": "Το προϊόν \"Tier\" είναι μια μοναδική συνεισφορά (εφ' όρου ζωής)",
-      "explainTierText2": "Υπάρχουν προϊόντα διαφόρων βαθμίδων, όλα όμως έχουν την ίδια επίδραση, μονάχα η τιμή αλλάζει, σας αφήνει την επιλογή να διαλέξετε ανάλογα με το τί αξία πιστεύετε οτι έχει για εσάς το wako",
-      "trialExpired": "Η περίοδος δοκιμής έχει λήξει. Για να συνεχίσετε να χρησιμοποιείτε την εφαρμογή, παρακαλώ διαλέξτε ένα προϊόν παρακάτω",
-      "iosTextSubscriptionMonthlyByProduct": "Μια αγορά αξίας {{ productPrice }}/μήνα θα προστεθεί στο λογαριασμό iTunes σας κατόπιν επιβεβαίωσης.",
-      "iosTextSubscriptionYearlyByProduct": "Μια αγορά αξίας {{ productPrice }}/έτος θα προστεθεί στο λογαριασμό iTunes σας κατόπιν επιβεβαίωσης",
-      "iosTextSubscriptionGeneral": "Οι συνδρομές ανανεώνονται αυτόματα εκτός και αν ακυρωθούν τουλάχιστον 24 ώρες πρίν τη ����ήξη της τέχουσας περιόδου. Μπορείτε να λήξετε την συνδρομή ανά πάσα στιγμή από τις ρυθμίσεις του λογαριασμού iTunes σας. Το οποιοδήποτε υπολειπόμενο διάστημα τής δοκιμαστικής περιόδου χάνεται αν αγοράσετε μία συνδρομή. Για περαιτέρω πληροφορίες, δείτε τους όρους και προϋποθέσεις μας, καθώς και την πολιτική απορρήτου.",
-      "subscriptionHeader": "Αυτόματα ανανεώσιμες συνδρομές",
-      "consumableHeader": "Μοναδική συνεισφορά (εφ' όρου ζωής)",
-      "otherSubscriptionHeader": "Λοιπές συνεισφορές",
-      "manualSubscription": "Εξατομικευμένη συνεισφορά",
-      "ads12hRemoval": "Αφαιρέστε τις διαφημίσεις πλήρους οθόνης για 12 ώρες βλέποντας δυο αμοιβόμενες διαφημίσεις",
-      "ads6hRemoval": "Αφαιρέστε τις διαφημίσεις πλήρους οθόνης για 6 ώρες βλέποντας μι αμοιβόμενη διαφήμιση",
-      "lifetime": "Μοναδική συνεισφορά (εφ' όρου ζωής)",
-      "username-header": "Το wako user ID σας"
-    },
-    "app-outdated": {
-      "text": "Η έκδοση της εφαρμογής είναι παλιά, απαιτείται ενημέρωση για να συνεχίσετε"
-    },
-    "kodi-remote-control": {
-      "title": "Τηλεχειριστήριο Kodi",
-      "host": "Εξυπηρετητής",
-      "noHost.message": "Δεν έχουν προστεθεί εξυπηρετητές ακόμη.",
-      "noHost.add": "Προσθήκη",
-      "hostUnreachable": "Ο εξυπηρετητής {{hostName}} δεν είναι διαθέσιμος",
-      "tryReconnect": "Δοκιμή επανασύνδεσης"
-    },
-    "list-picker": {
-      "title": "Επιλέξτε μία λίστα",
-      "search": "Αναζήτηση λίστας",
-      "sort": {
-        "label": "Ταξινόμηση κατά",
-        "options": {
-          "default": "Προεπιλογή",
-          "rank": "Κατάταξη",
-          "recentlyAdded": "Προστέθηκαν πρόσφατα",
-          "releasedDate": "Ημερομηνία κυκλοφορίας"
-        }
-      },
-      "myLists": "Οι λίστες μου",
-      "myLikedLists": "Λίστες που μου αρέσουν",
-      "trendingLists": "Τάσεις λιστών",
-      "popularLists": "Δημοφιλείς λίστες",
-      "likes": "likes",
-      "by": "από"
-    },
-    "install-addons": {
-      "title": "Δεν έχετε εγκατεστημένα πρόσθετα",
-      "button": "Ας εγκαταστήσουμε κάποια"
-    },
-    "signIn": {
-      "explain": "Μπορείτε να δείτε πληροφορίες χωρίς λογαριασμό Trakt/SIMKL, ωστόσο θα χρειαστείτε λογαριασμό για συγχρονισμό του ιστορικού προβολών, λιστών, κτλ. Κάνοντας χρήση ενός λογαριασμού Trakt/SIMKL έχετε πρόσβαση του ιστορικού σας σε όλες σας τις συσκευές που έχουν πρόσβαση στο λογαριασμό Trakt/SIMKL σας, συμπεριλαμβανομένου της ιστοσελίδας Trakt.tv/SIMKL.com."
-    }
-  },
-  "pop-over": {
-    "kodi-subtitles": {
-      "header": "Υπότιτλοι",
-      "enable": "Ενεργοποίηση υποτίτλων",
-      "select": "Υπότιτλος",
-      "download": "Λήψη",
-      "offset": "Χρονική μετατόπιση",
-      "close": "Κλείσιμο"
-    },
-    "kodi-audio": {
-      "header": "Ροή ήχου",
-      "select": "Ήχος"
-    }
-  },
-  "shared": {
-    "noResult": "Κανένα αποτέλεσμα",
-    "filtersApplied": "Έχουν εφαρμοστεί φίλτρα",
-    "cancel": "Ακύρωση",
-    "sign-in": {
-      "or": "ή",
-      "button": "Συνδεθείτε ή εγγραφείτε μέσω Trakt",
-      "simkl-button": "Συνδεθείτε ή εγγραφείτε μέσω SIMKL"
-    },
-    "misc": {
-      "aired": "Προβλήθηκε",
-      "airs": "Προβάλλεται"
-    },
-    "pasteMediaTitle": "Επικόλληση τίτλου βίντεο",
-    "install-addons": {
-      "text1": "Ξέρετε ότι μπορείτε να εγκαταστήσετε πρόσθετα στο wako;",
-      "text2": "Εγκαθιστώντας πρόσθετα επεκτείνετε τις δυνατότητες του wako που πληρούν τις απαιτήσεις σας"
-    },
-    "contribution": {
-      "feature-only-for-premium": "Diese Funktion ist ausschließlich für Premium-Nutzern verfügbar",
-      "need-contribute-button": "Etwas beitragen"
-    },
-    "calendar-pipe": {
-      "yesterday": "Χθές",
-      "today": "Σήμερα",
-      "tomorrow": "Αύριο",
-      "days-ago": "πρίν απο {{days}} μέρες",
-      "in-days": "σε {{days}} μέρες"
-    }
-  },
-  "toasts": {
-    "movie": {
-      "markAsWatched": "Η ταινία {{movieTitle}} σημάνθηκε ως προβεβλημένη",
-      "markAsUnwatched": "Η ταινία {{movieTitle}} σημάνθηκε ως μη προβεβλημένη",
-      "addedToWatchlist": "Η ταινία {{movieTitle}} προστέθηκε στη λίστα προβολών σας",
-      "removedFromWatchlist": "Η ταινία {{movieTitle}} αφαιρέθηκε από τη λίστα προβολών σας",
-      "addedToCollection": "Η ταινία {{movieTitle}} προστέθηκε στη συλλογή σας",
-      "removedFromCollection": "Η ταινία {{movieTitle}} αφαιρέθηκε από τη συλλογή σας",
-      "addedToUserList": "Η ταινία {{movieTitle}} προστέθηκε στη λίστα σας",
-      "removedFromUserList": "Η ταινία {{movieTitle}} αφαιρέθηκε από τη λίστα σας",
-      "noRandomMovieFound": "Δεν βρέθηκαν ταινίες για τα είδη: {{genreList}}",
-      "notFoundOnTrakt": "Η ταινία δεν βρέθηκε στο trakt"
-    },
-    "show": {
-      "addedToWatchlist": "Η σειρά {{showTitle}} προστέθηκε στη λίστα προβολών σας",
-      "removedFromWatchlist": "Η σειρά {{showTitle}} αφαιρέθηκε από τη λίστα προβολών σας",
-      "addedToCollection": "Η σειρά {{showTitle}} προστέθηκε στη συλλογή σας",
-      "removedFromCollection": "Η σειρά {{showTitle}} αφαιρέθηκε από τη συλλογή σας",
-      "addedToUserList": "Η σειρά {{showTitle}} προστέθηκε στη λίστα σας",
-      "removedFromUserList": "Η σειρά {{showTitle}} αφαιρέθηκε από τη λίστα σας",
-      "notFoundOnTrakt": "Η σειρά δεν βρέθηκε στο trakt"
-    },
-    "season": {
-      "markAsWatched": "Ο κύκλος {{seasonNumber}} της σειράς {{showTitle}} σημάνθηκε ως προβεβλημένος",
-      "markAsUnwatched": "Ο κύκλος {{seasonNumber}} της σειράς {{showTitle}} σημάνθηκε ως μη προβεβλημένος"
-    },
-    "episode": {
-      "markAsWatched": "Το επεισόδιο {{episodeCode}} της σειράς {{showTitle}} σημάνθηκε ως προβεβλημένο",
-      "markAsUnwatched": "Το επεισόδιο {{episodeCode}} της σειράς {{showTitle}} σημάνθηκε ως μη προβεβλημένο"
-    },
-    "kodi-remote-control": {
-      "warningWebsocket": "Προειδοποίηση - δεν είστε συνδεδεμένοι με το Kodi μέσω της υπηρεσίας websocket. Πρέπει να ενεργοποιήσετε (εντός του Kodi) την επιλογή:\nΝα επιτρέπεται ο απομακρυσμένος έλεγχος από εφαρμογές σε άλλα συστήματα\n\nΜεταβείτε στο https://wako.app/kodi-remote-control για περαιτέρω πληροφορίες"
-    },
-    "app": {
-      "traktApiIssue1": "Trakt API - Αποτυχία φόρτωσης του πόρου, παρακαλώ ξαναδοκιμάστε αργότερα (κωδικός σφάλματος {{errorStatus}})",
-      "traktApiServerOverloaded": "Trakt API - Ο διακομιστής είναι υπερφορτωμένος. Παρακαλώ ξαναδοκιμάστε σε 30 δευτερόλεπτα",
-      "traktNotConnectedAnyMore": "Trakt API - Δεν είστε πλέον συνδεδεμένοι στο Τrakt, παρακαλώ επανασυνδεθείτε",
-      "simklNotConnectedAnyMore": "Simkl API - Δεν είστε πλέον συνδεδεμένοι στο SIMKL, παρακαλώ επανασυνδεθείτε",
-      "simklApiServerOverloaded": "Simkl API - Ο διακομιστής είναι υπερφορτωμένος. Παρακαλώ ξαναδοκιμάστε σε 30 δευτερόλεπτα",
-      "newVersionAvailable": "Μία νέα έκδοση του wako είναι διαθέσιμη στο app store",
-      "updateInstalled": "Το wako ενημερώθηκε. Επανεκκινήστε την εφαρμογή για να απολαύσετε την ενημέρωση"
-    },
-    "settings": {
-      "cacheCleared": "Η προσωρινή μνήμη άδειασε"
-    },
-    "addons": {
-      "updated": "Τα παρακάτω πρόσθετα ενημερώθηκαν:<br>{{updatedAddons}}<br><br>Απαιτείται επανεκκίνηση του wako.",
-      "updatedWithRestart": "Τα παρακάτω πρόσθετα ενημερωθηκαν:<br>{{updatedAddons}}<br><br>Το wako θα πραγματοποιήσει επανεκκίνηση.",
-      "upToDate": "Τα πρόσθετα είναι ενημερωμένα."
-    },
-    "kodi": {
-      "hostUnreachable": "Ο εξυπηρετητής Kodi {{hostName}} δεν είναι διαθέσιμος",
-      "noHost": "Δεν έχει καταχωρηθεί εξυπηρετητής Kodi"
-    },
-    "ads": {
-      "block": "Απ' ότι φαίνεται χρησιμοποιείτε κάποιο ad blocker. Οι διαφημίσεις βοηθούν το wako να παραμείνει δωρεάν, αν θέλετε να μην τις βλέπετε μπορείτε να κάνετε μια συνεισφορά στο wako (Ρυθμίσεις > Συνεισφορά)"
-    },
-    "trailer": {
-      "noTrailer": "Δεν βρέθηκε trailer"
-    },
-    "premium-only": "Αυτή η λειτουργία είναι διαθέσιμη μόνο για χρήστες Premium",
-    "no-settings-saved": "Δυστυχώς δέν έχετε κάποιο αντίγραφο ασφαλείας ρυθμίσεων αποθηκευμένο online ακόμα.",
-    "contribution-added": "Ευχαριστούμε για την συνεισφορά σας. Είστε πλέον Premium χρήστης. Το wako θα κάνει επανεκκίνηση",
-    "backup-deleted": "Το αντίγραφο ασφαλείας διαγράφτηκε"
-  },
-  "alerts": {
-    "okButton": "Εντάξει",
-    "cancelButton": "Ακύρωση",
-    "app-contribution": {
-      "thanksMessage": "Ευχαριστούμε για τη συνεισφορά σας στο wako."
-    },
-    "movie": {
-      "random": {
-        "header": "Επιλογή τυχαίας ταινίας από τα είδη:"
-      }
-    },
-    "addons": {
-      "customManifestUrl": "Διεύθυνση URL πρόσθετου τρίτων",
-      "enterManifestUrl": "Πληκτρολογήστε την διεύθυνση manifest URL"
-    },
-    "show": {
-      "remove": "Να αφαιρεθεί αυτή η σειρά;",
-      "hidden-add": "Να αποκρυφτεί αυτή η σειρά;",
-      "hidden-remove": "Να επαναφερθεί αυτή η σειρά;"
-    },
-    "kodi": {
-      "openUrl": "Άνοιγμα διεύθυνσης URL"
-    },
-    "restore-settings": {
-      "restore-header": "Επαναφορά ρυθμίσεων",
-      "restore-date": "Θέλετε να επαναφέρετε τις ρυθμίσεις σας, αποθηκευμένες στις {{date}};"
-    },
-    "delete-backup": {
-      "header": "Διαγραφή αντιγράφου ασφαλείας",
-      "restore-date": "Θέλετε να διαγράψετε το αντίγραφο ασφαλείας σας, αποθηκευμένο στις {{date}};"
-    },
-    "simkl": {
-      "pinCode": "Παρακαλώ πηγαίνετε στο {{url}} και εισάγετε τον κωδικό {{code}}"
-    }
-  },
-  "notifications": {
-    "shows": {
-      "newEpisode": "Νέο επεισόδιο: {{showTitle}} {{episodeCode}}"
-    }
-  },
-  "actionSheets": {
-    "addToWatchList": "Προσθήκη στη λίστα προβολών",
-    "removeFromWatchList": "Αφαίρεση από τη λίστα προβολών",
-    "addToCollection": "Προσθήκη στη συλλογή",
-    "removeFromCollection": "Αφαίρεση από τη συλλογή",
-    "addToList": "Προσθήκη στη λίστα {{listName}}",
-    "removeFromList": "Αφαίρεση από τη λίστα {{listName}}",
-    "file-action": {
-      "actions": {
-        "wako-video-player": "Ενσωματωμένο πρόγραμμα αναπαραγωγής βίντεο"
-      }
-    }
-  }
+  "actionSheets.addToCollection": "Προσθήκη στη συλλογή",
+  "actionSheets.addToList": "Προσθήκη στη λίστα {{listName}}",
+  "actionSheets.addToWatchList": "Προσθήκη στη λίστα προβολών",
+  "actionSheets.file-action.actions.add-to-playlist": "Προσθέστε στη λίστα αναπαραγωγής σας",
+  "actionSheets.file-action.actions.cast": "Cast",
+  "actionSheets.file-action.actions.copy-url": "Αντιγραφή URL",
+  "actionSheets.file-action.actions.download-vlc": "Λήψη με VLC",
+  "actionSheets.file-action.actions.open-with": "Άλλη εφαρμογή",
+  "actionSheets.file-action.actions.play-browser": "Πρόγραμμα περιήγησης",
+  "actionSheets.file-action.actions.play-infuse": "Infuse",
+  "actionSheets.file-action.actions.play-kodi": "Kodi",
+  "actionSheets.file-action.actions.play-nplayer": "NPlayer",
+  "actionSheets.file-action.actions.play-vlc": "VLC",
+  "actionSheets.file-action.actions.share-url": "Μοιραστείτε το",
+  "actionSheets.file-action.actions.wako-video-player": "Ενσωματωμένο πρόγραμμα αναπαραγωγής βίντεο",
+  "actionSheets.file-action.openTitle": "Ανοίξτε με",
+  "actionSheets.removeFromCollection": "Αφαίρεση από τη συλλογή",
+  "actionSheets.removeFromList": "Αφαίρεση από τη λίστα {{listName}}",
+  "actionSheets.removeFromWatchList": "Αφαίρεση από τη λίστα προβολών",
+  "alerts.addons.customManifestUrl": "Διεύθυνση URL πρόσθετου τρίτων",
+  "alerts.addons.enterManifestUrl": "Πληκτρολογήστε την διεύθυνση manifest URL",
+  "alerts.app-contribution.thanksMessage": "Ευχαριστούμε για τη συνεισφορά σας στο wako.",
+  "alerts.cancelButton": "Ακύρωση",
+  "alerts.clear-resume.message": "Διαγραφή όλων των στοιχείων;",
+  "alerts.delete-backup.header": "Διαγραφή αντιγράφου ασφαλείας",
+  "alerts.delete-backup.restore-date": "Θέλετε να διαγράψετε το αντίγραφο ασφαλείας σας, αποθηκευμένο στις {{date}};",
+  "alerts.deleteAccount": "Διαγραφή λογαριασμού",
+  "alerts.deleteAccountConfirmation": "Είστε σίγουροι ότι θέλετε να διαγράψετε τον λογαριασμό σας; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.",
+  "alerts.kodi.openUrl": "Άνοιγμα διεύθυνσης URL",
+  "alerts.movie.random.header": "Επιλογή τυχαίας ταινίας από τα είδη:",
+  "alerts.okButton": "Εντάξει",
+  "alerts.promoteAndroidTv.message": "Γεια σας, ήθελα να σας ενημερώσω ότι το wako είναι τώρα διαθέσιμο στο Android TV. Τώρα μπορείτε να απολαμβάνετε τις αγαπημένες σας ταινίες και εκπομπές στην τηλεόρασή σας.",
+  "alerts.restore-settings.restore-date": "Θέλετε να επαναφέρετε τις ρυθμίσεις σας, αποθηκευμένες στις {{date}};",
+  "alerts.restore-settings.restore-header": "Επαναφορά ρυθμίσεων",
+  "alerts.show.hidden-add": "Να αποκρυφτεί αυτή η σειρά;",
+  "alerts.show.hidden-remove": "Να επαναφερθεί αυτή η σειρά;",
+  "alerts.show.remove": "Να αφαιρεθεί αυτή η σειρά;",
+  "alerts.simkl.pinCode": "Παρακαλώ πηγαίνετε στο {{url}} και εισάγετε τον κωδικό {{code}}",
+  "modals.app-contribution.ads12hRemoval": "Αφαιρέστε τις διαφημίσεις πλήρους οθόνης για 12 ώρες βλέποντας δυο αμοιβόμενες διαφημίσεις",
+  "modals.app-contribution.ads6hRemoval": "Αφαιρέστε τις διαφημίσεις πλήρους οθόνης για 6 ώρες βλέποντας μι αμοιβόμενη διαφήμιση",
+  "modals.app-contribution.androidTextSubscriptionGeneral": "Οι συνδρομές θα ανανεώνονται αυτόματα, εκτός εάν ακυρωθούν τουλάχιστον 24 ώρες πριν από το τέλος της τρέχουσας περιόδου. Μπορείτε να ακυρώσετε ανά πάσα στιγμή με τις ρυθμίσεις του λογαριασμού σας στο Google Play.",
+  "modals.app-contribution.consumableHeader": "Μοναδική συνεισφορά (εφ' όρου ζωής)",
+  "modals.app-contribution.explainContent": "Ξεκλειδώστε αυτές τις λειτουργίες με το να γίνετε χρήστης Premium: <ul><li>Δεν υπάρχουν πλέον διαφημίσεις</li><li>Δυνατότητα λίστας αναπαραγωγής</li><li>Απεριόριστοι κεντρικοί υπολογιστές Kodi</li><li>Ρυθμίσεις δημιουργίας αντιγράφων ασφαλείας</li></ul><br>Όλες οι συσκευές που είναι συνδεδεμένες στον ίδιο χρήστη θα επηρεαστούν.",
+  "modals.app-contribution.explainMembership": "Μάθετε περισσότερα για τη συνδρομή μου",
+  "modals.app-contribution.explainTierText1": "Το προϊόν \"Tier\" είναι μια μοναδική συνεισφορά (εφ' όρου ζωής)",
+  "modals.app-contribution.explainTierText2": "Υπάρχουν προϊόντα διαφόρων βαθμίδων, όλα όμως έχουν την ίδια επίδραση, μονάχα η τιμή αλλάζει, σας αφήνει την επιλογή να διαλέξετε ανάλογα με το τί αξία πιστεύετε οτι έχει για εσάς το wako",
+  "modals.app-contribution.iosTextSubscriptionGeneral": "Οι συνδρομές ανανεώνονται αυτόματα εκτός και αν ακυρωθούν τουλάχιστον 24 ώρες πρίν τη ����ήξη της τέχουσας περιόδου. Μπορείτε να λήξετε την συνδρομή ανά πάσα στιγμή από τις ρυθμίσεις του λογαριασμού iTunes σας. Το οποιοδήποτε υπολειπόμενο διάστημα τής δοκιμαστικής περιόδου χάνεται αν αγοράσετε μία συνδρομή. Για περαιτέρω πληροφορίες, δείτε τους όρους και προϋποθέσεις μας, καθώς και την πολιτική απορρήτου.",
+  "modals.app-contribution.iosTextSubscriptionMonthlyByProduct": "Μια αγορά αξίας {{ productPrice }}/μήνα θα προστεθεί στο λογαριασμό iTunes σας κατόπιν επιβεβαίωσης.",
+  "modals.app-contribution.iosTextSubscriptionYearlyByProduct": "Μια αγορά αξίας {{ productPrice }}/έτος θα προστεθεί στο λογαριασμό iTunes σας κατόπιν επιβεβαίωσης",
+  "modals.app-contribution.lifetime": "Μοναδική συνεισφορά (εφ' όρου ζωής)",
+  "modals.app-contribution.manualSubscription": "Εξατομικευμένη συνεισφορά",
+  "modals.app-contribution.otherSubscriptionHeader": "Λοιπές συνεισφορές",
+  "modals.app-contribution.premium-user": "Συγχαρητήρια, είστε χρήστης Premium.",
+  "modals.app-contribution.restore-button": "Επαναφορά αγορών",
+  "modals.app-contribution.subscriptionHeader": "Αυτόματα ανανεώσιμες συνδρομές",
+  "modals.app-contribution.title": "Wako Premium",
+  "modals.app-contribution.trialExpired": "Η περίοδος δοκιμής έχει λήξει. Για να συνεχίσετε να χρησιμοποιείτε την εφαρμογή, παρακαλώ διαλέξτε ένα προϊόν παρακάτω",
+  "modals.app-contribution.username-header": "Το wako user ID σας",
+  "modals.app-outdated.text": "Η έκδοση της εφαρμογής είναι παλιά, απαιτείται ενημέρωση για να συνεχίσετε",
+  "modals.install-addons.button": "Ας εγκαταστήσουμε κάποια",
+  "modals.install-addons.title": "Δεν έχετε εγκατεστημένα πρόσθετα",
+  "modals.kodi-remote-control.configure": "Ρύθμιση παραμέτρων",
+  "modals.kodi-remote-control.host": "Εξυπηρετητής",
+  "modals.kodi-remote-control.hostUnreachable": "Ο εξυπηρετητής {{hostName}} δεν είναι διαθέσιμος",
+  "modals.kodi-remote-control.noHost.add": "Προσθήκη",
+  "modals.kodi-remote-control.noHost.message": "Δεν έχουν προστεθεί εξυπηρετητές ακόμη.",
+  "modals.kodi-remote-control.title": "Τηλεχειριστήριο Kodi",
+  "modals.kodi-remote-control.tryReconnect": "Δοκιμή επανασύνδεσης",
+  "modals.list-picker.by": "από",
+  "modals.list-picker.likes": "likes",
+  "modals.list-picker.myLikedLists": "Λίστες που μου αρέσουν",
+  "modals.list-picker.myLists": "Οι λίστες μου",
+  "modals.list-picker.popularLists": "Δημοφιλείς λίστες",
+  "modals.list-picker.search": "Αναζήτηση λίστας",
+  "modals.list-picker.sort.label": "Ταξινόμηση κατά",
+  "modals.list-picker.sort.options.default": "Προεπιλογή",
+  "modals.list-picker.sort.options.rank": "Κατάταξη",
+  "modals.list-picker.sort.options.recentlyAdded": "Προστέθηκαν πρόσφατα",
+  "modals.list-picker.sort.options.recentlyAired": "Πρόσφατα προβλήθηκε",
+  "modals.list-picker.sort.options.recentlyWatched": "Πρόσφατα παρακολουθημένο",
+  "modals.list-picker.sort.options.releasedDate": "Ημερομηνία κυκλοφορίας",
+  "modals.list-picker.title": "Επιλέξτε μία λίστα",
+  "modals.list-picker.trendingLists": "Τάσεις λιστών",
+  "modals.signIn.explain": "Μπορείτε να δείτε πληροφορίες χωρίς λογαριασμό Trakt/SIMKL, ωστόσο θα χρειαστείτε λογαριασμό για συγχρονισμό του ιστορικού προβολών, λιστών, κτλ. Κάνοντας χρήση ενός λογαριασμού Trakt/SIMKL έχετε πρόσβαση του ιστορικού σας σε όλες σας τις συσκευές που έχουν πρόσβαση στο λογαριασμό Trakt/SIMKL σας, συμπεριλαμβανομένου της ιστοσελίδας Trakt.tv/SIMKL.com.",
+  "notifications.shows.newEpisode": "Νέο επεισόδιο: {{showTitle}} {{episodeCode}}",
+  "pages.addon-detail.title": "Λεπτομέρειες πρόσθετου",
+  "pages.addon-settings.title": "Ρυθμίσεις πρόσθετου",
+  "pages.addon.changeLogs": "Αρχεία καταγραφής αλλαγών",
+  "pages.addon.detail": "Λεπτομέρειες πρόσθετου",
+  "pages.addon.install": "Εγκατάσταση",
+  "pages.addon.install-confirm.header": "Εγκατάσταση αυτού του πρόσθετου",
+  "pages.addon.install-confirm.message": "Είστε σίγουροι;",
+  "pages.addon.settings": "Ρυθμίσεις πρόσθετου",
+  "pages.addon.thirdParty": "Αυτό το πρόσθετο δεν έχει αναπτυχθεί απο τους δημιουργούς του wako. Η χρήση προσθέτων απο τρίτους σας καταστά υπεύθυνους και οφείλει να υπόκειται στους νόμους της χώρας σας. Το wako δεν φέρει καμία ευθύνη",
+  "pages.addon.title": "Πρόσθετο {{addonName}}",
+  "pages.addon.uninstall": "Κατάργηση",
+  "pages.addon.uninstall-confirm.header": "Κατάργηση αυτού του πρόσθετου",
+  "pages.addon.uninstall-confirm.message": "Είστε σίγουροι;",
+  "pages.addons.list-available.header": "Διαθέσιμα πρόσθετα",
+  "pages.addons.list-installed.header": "Εγκατεστημένα πρόσθετα",
+  "pages.addons.list-unknown-sources.alert": "Τα πρόσθετα τρίτων θα αποκτήσουν πρόσβαση στα δεδομένα σας εντός αυτής της εφαρμογής. Επιτρέποντας αυτό, αποδέχεστε ότι φέρετε την ευθύνη για οποιαδήποτε πιθανή απώλεια προσωπικών δεδομένων ή ανεπιθύμητης συμπεριφοράς της εφαρμογής. Παρακαλούμε κατανοήστε ότι πρόσθετα απο τρίτους δεν αναπτύσσονται ούτε εγκρίνονται απο τους δημιουργούς του wako και το wako δεν είναι υπεύθυνο για τις λειτουργίες τους.",
+  "pages.addons.list-unknown-sources.header": "Ρυθμίσεις",
+  "pages.addons.list-unknown-sources.item": "Άγνωστες πηγές",
+  "pages.addons.list-unknown-sources.third-party": "Προσθήκη πρόσθετου απο τρίτους",
+  "pages.addons.need-contribute": "Η δοκιμαστική περίοδος έληξε, παρακαλείστε να συνεισφέρετε στο wako για να χρησιμοποιήσετε αυτή την λειτουργία",
+  "pages.addons.title": "Πρόσθετα",
+  "pages.filer-settings.actions.header": "Ταξινόμηση/ενεργοποίηση ανοικτών ενεργειών",
+  "pages.filer-settings.title": "Διαμόρφωση της Εξερεύνησης αρχείων",
+  "pages.filer-settings.video-type.explainTranscoded": "Ορισμένες υπηρεσίες δημιουργούν μετακωδικοποιημένα αρχεία των βίντεο σας σε μορφή που είναι συμβατή με σχεδόν κάθε συσκευή αναπαραγωγής, συμπεριλαμβανομένου του Chromecast που υποστηρίζει μόνο λίγες μορφές βίντεο. Είναι προτιμότερο να το ενεργοποιήσετε για το Chromecast. Λάβετε υπόψη ότι τα μετακωδικοποιημένα αρχεία ενδέχεται να μην περιλαμβάνουν άλλους υπότιτλους/ηχητικά κομμάτια που θα μπορούσαν να περιλαμβάνουν τα αρχικά αρχεία.",
+  "pages.filer-settings.video-type.header": "Μετακωδικοποιημένα αρχεία",
+  "pages.filer-settings.video-type.preferTranscoded": "Προτιμήστε μετακωδικοποιημένα αρχεία",
+  "pages.filer-settings.video-type.preferTranscodedFilesChromecast": "Προτιμήστε μετακωδικοποιημένα αρχεία μόνο για Chromecast",
+  "pages.filer.noCompatibleAddon": "Δεν έχετε εγκαταστήσει ακόμα κανένα συμβατό πρόσθετο",
+  "pages.filer.title": "Εξερεύνηση αρχείων",
+  "pages.home.hi": "Χαίρετε",
+  "pages.home.nothingToResume": "Η λίστα αναπαραγωγής σας είναι άδεια",
+  "pages.home.retry": "Δοκιμάστε ξανά",
+  "pages.home.segment.calendar": "Ημερολόγιο",
+  "pages.home.segment.resume": "Συνέχιση",
+  "pages.home.segment.upNext": "Επόμενα στοιχεία",
+  "pages.home.upNextToWatch": "Επόμενα στοιχεία προς παρακολούθηση",
+  "pages.home.upToDate": "Δεν σας απομένει τίποτα νέο να δείτε, είστε ενήμεροι :)",
+  "pages.kodi-detection.cardContent": "Πραγματοποιείται αναζήτηση για εξυπηρετητές Kodi στο δίκτυό σας.<br />Επιλέξτε έναν απο τη λίστα για να το προσθέσετε ή επιλέξτε \"ΠΑΡΑΛΕΙΨΗ\" για να τον προσθέσετε χειροκίνητα.",
+  "pages.kodi-detection.detectedHosts": "Εντοπισμένοι εξυπηρετητές",
+  "pages.kodi-detection.detectHostHelper": "Δεν βρέθηκαν εξυπηρετητές ακόμα (ενδέχεται να χρειαστούν μερικά δευτερόλεπτα). Μήν ξεχάσετε να εκκινήσετε το Kodi<br><em>Ο αυτόματος εντοπισμός λειτουργεί μέσω του Zeroconf. Αν δεν εντοπίζεται το Kodi σας, δοκιμάστε να ενεργοποιήσετε το Zeroconf στο Kodi μέσω των <b>Ρυθμίσεων, στην ενότητα Υπηρεσίες > Γενικές και ενεργοποιήστε την ρύθμιση \"Ανακοινώστε υπηρεσίες σε άλλα συστήματα\"</b></em>",
+  "pages.kodi-detection.skip": "Παράλειψη",
+  "pages.kodi-detection.title": "Εντοπισμός Kodi",
+  "pages.kodi-detection.troubleShooting": "Αν συναντάτε οποιοδήποτε πρόβλημα στην σύνδεση του wako με το Kodi, παρακαλώ διαβάστε την τεκμηρίωση του λογισμικού <b>εδώ</b>",
+  "pages.kodi-remote-list.addHost": "ΠΡΟΣΘΗΚΗ",
+  "pages.kodi-remote-list.defaultHost": "Προεπιλεγμένος εξυπηρετητής",
+  "pages.kodi-remote-list.linkVolumeHardware": "Σύνδεση υλικών πλήκτρων έντασης με την ένταση του Kodi κατά την αναπαραγωγή",
+  "pages.kodi-remote-list.linkVolumeHardwareTitle": "Ένταση",
+  "pages.kodi-remote-list.noHostsAdded": "Δεν έχουν προστεθεί εξυπηρετητές ακόμα",
+  "pages.kodi-remote-list.savedHosts": "Αποθηκευμένοι εξυπηρετητές",
+  "pages.kodi-remote-list.title": "Εξυπηρετητές Kodi",
+  "pages.kodi-settings.form.advanced": "Προχωρημένες ρυθμίσεις",
+  "pages.kodi-settings.form.delete": "Διαγραφή εξυπηρετητή",
+  "pages.kodi-settings.form.ip": "Hostname/Διεύθυνση IP",
+  "pages.kodi-settings.form.login": "Όνομα χρήστη (προαιρετικό)",
+  "pages.kodi-settings.form.name": "Όνομα",
+  "pages.kodi-settings.form.password": "Κωδικός (προαιρετικό)",
+  "pages.kodi-settings.form.port": "Host Port",
+  "pages.kodi-settings.form.rpcPort": "JSON RPC port (προαιρετικό)",
+  "pages.kodi-settings.form.save": "Αποθήκευση εξυπηρετητή",
+  "pages.kodi-settings.form.status": "Κατάσταση σύνδεσης:",
+  "pages.kodi-settings.title": "Διαμόρφωση εξυπηρετητών Kodi",
+  "pages.login.message": "Συνδεθείτε ή εγγραφείτε στο Trakt για να δείτε τις Ταινίες/Σειρές σας",
+  "pages.media.shared.detail.alternativeTitle": "Εναλλακτικός τίτλος",
+  "pages.media.shared.detail.cast": "Ηθοποιοί",
+  "pages.media.shared.detail.certification": "Πιστοποίηση",
+  "pages.media.shared.detail.episodes": "Επεισόδια",
+  "pages.media.shared.detail.fullCast": "Πλήρης λίστα συντελεστών",
+  "pages.media.shared.detail.genres": "Είδη",
+  "pages.media.shared.detail.imdbRating": " Βαθμολογία IMDb:",
+  "pages.media.shared.detail.network": "Δίκτυο",
+  "pages.media.shared.detail.originalLanguage": "Πρωτότυπη γλώσσα",
+  "pages.media.shared.detail.originalTitle": "Πρωτότυπος τίτλος",
+  "pages.media.shared.detail.overview": "Επισκόπηση",
+  "pages.media.shared.detail.rating": "Βαθμολογία",
+  "pages.media.shared.detail.related": "Περισσότερα σάν αυτό",
+  "pages.media.shared.detail.release": "Κυκλοφορία",
+  "pages.media.shared.detail.resume-button": "Βιογραφικό σημείωμα",
+  "pages.media.shared.detail.runtime": "Διάρκεια",
+  "pages.media.shared.detail.status": "Κατάσταση",
+  "pages.media.shared.detail.type": "Τύπος",
+  "pages.media.shared.detail.viewOnIMDb": "Προβολή στο IMDb",
+  "pages.media.shared.pop-over.explore": "Εξερεύνηση",
+  "pages.media.shared.pop-over.filters": "Φίλτρα",
+  "pages.media.shared.pop-over.hideWatched": "Απόκρυψη προβεβλημένων",
+  "pages.media.shared.pop-over.pickList": "Επιλέξτε μια λίστα",
+  "pages.media.shared.search-list.by": "κατά",
+  "pages.media.shared.search-list.collection": "Συλλογή",
+  "pages.media.shared.search-list.completed": "Ολοκληρωμένα",
+  "pages.media.shared.search-list.explore": "Εξερεύνηση",
+  "pages.media.shared.search-list.history": "Ιστορικό",
+  "pages.media.shared.search-list.list": "Λίστα",
+  "pages.media.shared.search-list.mostDailyPlayed": "Περισσότερες ημερήσιες προβολές",
+  "pages.media.shared.search-list.on-hold": "Σε αναμονή",
+  "pages.media.shared.search-list.popular": "Δημοφιλή",
+  "pages.media.shared.search-list.progress": "Πρόοδος",
+  "pages.media.shared.search-list.recommendations": "Προτάσεις",
+  "pages.media.shared.search-list.toWatch": "Προς παρακολούθηση",
+  "pages.media.shared.search-list.trending": "Τάσεις",
+  "pages.media.shared.search-list.watch-list": "Λίστα προβολών",
+  "pages.media.shared.search-list.watched": "Προβεβλημένα",
+  "pages.movie-discover.continue": "Συνέχεια",
+  "pages.movie-discover.min-rating": "Ελάχιστη βαθμολογία",
+  "pages.movie-discover.next-movie": "Επόμενη",
+  "pages.movie-discover.no-movie": "Δεν βρέθηκαν άλλες ταινίες για να ανακαλύψετε",
+  "pages.movie-discover.released-year": "Έτος κυκλοφορίας απο (year)",
+  "pages.movie-discover.restart": "Επανέναρξη",
+  "pages.movie-discover.searching": "Έρευνα σε εξέλιξη, ενδέχεται να πάρει λίγη ώρα",
+  "pages.movie-discover.select-filters": "Όλα τα φίλτρα είναι προαιρετικά",
+  "pages.movie-discover.title": "Ανακαλύψτε ταινίες",
+  "pages.movie.filter.apply": "Εφαρμογή",
+  "pages.movie.filter.certification": "Πιστοποίηση",
+  "pages.movie.filter.genre": "Είδος",
+  "pages.movie.filter.rating": "Βαθμολογία",
+  "pages.movie.filter.reset": "Επαναφορά",
+  "pages.movie.filter.title": "Φίλτρα",
+  "pages.movie.filter.year": "Έτος",
+  "pages.movie.not-on-tracking-platform": "Αυτή η ταινία δεν υπάρχει στην πλατφόρμα παρακολούθησης",
+  "pages.movie.search-list.search": "Αναζήτηση ταινίας",
+  "pages.search.search-results.anime": "Αποτελέσματα αναζήτησης - Anime",
+  "pages.search.search-results.movies": "Αποτελέσματα αναζήτησης - Movies",
+  "pages.search.search-results.shows": "Αποτελέσματα αναζήτησης - Shows",
+  "pages.search.trending.anime": "Trending Anime",
+  "pages.search.trending.movies": "Τρέχουσες ταινίες",
+  "pages.search.trending.shows": "Τρέχουσες εκπομπές",
+  "pages.settings.list.account.deleteAccount": "Διαγραφή λογαριασμού",
+  "pages.settings.list.account.header": "Λογαριασμός",
+  "pages.settings.list.account.login": "Σύνδεση",
+  "pages.settings.list.account.logout": "Αποσύνδεση",
+  "pages.settings.list.account.premium": "Διαχείριση μελών",
+  "pages.settings.list.addons.header": "Πρόσθετα",
+  "pages.settings.list.addons.item": "Διαμόρφωση / Εγκατάσταση προσθέτων",
+  "pages.settings.list.application.appVersion": "Έκδοση εφαρμογής",
+  "pages.settings.list.application.clearCache": "Εκκαθάριση προσωρινής μνήμης",
+  "pages.settings.list.application.darkMode": "Σκούρο θέμα",
+  "pages.settings.list.application.documentation": "Τεκμηρίωση λογισμικού",
+  "pages.settings.list.application.header": "Εφαρμογή",
+  "pages.settings.list.application.joinDiscord": "Είσοδος στην ομάδα Discord",
+  "pages.settings.list.application.joinTelegram": "Είσοδος στην ομάδα Telegram",
+  "pages.settings.list.application.lang": "Γλώσσα",
+  "pages.settings.list.application.privacyPolicy": "Πολιτική απορρήτου",
+  "pages.settings.list.application.review": "Γράψτε μία κριτική για την εφαρμογή",
+  "pages.settings.list.application.share": "Κοινοποιήστε την εφαρμογή",
+  "pages.settings.list.application.support": "Υποστήριξη",
+  "pages.settings.list.application.termsConditions": "Όροι & Προϋποθέσεις ",
+  "pages.settings.list.backup.backup-settings": "Ρυθμίσεις αντιγράφων ασφαλείας",
+  "pages.settings.list.backup.delete": "Διαγραφή online αντιγράφου ασφαλείας",
+  "pages.settings.list.backup.enable-automatic-backup": "Ενεργοποίηση αυτόματης δημιουργίας αντιγράφων ασφαλείας",
+  "pages.settings.list.backup.enable-restore-settings": "Ενεργοποίηση δημιουγίας αντιγράφου ασφαλείας ρυθμίσεων",
+  "pages.settings.list.backup.header": "Αντίγραφο ασφαλείας",
+  "pages.settings.list.backup.restore-settings": "Επαναφορά ρυθμίσεων απο αντίγραφο ασφαλείας",
+  "pages.settings.list.filer.header": "Εξερεύνηση αρχείων",
+  "pages.settings.list.filer.hideTab": "Απόκρυψη καρτέλας File Explorer",
+  "pages.settings.list.filer.item": "Ρύθμιση παραμέτρων",
+  "pages.settings.list.kodi.item": "Διαμόρφωση εξυπηρετητών",
+  "pages.settings.list.movies.default": "Προεπιλογή",
+  "pages.settings.list.movies.header": "Ταινίες",
+  "pages.settings.list.movies.which-provider": "Πάροχος αναζήτησης",
+  "pages.settings.list.music-controls.enabled": "Ενεργοποίηση",
+  "pages.settings.list.music-controls.header": "Έλεγχος μουσικής Ειδοποίηση",
+  "pages.settings.list.music-controls.swipeToClose": "Σαρώστε για να κλείσετε",
+  "pages.settings.list.notification.header": "Ειδοποιήσεις",
+  "pages.settings.list.notification.itemEnableTvShows": "Ενεργοποίηση ειδοποιήσεων σειρών",
+  "pages.settings.list.notification.itemOnlyNewEpisodeOnUpToDateShows": "Ειδοποιήσεις μόνο για επόμενα στοιχεία προς παρακολούθηση",
+  "pages.settings.list.notification.notificationNotGranted": "Οι ειδοποιήσεις του wako είναι ανενεργές. Άν επιθυμείτε να λαμβάνετε ειδοποιήσεις παρακαλείστε να τις ενεργοποιήσετε στις ρυθμίσεις του συστήματός σας",
+  "pages.settings.list.shows.header": "Τηλεοπτικές εκπομπές",
+  "pages.settings.list.simkl.signIn": "Σύνδεση ή εγγραφή στο SIMKL",
+  "pages.settings.list.tracker.header": "Ιχνηλάτης",
+  "pages.settings.list.tracker.movie": "Ιχνηλάτης για ταινίες",
+  "pages.settings.list.tracker.not-recommended-warning": "Παρακαλώ λάβετε υπόψην ότι δέν προτείνεται η ταυτόχρονη χρήση Trakt + SIMKL για την ίδια κατηγορία και ενδέχεται να προκαλέσει σφάλματα/μη προβλεπόμενη συμπεριφορά του προγράμματος.",
+  "pages.settings.list.tracker.show": "Ιχνηλάτης για σειρές",
+  "pages.settings.list.trakt.apiStatus": "Κατάσταση Trakt API",
+  "pages.settings.list.trakt.disconnect": "Αποσύνδεση",
+  "pages.settings.list.trakt.markAsWatchedAutoProgress": "Ποσοστό διάρκειας παρακολούθησης για σήμανση ως προβεβλημένο",
+  "pages.settings.list.trakt.markEpisodeAsWatchedAuto": "Αυτόματη σήμανση επεισοδίων ως προβεβλημένα",
+  "pages.settings.list.trakt.markMovieAsWatchedAuto": "Αυτόματη σήμανση ταινιών ως προβεβλημένες",
+  "pages.settings.list.trakt.signIn": "Σύνδεση ή εγγραφή στο Trakt",
+  "pages.settings.list.trakt.totalWatchedEpisodes": "Σύνολο προβεβλημένων επεισοδίων",
+  "pages.settings.list.trakt.totalWatchedEpisodesAnime": "Σύνολο προβεβλημένων επεισοδίων anime",
+  "pages.settings.list.trakt.totalWatchedMovies": "Σύνολο προβεβλημένων ταινιών",
+  "pages.settings.title": "Ρυθμίσεις",
+  "pages.show.episode-detail.viewShow": "Προβολή σειράς",
+  "pages.show.search-list.myAnime": "Τα anime μου",
+  "pages.show.search-list.myTvShows": "Οι σειρές μου",
+  "pages.show.search-list.search": "Αναζήτηση σειράς",
+  "pages.show.search-list.search-anime": "Αναζήτηση anime",
+  "pages.show.show-detail.seasons": "Κύκλοι",
+  "pop-over.kodi-audio.header": "Ροή ήχου",
+  "pop-over.kodi-audio.select": "Ήχος",
+  "pop-over.kodi-subtitles.close": "Κλείσιμο",
+  "pop-over.kodi-subtitles.download": "Λήψη",
+  "pop-over.kodi-subtitles.enable": "Ενεργοποίηση υποτίτλων",
+  "pop-over.kodi-subtitles.header": "Υπότιτλοι",
+  "pop-over.kodi-subtitles.offset": "Χρονική μετατόπιση",
+  "pop-over.kodi-subtitles.select": "Υπότιτλος",
+  "shared.calendar-pipe.days-ago": "πρίν απο {{days}} μέρες",
+  "shared.calendar-pipe.in-days": "σε {{days}} μέρες",
+  "shared.calendar-pipe.today": "Σήμερα",
+  "shared.calendar-pipe.tomorrow": "Αύριο",
+  "shared.calendar-pipe.yesterday": "Χθές",
+  "shared.cancel": "Ακύρωση",
+  "shared.contribution.feature-only-for-premium": "Diese Funktion ist ausschließlich für Premium-Nutzern verfügbar",
+  "shared.contribution.need-contribute-button": "Etwas beitragen",
+  "shared.filtersApplied": "Έχουν εφαρμοστεί φίλτρα",
+  "shared.install-addons.text1": "Ξέρετε ότι μπορείτε να εγκαταστήσετε πρόσθετα στο wako;",
+  "shared.install-addons.text2": "Εγκαθιστώντας πρόσθετα επεκτείνετε τις δυνατότητες του wako που πληρούν τις απαιτήσεις σας",
+  "shared.misc.aired": "Προβλήθηκε",
+  "shared.misc.airs": "Προβάλλεται",
+  "shared.noResult": "Κανένα αποτέλεσμα",
+  "shared.onlyPremium": "Αυτή η λειτουργία είναι διαθέσιμη μόνο για χρήστες Premium",
+  "shared.pasteMediaTitle": "Επικόλληση τίτλου βίντεο",
+  "shared.sign-in.or": "ή",
+  "shared.sign-in.simkl-button": "Συνδεθείτε ή εγγραφείτε μέσω SIMKL",
+  "shared.sign-in.trakt-button": "Συνεχίστε με την Trakt",
+  "toasts.accountDeleted": "Ο λογαριασμός σας έχει διαγραφεί",
+  "toasts.addons.updated": "Τα παρακάτω πρόσθετα ενημερώθηκαν:<br>{{updatedAddons}}<br><br>Απαιτείται επανεκκίνηση του wako.",
+  "toasts.addons.updatedWithRestart": "Τα παρακάτω πρόσθετα ενημερωθηκαν:<br>{{updatedAddons}}<br><br>Το wako θα πραγματοποιήσει επανεκκίνηση.",
+  "toasts.addons.upToDate": "Τα πρόσθετα είναι ενημερωμένα.",
+  "toasts.ads.block": "Απ' ότι φαίνεται χρησιμοποιείτε κάποιο ad blocker. Οι διαφημίσεις βοηθούν το wako να παραμείνει δωρεάν, αν θέλετε να μην τις βλέπετε μπορείτε να κάνετε μια συνεισφορά στο wako (Ρυθμίσεις > Συνεισφορά)",
+  "toasts.app.newVersionAvailable": "Μία νέα έκδοση του wako είναι διαθέσιμη στο app store",
+  "toasts.app.noConnection": "Ελέγξτε τη σύνδεσή σας στο διαδίκτυο",
+  "toasts.app.simklApiServerOverloaded": "Simkl API - Ο διακομιστής είναι υπερφορτωμένος. Παρακαλώ ξαναδοκιμάστε σε 30 δευτερόλεπτα",
+  "toasts.app.simklNotConnectedAnyMore": "Simkl API - Δεν είστε πλέον συνδεδεμένοι στο SIMKL, παρακαλώ επανασυνδεθείτε",
+  "toasts.app.traktApiIssue1": "Trakt API - Αποτυχία φόρτωσης του πόρου, παρακαλώ ξαναδοκιμάστε αργότερα (κωδικός σφάλματος {{errorStatus}})",
+  "toasts.app.traktApiServerOverloaded": "Trakt API - Ο διακομιστής είναι υπερφορτωμένος. Παρακαλώ ξαναδοκιμάστε σε 30 δευτερόλεπτα",
+  "toasts.app.traktNotConnectedAnyMore": "Trakt API - Δεν είστε πλέον συνδεδεμένοι στο Τrakt, παρακαλώ επανασυνδεθείτε",
+  "toasts.app.updateInstalled": "Το wako ενημερώθηκε. Επανεκκινήστε την εφαρμογή για να απολαύσετε την ενημέρωση",
+  "toasts.backup-deleted": "Το αντίγραφο ασφαλείας διαγράφτηκε",
+  "toasts.contribution-added": "Ευχαριστούμε για την συνεισφορά σας. Είστε πλέον Premium χρήστης. Το wako θα κάνει επανεκκίνηση",
+  "toasts.episode.markAsUnwatched": "Το επεισόδιο {{episodeCode}} της σειράς {{showTitle}} σημάνθηκε ως μη προβεβλημένο",
+  "toasts.episode.markAsWatched": "Το επεισόδιο {{episodeCode}} της σειράς {{showTitle}} σημάνθηκε ως προβεβλημένο",
+  "toasts.exit-app": "Πατήστε ξανά back για να τερματίσετε",
+  "toasts.kodi-remote-control.warningWebsocket": "Προειδοποίηση - δεν είστε συνδεδεμένοι με το Kodi μέσω της υπηρεσίας websocket. Πρέπει να ενεργοποιήσετε (εντός του Kodi) την επιλογή:\nΝα επιτρέπεται ο απομακρυσμένος έλεγχος από εφαρμογές σε άλλα συστήματα\n\nΜεταβείτε στο https://wako.app/kodi-remote-control για περαιτέρω πληροφορίες",
+  "toasts.kodi.hostUnreachable": "Ο εξυπηρετητής Kodi {{hostName}} δεν είναι διαθέσιμος",
+  "toasts.kodi.noHost": "Δεν έχει καταχωρηθεί εξυπηρετητής Kodi",
+  "toasts.movie.addedToCollection": "Η ταινία {{movieTitle}} προστέθηκε στη συλλογή σας",
+  "toasts.movie.addedToUserList": "Η ταινία {{movieTitle}} προστέθηκε στη λίστα σας",
+  "toasts.movie.addedToWatchlist": "Η ταινία {{movieTitle}} προστέθηκε στη λίστα προβολών σας",
+  "toasts.movie.markAsUnwatched": "Η ταινία {{movieTitle}} σημάνθηκε ως μη προβεβλημένη",
+  "toasts.movie.markAsWatched": "Η ταινία {{movieTitle}} σημάνθηκε ως προβεβλημένη",
+  "toasts.movie.noRandomMovieFound": "Δεν βρέθηκαν ταινίες για τα είδη: {{genreList}}",
+  "toasts.movie.notFoundOnTrakt": "Η ταινία δεν βρέθηκε στο trakt",
+  "toasts.movie.removedFromCollection": "Η ταινία {{movieTitle}} αφαιρέθηκε από τη συλλογή σας",
+  "toasts.movie.removedFromUserList": "Η ταινία {{movieTitle}} αφαιρέθηκε από τη λίστα σας",
+  "toasts.movie.removedFromWatchlist": "Η ταινία {{movieTitle}} αφαιρέθηκε από τη λίστα προβολών σας",
+  "toasts.no-settings-saved": "Δυστυχώς δέν έχετε κάποιο αντίγραφο ασφαλείας ρυθμίσεων αποθηκευμένο online ακόμα.",
+  "toasts.playlist-add": "Προστέθηκε στη λίστα αναπαραγωγής σας",
+  "toasts.premium-only": "Αυτή η λειτουργία είναι διαθέσιμη μόνο για χρήστες Premium",
+  "toasts.season.markAsUnwatched": "Ο κύκλος {{seasonNumber}} της σειράς {{showTitle}} σημάνθηκε ως μη προβεβλημένος",
+  "toasts.season.markAsWatched": "Ο κύκλος {{seasonNumber}} της σειράς {{showTitle}} σημάνθηκε ως προβεβλημένος",
+  "toasts.settings.cacheCleared": "Η προσωρινή μνήμη άδειασε",
+  "toasts.show.addedToCollection": "Η σειρά {{showTitle}} προστέθηκε στη συλλογή σας",
+  "toasts.show.addedToUserList": "Η σειρά {{showTitle}} προστέθηκε στη λίστα σας",
+  "toasts.show.addedToWatchlist": "Η σειρά {{showTitle}} προστέθηκε στη λίστα προβολών σας",
+  "toasts.show.notFound": "Εμφάνιση δεν βρέθηκε",
+  "toasts.show.removedFromCollection": "Η σειρά {{showTitle}} αφαιρέθηκε από τη συλλογή σας",
+  "toasts.show.removedFromUserList": "Η σειρά {{showTitle}} αφαιρέθηκε από τη λίστα σας",
+  "toasts.show.removedFromWatchlist": "Η σειρά {{showTitle}} αφαιρέθηκε από τη λίστα προβολών σας",
+  "toasts.trailer.noTrailer": "Δεν βρέθηκε trailer"
 }

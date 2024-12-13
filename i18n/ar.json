@@ -1,517 +1,345 @@
 {
-  "pages": {
-    "home": {
-      "hi": "مرحباً",
-      "upNextToWatch": "مالتالي الذي ستشاهِده",
-      "retry": "أَعِد المحاولة",
-      "upToDate": ":) لاشيء جديد لمشاهَدته",
-      "nothingToResume": ":) لاشيء لإستكمال مشاهَدته",
-      "segment": {
-        "upNext": "التالي",
-        "resume": "أكملْ المُشاهَدة",
-        "calendar": "التقويم"
-      }
-    },
-    "login": {
-      "message": "لعرض أفلامك و مسلسلاتك Trakt سَجّل الدخول أو إشترك في"
-    },
-    "media": {
-      "shared": {
-        "detail": {
-          "imdbRating": ":تقييم موقع IMDB",
-          "viewOnIMDb": "عرض موقع IMDB",
-          "overview": "نظرة عامّة",
-          "cast": "الممثّلين",
-          "fullCast": "جميع الممثّلين و طاقم العمل",
-          "network": "إنتاج",
-          "related": "المزيد مثل هذا",
-          "release": "تاريخ الإصدار",
-          "runtime": "مدّة المُشاهَدة",
-          "status": "الحالة",
-          "certification": "التصنيف",
-          "originalTitle": "العنوان الأصلي",
-          "originalLanguage": "اللّغة الأصليّة",
-          "type": "النوع",
-          "episodes": "الحلقات",
-          "alternativeTitle": "عنوان بديل",
-          "rating": "التقييم",
-          "genres": "الفئات"
-        },
-        "search-list": {
-          "explore": "إستكشف",
-          "list": "قائمة",
-          "toWatch": "شاهِد",
-          "watched": "شُوهِد",
-          "by": "بواسطة",
-          "mostDailyPlayed": "الأكثر مُشاهدَة يوميّاً",
-          "trending": "شائع",
-          "popular": "الأكثر شهرة",
-          "collection": "مجموعة",
-          "recommendations": "التوصيات",
-          "watch-list": "قائمة المُشاهَدة",
-          "history": "السِجِلّ",
-          "progress": "المتابعة",
-          "completed": "المُكتمِل",
-          "on-hold": "المعلَّق"
-        },
-        "pop-over": {
-          "explore": "اكتشف",
-          "hideWatched": "اخفِ ما تمَّ مشاهدته",
-          "pickList": "اختر قائمة",
-          "filters": "تصفية"
-        }
-      }
-    },
-    "movie": {
-      "search-list": {
-        "search": "بحث عن فيلم"
-      },
-      "filter": {
-        "title": "تصفية",
-        "rating": "التقييم",
-        "genre": "الفئة",
-        "certification": "التصنيف",
-        "year": "السنة",
-        "apply": "تطبيق",
-        "reset": "إعادة"
-      },
-      "not-on-tracking-platform": "هذا الفيلم غير موجود على منصّة التتبّع الخاصّة بك"
-    },
-    "show": {
-      "search-list": {
-        "search": "بحث عن مسلسل",
-        "search-anime": "بحث عن أنمي",
-        "myTvShows": "مسلسلاتي",
-        "myAnime": "أنمي"
-      },
-      "show-detail": {
-        "seasons": "مواسم"
-      },
-      "episode-detail": {
-        "viewShow": "عرضْ المسلسل"
-      }
-    },
-    "settings": {
-      "title": "إعدادات",
-      "list": {
-        "premium": {
-          "header": "واكو بريميوم",
-          "item": "إدارة العضويّة"
-        },
-        "kodi": {
-          "item": "إعداد المضيفين"
-        },
-        "addons": {
-          "header": "الإضافات",
-          "item": "إعداد أو تثبيت الإضافات"
-        },
-        "movies": {
-          "header": "أفلام",
-          "which-provider": "اختر مزوّد البحث",
-          "default": "إفتراضي"
-        },
-        "filer": {
-          "header": "متصفّح الملفات",
-          "item": "تهيئة",
-          "hideTab": "إخفاء قائمة متصفّح الملفّات"
-        },
-        "notification": {
-          "header": "الإشعارات",
-          "notificationNotGranted": "إشعارات واكو معطَّلة حاليّاً. إذا كنت ترغب في تلقي الإشعارات، الرجاء تمكينها في الإعدادات",
-          "itemEnableTvShows": "تفعيل إشعارات المسلسلات",
-          "itemOnlyNewEpisodeOnUpToDateShows": "يتمّ تنبيهك بالحلقات الجديدة التي يتمّ بثّها فقط إذا تمّ مَشاهَدة كل مافاتك"
-        },
-        "music-controls": {
-          "header": "إشعارات التحكّم بالموسيقى",
-          "enabled": "تمكين",
-          "swipeToClose": "السحب للإغلاق"
-        },
-        "trakt": {
-          "totalWatchedMovies": "إجمالي الأفلام التي تمّت مشاهدتها",
-          "totalWatchedEpisodes": "إجمالي الحلقات التي تمّت مشاهدتها",
-          "totalWatchedEpisodesAnime": "مجموع حلقات الأنمي التي تمّت مشاهدتها",
-          "apiStatus": "Trakt API حالة",
-          "logout": "تسجيل خروج",
-          "signIn": "الخاصّ بك Trakt قم بتوصيل واكو بحساب",
-          "markMovieAsWatchedAuto": "ًوضع علامة شُوهِد على الأفلام آليّا",
-          "markEpisodeAsWatchedAuto": "وضع علامة شُوهِد على الحلقات آليّاً",
-          "markAsWatchedAutoProgress": "النسبة المئويّة للمُشاهَدة لتمييز الفيديو على أنّه شُوهِد"
-        },
-        "simkl": {
-          "signIn": "قم بتوصيل واكو بحساب SIMKL الخاص بك"
-        },
-        "tracker": {
-          "header": "متتبِّع",
-          "movie": "متتبِّع الأفلام",
-          "show": "متتبِّع المسلسلات",
-          "not-recommended-warning": "الرجاء ملاحظة أن استخدام Trakt + SIMKL في نفس الفئة غير مستح��َن و قد يتسبّب في حدوث أخطاء"
-        },
-        "application": {
-          "header": "تطبيق",
-          "darkMode": "الوضع اللّيلي",
-          "lang": "اللّغة",
-          "review": "تقييم التطبيق",
-          "share": "مشاركة التطبيق",
-          "documentation": "دليل الإستخدام",
-          "joinDiscord": "انضم إلينا عبر منصّة ديسكورد",
-          "joinTelegram": "انضم إلينا عبر تيليجرام",
-          "support": "الدعم الفنّي",
-          "clearCache": "مسح ذاكرة التخزين المؤقّت",
-          "privacyPolicy": "سياسة الخصوصيّة",
-          "termsConditions": "البنود و الشروط",
-          "appVersion": "إصدار التطبيق"
-        },
-        "backup": {
-          "header": "النسخ الإحتياطي",
-          "enable-restore-settings": "تمكين النسخ الإحتياطي للإعدادات",
-          "enable-automatic-backup": "تمكين النسخ الإحتياطي الآلي للإعدادات",
-          "backup-settings": "إعدادات النسخ الإحتياطي",
-          "restore-settings": "إستعادة الإعدادات من سخة إحتياطيّة",
-          "delete": "حذف النسخة الأحتياطيّة من السحابة"
-        }
-      }
-    },
-    "kodi-detection": {
-      "title": "الكشف عن كودي",
-      "skip": "تخطّي",
-      "cardContent": "ًحدّد واحداً من القائمة لإضافته أو اضغط على \"تخطّي\" لإضافته يدويّا<br />.يتم الآن البحث عن مضيفي كودي في شبكتك",
-      "detectedHosts": "المضيفين الذين تمّ اكتشافهم",
-      "detectHostHelper": "لم يتمّ العثور على المضيف حتّى الآن (قد يستغرق بضع ثوانٍ). لا تنسى تشغيل كودي<br><em>الكشف الآلي يتم بواسطة Zeroconf. إذا لم يتمّ التعرّف على كودي ، قم بتفعيل Zeroconf من خلال <b>إعدادات > خدمات > عام و تمكين \"أعلن عن الخدمات للأنظمة الأخرى\"</b></em>",
-      "troubleShooting": "إذا كانت لديك مشكلة بالإتصال مع كودي، الرجاء قراءة التعليمات <b>هنا</b>"
-    },
-    "kodi-remote-list": {
-      "title": "مضيفي كودي",
-      "savedHosts": "قائمة المضيفين المحفوظة",
-      "noHostsAdded": "لم يتمّ إضافة مضيف حتّى الآن",
-      "defaultHost": "المضيف الإفتراضي",
-      "addHost": "أضف",
-      "linkVolumeHardwareTitle": "الصوت",
-      "linkVolumeHardware": "ربط زر مستوى صوت الجهاز بمستوى صوت كودي عند التشغيل"
-    },
-    "kodi-settings": {
-      "title": "إعداد مضيف كودي",
-      "form": {
-        "name": "الاسم",
-        "ip": "اسم المضيف/الآيبي",
-        "port": "مَنفَذ المضيف",
-        "advanced": "الإعدادات المتقدّمة",
-        "login": "(ّتسجيل دخول (اختياري",
-        "password": "(ّكلمة المرور (اختياري",
-        "rpcPort": "مَنْفَذ JSON RPC (ّاختياري)",
-        "status": ":حالة الإتصال",
-        "save": "حِفْظ المضيف",
-        "delete": "حَذْف المضيف"
-      }
-    },
-    "addons": {
-      "title": "الإضافات",
-      "need-contribute": "انتهت الفترة التجريبيّة الخاصّة بك ، الرجاء أن تصبح مشترِك بريميوم لاستخدام هذه الميّزة",
-      "list-installed": {
-        "header": "الإضافات المثبّتة"
-      },
-      "list-available": {
-        "header": "الإضافات المتوفّرة"
-      },
-      "list-unknown-sources": {
-        "header": "إعدادات",
-        "item": "مصادر غير معروفة",
-        "third-party": "أضف إضافة طرف ثالث",
-        "alert": "ستتمكّن إضافات الطرف الثالث من الوصول إلى بياناتك المخزّنة على كودي. بالسماح بذلك ، فإنك توافق على أنّك المسؤول الوحيد عن أي فقد للبيانات و أي سلوك غير مرغوب فيه لتطبيقك. يرجى العلم أنّ إضافات الطرف الثالث لم يتمّ تطويرها أو إعتمادها من قبل واكو و أنّه لا يمكِن تحميل واكو المسؤوليّة عمّا تفعله هذه الإضافات."
-      }
-    },
-    "addon": {
-      "title": "الإضافة {{addonName}}",
-      "detail": "وصفْ الإضافة",
-      "settings": "إعدادات الإضافة",
-      "changeLogs": "سِجِلّ التغيرات",
-      "install": "تثبيت",
-      "uninstall": "إلغاء التثبيت",
-      "thirdParty": "لم يتمّ إنشاء هذه الإضافة بواسطة واكو. سيخضع إستخدام إضافات الطرف الثا��ث دائماً لمسؤوليّتك و القانون القضائي للولاية/الدولة التي تسكن بها. لا يُمكْن تحميل واكو المسؤوليّة",
-      "uninstall-confirm": {
-        "header": "إلغاء تثبيت هذه الإضافة",
-        "message": "هل أنت متأكّد؟"
-      },
-      "install-confirm": {
-        "header": "تثبيت هذه الإضافة",
-        "message": "هل أنت متأكّد؟"
-      }
-    },
-    "addon-settings": {
-      "title": "إعدادات الإضافة"
-    },
-    "addon-detail": {
-      "title": "تفاصيل الإضافة"
-    },
-    "movie-discover": {
-      "title": "إكتشف الأفلام",
-      "select-filters": "جميع الفلاتر إختياريّة",
-      "searching": "جارِ البحث، قد يستغرق بعض الوقت",
-      "continue": "استمر",
-      "next-movie": "التالي",
-      "no-movie": "لا مزيد من الأفلام لاكتشافها",
-      "restart": "إعادة بدء",
-      "min-rating": "التقييم الأدنى",
-      "released-year": "سنة الأصدار"
-    },
-    "filer": {
-      "title": "متصفّح الملفّات",
-      "noCompatibleAddon": "ليس لديك أي إضافة ��توافقة مثبّتة حتى الآن"
-    },
-    "filer-settings": {
-      "title": "إعداد متصفّح الملفّات",
-      "video-type": {
-        "header": "ترميز الملفّات",
-        "preferTranscoded": "ترميز الملفّات المفضّل",
-        "preferTranscodedFilesChromecast": "ترميز الملفّات المفضّل لـ كروم كاست فقط",
-        "explainTranscoded": "تقوم بعض الخدمات بتحويل ترميز مقاطع الفيديو الخاصّة بك إلى صيغة تشغيل متوافقة تقريباً مع كل المشغلات بما في ذلك كروم كاست الذي يدعم صيغ فيديو قليلة فقط. من الأفضل تمكينه لـ كروم كاست. الرجاء الإنتباه أن الملفّات التي تمّ تحويل ترميزها قد لا تتضمّن ترجمات و مسارات صوتيّة أُخرى يمكن أن تتضمّنها الملفّات الأصليّة"
-      },
-      "actions": {
-        "header": "ترتيب/تمكين خيار إجراءات الفتح"
-      }
-    }
-  },
-  "modals": {
-    "app-contribution": {
-      "title": "واكو بريميوم",
-      "premium-user": "تهانينا، أنت مشترِك بريميوم",
-      "explainContent": "قم بتفعيل هذه الميّزات عندما تصبح مشترِكاً مميّزاً: <ul><li>لا مزيد من الإعلانات</li><li>ميّزة قائمة التشغيل</li><li>عدد غير محدود لمضيفات كودي</li><li>إعدادات النسخ الإحتياطي</li></ul><br>ستتأثّر جميع الأجهزة التي تمّ تسجيل دخولها لنفس المستخدم",
-      "explainUsername": "يتمّ إنشاء مُعرّف واكو الخاص بك بناءً على مُعرِّف Trakt أو SIMKL.<br>إذا كنت تريد التبديل من Trakt إلى SIMKL أو العكس، تذكّر أن تظل مسجّل دخول بالخدمة (Trakt أو SUMKL) التي كنت متّصلاً بها عندما قمت بعمل عضويّتك لتظل مشترِكاً مميّزاً.",
-      "explainTierText1": "\"Tier\" عُضويّة مدى الحياة",
-      "explainTierText2": "توجد إشتراكات متعدّدة, جميعها لها نفس المميّزات, الفرق هو السعر, يتيح لك اختيار ما تعتَقِد أنّ واكو يستحقّه",
-      "trialExpired": "انتهت فترتك التجريبيّة. للاستمرار في استخدام التطبيق, الرجاء اختيار احد الإشتراكات بالأسل",
-      "iosTextSubscriptionMonthlyByProduct": "{{ productPrice }}/في الشهر سوف تُخصَم من حسابك في الايتونز عند التفعيل.",
-      "iosTextSubscriptionYearlyByProduct": "{{ productPrice }}/في السنة سوف تُخصَم من حسابك في الايتونز عند التفعيل.",
-      "iosTextSubscriptionGeneral": "سيتم تجديد الإشتراكات تلقائيّاً ما لم يتمّ إلغاؤها قبل 24 ساعة على الأقل من نهاية الفترة الحاليّة. يمكنك الإلغاء في أي وقت باستخدام إعدادات حساب ايتونز الخاص بك. سيتمّ خسارة أي جزء غير مستخدَم من الإصدار التجريبي المجّاني إذا قمت بشراء إشتراك. لمزيد من المعلومات ، راجع الشروط و الأحكام و سياسة الخصوصيّة الخاصّة بنا.",
-      "subscriptionHeader": "إشتراكات قابلة للتجديد التلقائي",
-      "consumableHeader": "إشتراك مدى الحياة",
-      "otherSubscriptionHeader": "إشتراكات اخرى",
-      "manualSubscription": "إشتراك يدوي",
-      "ads12hRemoval": "تخلّص من إعلانات ملء الشاشة لمدّة 12 ساعة قادمة من خلال مُشاهَدة إعلانين ",
-      "ads6hRemoval": "تخلّص من إعلانات ملء الشاشة لمدّة 6 ساعات قادمة من خلال مُشاهَدة إعلان واحد",
-      "lifetime": "إشتراك مدى الحياة",
-      "username-header": "مُعرّف إشتراك واكو الخاص بك",
-      "restore-button": "إستعادة المشتريات"
-    },
-    "app-outdated": {
-      "text": "تطبيقك غير محدَّث ، يجب عليك تحديثه للمتابعة"
-    },
-    "kodi-remote-control": {
-      "title": "التحكّم عن بعد بـ كودي",
-      "host": "مضيف",
-      "noHost.message": "تطبيقك غير محدَّث، يجب عليك تحديثه للمتابعة",
-      "noHost.add": "إضافة",
-      "hostUnreachable": "لايمكن الوصول له {{hostName}} المضيف",
-      "tryReconnect": "محاولة الإتصال",
-      "configure": "تهيئة"
-    },
-    "list-picker": {
-      "title": "اختر قائمة",
-      "search": "إبحث في القائمة",
-      "sort": {
-        "label": "فرز حسب",
-        "options": {
-          "default": "الإفتراضي",
-          "rank": "التقييم",
-          "recentlyAdded": "أُضيف مؤخّراً",
-          "releasedDate": "تاريخ الإنتاج",
-          "recentlyWatched": "ًشُوهِد مؤخّرا",
-          "recentlyAired": "ًتمّ بثّه مؤخّرا"
-        }
-      },
-      "myLists": "قوائمي",
-      "myLikedLists": "قوائم أعجبتني",
-      "trendingLists": "قوائم شائعة",
-      "popularLists": "قوائم ذات شعبيّة",
-      "likes": "الإعجابات",
-      "by": "بواسطة"
-    },
-    "install-addons": {
-      "title": "لايوجد لديك أي إضافات مثبّته",
-      "button": "لنقم بتثبيت بعض الإضافات"
-    },
-    "signIn": {
-      "explain": "يمكِنك تصفّح المعلومات دون توصيل واكو بحساب Trakt/SIMKL الخاص بك ، و مع ذلك ستحتاج إلى توصيل واكو بحساب Trakt/SIMKL الخاص بك لمزامنة و تحديث سِجِلّ المُشاهَدة ، و قائمة المُشاهَدة ، و ما إلى ذلك. استخدام حساب Trakt/SIMKL يعني أنّ كلّ  السِجِلّ الخاص بك متاح على جميع أجهزتك مع وصول Trakt/SIMKL ، بما في ذلك متاح على مواقع Trakt.tv/SIMKL.com."
-    }
-  },
-  "pop-over": {
-    "kodi-subtitles": {
-      "header": "الترجمات",
-      "enable": "تمكين الترجمات",
-      "select": "الترجمة",
-      "download": "تنزيل",
-      "offset": "تعديل التوقيت",
-      "close": "إغلاق"
-    },
-    "kodi-audio": {
-      "header": "بث الصوت",
-      "select": "الصوت"
-    }
-  },
-  "shared": {
-    "noResult": "لا توجد نتيجة",
-    "filtersApplied": "تمّ تطبيق التصفيات",
-    "cancel": "إلغاء",
-    "sign-in": {
-      "or": "او",
-      "trakt-button": "ربط واكو بحساب Trakt",
-      "simkl-button": "ربط واكو بحساب SIMKL"
-    },
-    "misc": {
-      "aired": "تمّ بثّها",
-      "airs": "تُبثّ حاليّاً"
-    },
-    "pasteMediaTitle": "لصق عنوان الفيديو",
-    "install-addons": {
-      "text1": "هل تعلم أنّه يُمكِنك تثبيت إضافات داخل واكو",
-      "text2": "عن طريق تثبيت الإضافات، ستضيف مميّزات جديدة إلى واكو تناسب احتياجاتك"
-    },
-    "contribution": {
-      "feature-only-for-premium": "هذه الميّزة مخصّصة فقط للمشترِكين المميّزين",
-      "need-contribute-button": "كن مشترِك بريميوم"
-    },
-    "calendar-pipe": {
-      "yesterday": "في الأمس",
-      "today": "اليوم",
-      "tomorrow": "ًغدا",
-      "days-ago": "{{days}} أيام مضت",
-      "in-days": "في {{days}} يوم"
-    },
-    "onlyPremium": "هذه الميّزة متاحة فقط للمشترِكين المميّزين"
-  },
-  "toasts": {
-    "movie": {
-      "markAsWatched": "تمّ تعليم {{movieTitle}} كمُشاهَد في {{trackers}}",
-      "markAsUnwatched": "تمّ تعليم {{movieTitle}} كغير مُشاهَد في {{trackers}}",
-      "addedToWatchlist": "تمّ إضافة {{movieTitle}} إلى قائمة المُشاهَدة في {{trackers}}",
-      "removedFromWatchlist": "تمّ حَذْف {{movieTitle}} من قائمة المُشاهَدة في {{trackers}}",
-      "addedToCollection": "تمّ إضافة {{movieTitle}} إلى مجموعتك في {{trackers}}",
-      "removedFromCollection": "تمّ حَذْف {{movieTitle}} من مجموعتك في {{trackers}}",
-      "addedToUserList": "تمّ إضافة {{movieTitle}} إلى قائمتك في {{trackers}}",
-      "removedFromUserList": "تمّ حَذْف {{movieTitle}} من قائمتك في {{trackers}}",
-      "noRandomMovieFound": " لم يتمّ العثور على الفيلم في الفئات : {{genreList}}",
-      "notFoundOnTrakt": "الفيلم غير متوفِّر في trakt"
-    },
-    "show": {
-      "addedToWatchlist": "تمّ إضافة {{showTitle}} إلى قائمة المُشاهَدة في {{trackers}}",
-      "removedFromWatchlist": "تمّ حَذْف {{showTitle}} من قائمة المُشاهَدة في {{trackers}}",
-      "addedToCollection": "تمّ إضافة {{showTitle}} إلى مجموعتك في {{trackers}}",
-      "removedFromCollection": "تمّ حَذْف {{showTitle}} من مجموعتك في {{trackers}}",
-      "addedToUserList": "تمّ إضافة {{showTitle}} إلى قائمتك في {{trackers}}",
-      "removedFromUserList": "تمّ حَذْف {{showTitle}} من قائمتك في {{trackers}}",
-      "notFoundOnTrakt": "المسلسل غير متوفِّر في trakt"
-    },
-    "season": {
-      "markAsWatched": "تمّ تعليم {{showTitle}} الموسم {{seasonNumber}} كمُشاهَد في {{trackers}}",
-      "markAsUnwatched": "تمّ تعليم {{showTitle}} الموسم {{seasonNumber}} كغير مُشاهَد في {{trackers}}"
-    },
-    "episode": {
-      "markAsWatched": "تمّ تعليم {{showTitle}} {{episodeCode}} كمُشاهَد في {{trackers}}",
-      "markAsUnwatched": "تمّ تعليم {{showTitle}} {{episodeCode}} كغير مُشاهَد في {{trackers}}"
-    },
-    "kodi-remote-control": {
-      "warningWebsocket": "تحذير - أنت لست متّصل بـ كودي من خلال خِدمة websocket. تحتاج إلى تنشيط هذا الخيار في كودي:\nالسماح بالتحكّم عن بعد من التطبيقات في الأنظمة الأُخرى\n\nللمزيد من المعلومات إذهب إلى https://wako.app/kodi-remote-control"
-    },
-    "app": {
-      "traktApiIssue1": "Trakt API - فَشلَ تحميل المورد، الرجاء المحاولة مرّة أُخرى في وقت لاحق (error code {{errorStatus}})",
-      "traktApiServerOverloaded": "Trakt API - الخادم مُثقل. الرجاء المحاولة مرّة أُخرى بعد 30 ثانية",
-      "traktNotConnectedAnyMore": "Trakt API - الرجاء معاودة الإتصال Trakt أنت غير متّصل بـ",
-      "simklNotConnectedAnyMore": "Simkl API - الرجاء معاودة الإتصال Simkl أنت غير متّصل بـ",
-      "simklApiServerOverloaded": "Simkl API -  الخادم مُثقل. الرجاء المحاولة مرّة أُخرى بعد 30 ثانية",
-      "newVersionAvailable": "يتوفّ�� إصدار جديد من واكو في المتجر",
-      "updateInstalled": "تمّ تحديث واكو. أعِد تشغيل التطبيق للإستمتاع بالتحديث",
-      "noConnection": "الرجاء التحقّق من إتصال الإنترنت الخاص بك"
-    },
-    "settings": {
-      "cacheCleared": "تمّ مسح ذاكرة التخزين المؤقّت"
-    },
-    "addons": {
-      "updated": "تمّ تحديث هذه الإضافات:<br>{{updatedAddons}}<br><br> يجب إعادة تشغيل واكو.",
-      "updatedWithRestart": "تمّ تحديث هذه الإضافات:<br>{{updatedAddons}}<br><br>سيتمّ إعادة تشغيل واكو.",
-      "upToDate": "جميع الإضافات محدّثة"
-    },
-    "kodi": {
-      "hostUnreachable": "لا يمكن الوصول إلى مضيف كودي الخاص بك {{hostName}} ، يرجى التحقّق من إتصالك",
-      "noHost": "لم يتمّ تعيين مضيف لـ كودي"
-    },
-    "ads": {
-      "block": "أوه، يبدو أنّه لديك مانع إعلانات. بعض أجزاء واكو متاحة فقط للمشترِكين المميّزين (واكو > الإعدادات > إدارة العضويّة) أو من خلال مُشاهَدة إعلان"
-    },
-    "trailer": {
-      "noTrailer": "لم يتمّ العثور على ڤيديو دعائي"
-    },
-    "premium-only": "هذه الميّزة مخصّصة فقط للمشترِكين المميّزين",
-    "no-settings-saved": "لسوء الحظ، ليس لديك أيّ إعدادات محفوظة على الإنترنت حتّى الآن",
-    "contribution-added": "شكراً لمساهمتك. أنت الآن مشترِك مميّز. سوف يتمّ إعادة تشغيل واكو",
-    "backup-deleted": "تمّ حذف نسختك الإحتياطيّة",
-    "exit-app": "إضغط رجوع مرّة أُخرى للخروج",
-    "playlist-add": "تَمَّت إضافته إلى قائمة التشغيل الخاصّة بك"
-  },
-  "alerts": {
-    "okButton": "موافق",
-    "cancelButton": "إلغاء",
-    "app-contribution": {
-      "thanksMessage": "شكراً لمساهمتك في واكو"
-    },
-    "movie": {
-      "random": {
-        "header": ":الحصول على فيلم عشوائي من الفئات"
-      }
-    },
-    "addons": {
-      "customManifestUrl": "رابط إضافة الطرف الثالث",
-      "enterManifestUrl": "أضف الرابط"
-    },
-    "show": {
-      "remove": "حذف هذا المسلسل؟",
-      "hidden-add": "إخفاء هذا المسلسل؟",
-      "hidden-remove": "إستعادة هذا المسلسل؟"
-    },
-    "kodi": {
-      "openUrl": "فتح الرابط"
-    },
-    "restore-settings": {
-      "restore-header": "إستعادة الإعدادات",
-      "restore-date": "هل تريد إستعادة الإعدادات المحفوظة في تاريخ {{date}} ؟"
-    },
-    "delete-backup": {
-      "header": "حذف النسخة الإحتياطيّة",
-      "restore-date": "هل تريد حذف الإعدادات المحفوظة في تاريخ {{date}} ؟"
-    },
-    "clear-resume": {
-      "message": "حذف جميع العناصر؟"
-    },
-    "simkl": {
-      "pinCode": "{{code}} وأدخل الرمز {{url}} يرجى الذهاب إلى"
-    }
-  },
-  "notifications": {
-    "shows": {
-      "newEpisode": "حلقة جديدة : {{showTitle}} {{episodeCode}}"
-    }
-  },
-  "actionSheets": {
-    "addToWatchList": "أضف إلى قائمة المُشاهَدة الخاصّة بك",
-    "removeFromWatchList": "حذف من قائمة المُشاهَدة الخاصّة بك",
-    "addToCollection": "أضف إلى مجموعتك",
-    "removeFromCollection": "حذف من مجموعتك",
-    "addToList": "أضف إلى {{listName}}",
-    "removeFromList": "حذف من {{listName}}",
-    "file-action": {
-      "openTitle": "فتح باستخدام",
-      "actions": {
-        "play-kodi": "كودي",
-        "play-browser": "متصفّح",
-        "copy-url": "نسخ الرابط",
-        "play-vlc": "VLC",
-        "download-vlc": "التحميل من خلال VLC",
-        "share-url": "مشارَكة",
-        "open-with": "تطبيقات أخرى",
-        "play-nplayer": "NPlayer",
-        "play-infuse": "Infuse",
-        "cast": "بث",
-        "add-to-playlist": "أضِف إلى قائمة التشغيل الخاصّة بك",
-        "wako-video-player": "مشغل الفيديو المدمج"
-      }
-    }
-  }
+  "actionSheets.addToCollection": "أضف إلى مجموعتك",
+  "actionSheets.addToList": "أضف إلى {{listName}}",
+  "actionSheets.addToWatchList": "أضف إلى قائمة المُشاهَدة الخاصّة بك",
+  "actionSheets.file-action.actions.add-to-playlist": "أضِف إلى قائمة التشغيل الخاصّة بك",
+  "actionSheets.file-action.actions.cast": "بث",
+  "actionSheets.file-action.actions.copy-url": "نسخ الرابط",
+  "actionSheets.file-action.actions.download-vlc": "التحميل من خلال VLC",
+  "actionSheets.file-action.actions.open-with": "تطبيقات أخرى",
+  "actionSheets.file-action.actions.play-browser": "متصفّح",
+  "actionSheets.file-action.actions.play-infuse": "Infuse",
+  "actionSheets.file-action.actions.play-kodi": "كودي",
+  "actionSheets.file-action.actions.play-nplayer": "NPlayer",
+  "actionSheets.file-action.actions.play-vlc": "VLC",
+  "actionSheets.file-action.actions.share-url": "مشارَكة",
+  "actionSheets.file-action.actions.wako-video-player": "مشغل الفيديو المدمج",
+  "actionSheets.file-action.openTitle": "فتح باستخدام",
+  "actionSheets.removeFromCollection": "حذف من مجموعتك",
+  "actionSheets.removeFromList": "حذف من {{listName}}",
+  "actionSheets.removeFromWatchList": "حذف من قائمة المُشاهَدة الخاصّة بك",
+  "alerts.addons.customManifestUrl": "رابط إضافة الطرف الثالث",
+  "alerts.addons.enterManifestUrl": "أضف الرابط",
+  "alerts.app-contribution.thanksMessage": "شكراً لمساهمتك في واكو",
+  "alerts.cancelButton": "إلغاء",
+  "alerts.clear-resume.message": "حذف جميع العناصر؟",
+  "alerts.delete-backup.header": "حذف النسخة الإحتياطيّة",
+  "alerts.delete-backup.restore-date": "هل تريد حذف الإعدادات المحفوظة في تاريخ {{date}} ؟",
+  "alerts.deleteAccount": "حذف الحساب",
+  "alerts.deleteAccountConfirmation": "هل أنت متأكد من أنك تريد حذف حسابك؟ لا يمكن التراجع عن هذا الإجراء.",
+  "alerts.kodi.openUrl": "فتح الرابط",
+  "alerts.movie.random.header": ":الحصول على فيلم عشوائي من الفئات",
+  "alerts.okButton": "موافق",
+  "alerts.promoteAndroidTv.message": "مرحبًا، أردت فقط أن أخبرك أن wako متاح الآن على Android TV. يمكنك الآن الاستمتاع بأفلامك وعروضك المفضلة على تلفزيونك.",
+  "alerts.restore-settings.restore-date": "هل تريد إستعادة الإعدادات المحفوظة في تاريخ {{date}} ؟",
+  "alerts.restore-settings.restore-header": "إستعادة الإعدادات",
+  "alerts.show.hidden-add": "إخفاء هذا المسلسل؟",
+  "alerts.show.hidden-remove": "إستعادة هذا المسلسل؟",
+  "alerts.show.remove": "حذف هذا المسلسل؟",
+  "alerts.simkl.pinCode": "{{code}} وأدخل الرمز {{url}} يرجى الذهاب إلى",
+  "modals.app-contribution.ads12hRemoval": "تخلّص من إعلانات ملء الشاشة لمدّة 12 ساعة قادمة من خلال مُشاهَدة إعلانين ",
+  "modals.app-contribution.ads6hRemoval": "تخلّص من إعلانات ملء الشاشة لمدّة 6 ساعات قادمة من خلال مُشاهَدة إعلان واحد",
+  "modals.app-contribution.androidTextSubscriptionGeneral": "سيتم تجديد الاشتراكات تلقائيًا ما لم يتم إلغاؤها قبل 24 ساعة على الأقل من نهاية الفترة الحالية. يمكنك الإلغاء في أي وقت باستخدام إعدادات حساب Google Play الخاص بك.",
+  "modals.app-contribution.consumableHeader": "إشتراك مدى الحياة",
+  "modals.app-contribution.explainContent": "قم بتفعيل هذه الميّزات عندما تصبح مشترِكاً مميّزاً: <ul><li>لا مزيد من الإعلانات</li><li>ميّزة قائمة التشغيل</li><li>عدد غير محدود لمضيفات كودي</li><li>إعدادات النسخ الإحتياطي</li></ul><br>ستتأثّر جميع الأجهزة التي تمّ تسجيل دخولها لنفس المستخدم",
+  "modals.app-contribution.explainMembership": "اعرف المزيد عن عضويتي",
+  "modals.app-contribution.explainTierText1": "\"Tier\" عُضويّة مدى الحياة",
+  "modals.app-contribution.explainTierText2": "توجد إشتراكات متعدّدة, جميعها لها نفس المميّزات, الفرق هو السعر, يتيح لك اختيار ما تعتَقِد أنّ واكو يستحقّه",
+  "modals.app-contribution.iosTextSubscriptionGeneral": "سيتم تجديد الإشتراكات تلقائيّاً ما لم يتمّ إلغاؤها قبل 24 ساعة على الأقل من نهاية الفترة الحاليّة. يمكنك الإلغاء في أي وقت باستخدام إعدادات حساب ايتونز الخاص بك. سيتمّ خسارة أي جزء غير مستخدَم من الإصدار التجريبي المجّاني إذا قمت بشراء إشتراك. لمزيد من المعلومات ، راجع الشروط و الأحكام و سياسة الخصوصيّة الخاصّة بنا.",
+  "modals.app-contribution.iosTextSubscriptionMonthlyByProduct": "{{ productPrice }}/في الشهر سوف تُخصَم من حسابك في الايتونز عند التفعيل.",
+  "modals.app-contribution.iosTextSubscriptionYearlyByProduct": "{{ productPrice }}/في السنة سوف تُخصَم من حسابك في الايتونز عند التفعيل.",
+  "modals.app-contribution.lifetime": "إشتراك مدى الحياة",
+  "modals.app-contribution.manualSubscription": "إشتراك يدوي",
+  "modals.app-contribution.otherSubscriptionHeader": "إشتراكات اخرى",
+  "modals.app-contribution.premium-user": "تهانينا، أنت مشترِك بريميوم",
+  "modals.app-contribution.restore-button": "إستعادة المشتريات",
+  "modals.app-contribution.subscriptionHeader": "إشتراكات قابلة للتجديد التلقائي",
+  "modals.app-contribution.title": "واكو بريميوم",
+  "modals.app-contribution.trialExpired": "انتهت فترتك التجريبيّة. للاستمرار في استخدام التطبيق, الرجاء اختيار احد الإشتراكات بالأسل",
+  "modals.app-contribution.username-header": "مُعرّف إشتراك واكو الخاص بك",
+  "modals.app-outdated.text": "تطبيقك غير محدَّث ، يجب عليك تحديثه للمتابعة",
+  "modals.install-addons.button": "لنقم بتثبيت بعض الإضافات",
+  "modals.install-addons.title": "لايوجد لديك أي إضافات مثبّته",
+  "modals.kodi-remote-control.configure": "تهيئة",
+  "modals.kodi-remote-control.host": "مضيف",
+  "modals.kodi-remote-control.hostUnreachable": "لايمكن الوصول له {{hostName}} المضيف",
+  "modals.kodi-remote-control.noHost.add": "إضافة",
+  "modals.kodi-remote-control.noHost.message": "تطبيقك غير محدَّث، يجب عليك تحديثه للمتابعة",
+  "modals.kodi-remote-control.title": "التحكّم عن بعد بـ كودي",
+  "modals.kodi-remote-control.tryReconnect": "محاولة الإتصال",
+  "modals.list-picker.by": "بواسطة",
+  "modals.list-picker.likes": "الإعجابات",
+  "modals.list-picker.myLikedLists": "قوائم أعجبتني",
+  "modals.list-picker.myLists": "قوائمي",
+  "modals.list-picker.popularLists": "قوائم ذات شعبيّة",
+  "modals.list-picker.search": "إبحث في القائمة",
+  "modals.list-picker.sort.label": "فرز حسب",
+  "modals.list-picker.sort.options.default": "الإفتراضي",
+  "modals.list-picker.sort.options.rank": "التقييم",
+  "modals.list-picker.sort.options.recentlyAdded": "أُضيف مؤخّراً",
+  "modals.list-picker.sort.options.recentlyAired": "ًتمّ بثّه مؤخّرا",
+  "modals.list-picker.sort.options.recentlyWatched": "ًشُوهِد مؤخّرا",
+  "modals.list-picker.sort.options.releasedDate": "تاريخ الإنتاج",
+  "modals.list-picker.title": "اختر قائمة",
+  "modals.list-picker.trendingLists": "قوائم شائعة",
+  "modals.signIn.explain": "يمكِنك تصفّح المعلومات دون توصيل واكو بحساب Trakt/SIMKL الخاص بك ، و مع ذلك ستحتاج إلى توصيل واكو بحساب Trakt/SIMKL الخاص بك لمزامنة و تحديث سِجِلّ المُشاهَدة ، و قائمة المُشاهَدة ، و ما إلى ذلك. استخدام حساب Trakt/SIMKL يعني أنّ كلّ  السِجِلّ الخاص بك متاح على جميع أجهزتك مع وصول Trakt/SIMKL ، بما في ذلك متاح على مواقع Trakt.tv/SIMKL.com.",
+  "notifications.shows.newEpisode": "حلقة جديدة : {{showTitle}} {{episodeCode}}",
+  "pages.addon-detail.title": "تفاصيل الإضافة",
+  "pages.addon-settings.title": "إعدادات الإضافة",
+  "pages.addon.changeLogs": "سِجِلّ التغيرات",
+  "pages.addon.detail": "وصفْ الإضافة",
+  "pages.addon.install": "تثبيت",
+  "pages.addon.install-confirm.header": "تثبيت هذه الإضافة",
+  "pages.addon.install-confirm.message": "هل أنت متأكّد؟",
+  "pages.addon.settings": "إعدادات الإضافة",
+  "pages.addon.thirdParty": "لم يتمّ إنشاء هذه الإضافة بواسطة واكو. سيخضع إستخدام إضافات الطرف الثا��ث دائماً لمسؤوليّتك و القانون القضائي للولاية/الدولة التي تسكن بها. لا يُمكْن تحميل واكو المسؤوليّة",
+  "pages.addon.title": "الإضافة {{addonName}}",
+  "pages.addon.uninstall": "إلغاء التثبيت",
+  "pages.addon.uninstall-confirm.header": "إلغاء تثبيت هذه الإضافة",
+  "pages.addon.uninstall-confirm.message": "هل أنت متأكّد؟",
+  "pages.addons.list-available.header": "الإضافات المتوفّرة",
+  "pages.addons.list-installed.header": "الإضافات المثبّتة",
+  "pages.addons.list-unknown-sources.alert": "ستتمكّن إضافات الطرف الثالث من الوصول إلى بياناتك المخزّنة على كودي. بالسماح بذلك ، فإنك توافق على أنّك المسؤول الوحيد عن أي فقد للبيانات و أي سلوك غير مرغوب فيه لتطبيقك. يرجى العلم أنّ إضافات الطرف الثالث لم يتمّ تطويرها أو إعتمادها من قبل واكو و أنّه لا يمكِن تحميل واكو المسؤوليّة عمّا تفعله هذه الإضافات.",
+  "pages.addons.list-unknown-sources.header": "إعدادات",
+  "pages.addons.list-unknown-sources.item": "مصادر غير معروفة",
+  "pages.addons.list-unknown-sources.third-party": "أضف إضافة طرف ثالث",
+  "pages.addons.need-contribute": "انتهت الفترة التجريبيّة الخاصّة بك ، الرجاء أن تصبح مشترِك بريميوم لاستخدام هذه الميّزة",
+  "pages.addons.title": "الإضافات",
+  "pages.filer-settings.actions.header": "ترتيب/تمكين خيار إجراءات الفتح",
+  "pages.filer-settings.title": "إعداد متصفّح الملفّات",
+  "pages.filer-settings.video-type.explainTranscoded": "تقوم بعض الخدمات بتحويل ترميز مقاطع الفيديو الخاصّة بك إلى صيغة تشغيل متوافقة تقريباً مع كل المشغلات بما في ذلك كروم كاست الذي يدعم صيغ فيديو قليلة فقط. من الأفضل تمكينه لـ كروم كاست. الرجاء الإنتباه أن الملفّات التي تمّ تحويل ترميزها قد لا تتضمّن ترجمات و مسارات صوتيّة أُخرى يمكن أن تتضمّنها الملفّات الأصليّة",
+  "pages.filer-settings.video-type.header": "ترميز الملفّات",
+  "pages.filer-settings.video-type.preferTranscoded": "ترميز الملفّات المفضّل",
+  "pages.filer-settings.video-type.preferTranscodedFilesChromecast": "ترميز الملفّات المفضّل لـ كروم كاست فقط",
+  "pages.filer.noCompatibleAddon": "ليس لديك أي إضافة ��توافقة مثبّتة حتى الآن",
+  "pages.filer.title": "متصفّح الملفّات",
+  "pages.home.hi": "مرحباً",
+  "pages.home.nothingToResume": ":) لاشيء لإستكمال مشاهَدته",
+  "pages.home.retry": "أَعِد المحاولة",
+  "pages.home.segment.calendar": "التقويم",
+  "pages.home.segment.resume": "أكملْ المُشاهَدة",
+  "pages.home.segment.upNext": "التالي",
+  "pages.home.upNextToWatch": "مالتالي الذي ستشاهِده",
+  "pages.home.upToDate": ":) لاشيء جديد لمشاهَدته",
+  "pages.kodi-detection.cardContent": "ًحدّد واحداً من القائمة لإضافته أو اضغط على \"تخطّي\" لإضافته يدويّا<br />.يتم الآن البحث عن مضيفي كودي في شبكتك",
+  "pages.kodi-detection.detectedHosts": "المضيفين الذين تمّ اكتشافهم",
+  "pages.kodi-detection.detectHostHelper": "لم يتمّ العثور على المضيف حتّى الآن (قد يستغرق بضع ثوانٍ). لا تنسى تشغيل كودي<br><em>الكشف الآلي يتم بواسطة Zeroconf. إذا لم يتمّ التعرّف على كودي ، قم بتفعيل Zeroconf من خلال <b>إعدادات > خدمات > عام و تمكين \"أعلن عن الخدمات للأنظمة الأخرى\"</b></em>",
+  "pages.kodi-detection.skip": "تخطّي",
+  "pages.kodi-detection.title": "الكشف عن كودي",
+  "pages.kodi-detection.troubleShooting": "إذا كانت لديك مشكلة بالإتصال مع كودي، الرجاء قراءة التعليمات <b>هنا</b>",
+  "pages.kodi-remote-list.addHost": "أضف",
+  "pages.kodi-remote-list.defaultHost": "المضيف الإفتراضي",
+  "pages.kodi-remote-list.linkVolumeHardware": "ربط زر مستوى صوت الجهاز بمستوى صوت كودي عند التشغيل",
+  "pages.kodi-remote-list.linkVolumeHardwareTitle": "الصوت",
+  "pages.kodi-remote-list.noHostsAdded": "لم يتمّ إضافة مضيف حتّى الآن",
+  "pages.kodi-remote-list.savedHosts": "قائمة المضيفين المحفوظة",
+  "pages.kodi-remote-list.title": "مضيفي كودي",
+  "pages.kodi-settings.form.advanced": "الإعدادات المتقدّمة",
+  "pages.kodi-settings.form.delete": "حَذْف المضيف",
+  "pages.kodi-settings.form.ip": "اسم المضيف/الآيبي",
+  "pages.kodi-settings.form.login": "(ّتسجيل دخول (اختياري",
+  "pages.kodi-settings.form.name": "الاسم",
+  "pages.kodi-settings.form.password": "(ّكلمة المرور (اختياري",
+  "pages.kodi-settings.form.port": "مَنفَذ المضيف",
+  "pages.kodi-settings.form.rpcPort": "مَنْفَذ JSON RPC (ّاختياري)",
+  "pages.kodi-settings.form.save": "حِفْظ المضيف",
+  "pages.kodi-settings.form.status": ":حالة الإتصال",
+  "pages.kodi-settings.title": "إعداد مضيف كودي",
+  "pages.login.message": "لعرض أفلامك و مسلسلاتك Trakt سَجّل الدخول أو إشترك في",
+  "pages.media.shared.detail.alternativeTitle": "عنوان بديل",
+  "pages.media.shared.detail.cast": "الممثّلين",
+  "pages.media.shared.detail.certification": "التصنيف",
+  "pages.media.shared.detail.episodes": "الحلقات",
+  "pages.media.shared.detail.fullCast": "جميع الممثّلين و طاقم العمل",
+  "pages.media.shared.detail.genres": "الفئات",
+  "pages.media.shared.detail.imdbRating": ":تقييم موقع IMDB",
+  "pages.media.shared.detail.network": "إنتاج",
+  "pages.media.shared.detail.originalLanguage": "اللّغة الأصليّة",
+  "pages.media.shared.detail.originalTitle": "العنوان الأصلي",
+  "pages.media.shared.detail.overview": "نظرة عامّة",
+  "pages.media.shared.detail.rating": "التقييم",
+  "pages.media.shared.detail.related": "المزيد مثل هذا",
+  "pages.media.shared.detail.release": "تاريخ الإصدار",
+  "pages.media.shared.detail.resume-button": "السيرة الذاتية",
+  "pages.media.shared.detail.runtime": "مدّة المُشاهَدة",
+  "pages.media.shared.detail.status": "الحالة",
+  "pages.media.shared.detail.type": "النوع",
+  "pages.media.shared.detail.viewOnIMDb": "عرض موقع IMDB",
+  "pages.media.shared.pop-over.explore": "اكتشف",
+  "pages.media.shared.pop-over.filters": "تصفية",
+  "pages.media.shared.pop-over.hideWatched": "اخفِ ما تمَّ مشاهدته",
+  "pages.media.shared.pop-over.pickList": "اختر قائمة",
+  "pages.media.shared.search-list.by": "بواسطة",
+  "pages.media.shared.search-list.collection": "مجموعة",
+  "pages.media.shared.search-list.completed": "المُكتمِل",
+  "pages.media.shared.search-list.explore": "إستكشف",
+  "pages.media.shared.search-list.history": "السِجِلّ",
+  "pages.media.shared.search-list.list": "قائمة",
+  "pages.media.shared.search-list.mostDailyPlayed": "الأكثر مُشاهدَة يوميّاً",
+  "pages.media.shared.search-list.on-hold": "المعلَّق",
+  "pages.media.shared.search-list.popular": "الأكثر شهرة",
+  "pages.media.shared.search-list.progress": "المتابعة",
+  "pages.media.shared.search-list.recommendations": "التوصيات",
+  "pages.media.shared.search-list.toWatch": "شاهِد",
+  "pages.media.shared.search-list.trending": "شائع",
+  "pages.media.shared.search-list.watch-list": "قائمة المُشاهَدة",
+  "pages.media.shared.search-list.watched": "شُوهِد",
+  "pages.movie-discover.continue": "استمر",
+  "pages.movie-discover.min-rating": "التقييم الأدنى",
+  "pages.movie-discover.next-movie": "التالي",
+  "pages.movie-discover.no-movie": "لا مزيد من الأفلام لاكتشافها",
+  "pages.movie-discover.released-year": "سنة الأصدار",
+  "pages.movie-discover.restart": "إعادة بدء",
+  "pages.movie-discover.searching": "جارِ البحث، قد يستغرق بعض الوقت",
+  "pages.movie-discover.select-filters": "جميع الفلاتر إختياريّة",
+  "pages.movie-discover.title": "إكتشف الأفلام",
+  "pages.movie.filter.apply": "تطبيق",
+  "pages.movie.filter.certification": "التصنيف",
+  "pages.movie.filter.genre": "الفئة",
+  "pages.movie.filter.rating": "التقييم",
+  "pages.movie.filter.reset": "إعادة",
+  "pages.movie.filter.title": "تصفية",
+  "pages.movie.filter.year": "السنة",
+  "pages.movie.not-on-tracking-platform": "هذا الفيلم غير موجود على منصّة التتبّع الخاصّة بك",
+  "pages.movie.search-list.search": "بحث عن فيلم",
+  "pages.search.search-results.anime": "نتائج البحث - أنيمي",
+  "pages.search.search-results.movies": "نتائج البحث - الأفلام",
+  "pages.search.search-results.shows": "نتائج البحث - العروض",
+  "pages.search.trending.anime": "الأنمي الرائج",
+  "pages.search.trending.movies": "الأفلام الرائجة",
+  "pages.search.trending.shows": "العروض الرائجة",
+  "pages.settings.list.account.deleteAccount": "حذف الحساب",
+  "pages.settings.list.account.header": "الحساب",
+  "pages.settings.list.account.login": "تسجيل الدخول",
+  "pages.settings.list.account.logout": "تسجيل الخروج",
+  "pages.settings.list.account.premium": "إدارة العضوية",
+  "pages.settings.list.addons.header": "الإضافات",
+  "pages.settings.list.addons.item": "إعداد أو تثبيت الإضافات",
+  "pages.settings.list.application.appVersion": "إصدار التطبيق",
+  "pages.settings.list.application.clearCache": "مسح ذاكرة التخزين المؤقّت",
+  "pages.settings.list.application.darkMode": "الوضع اللّيلي",
+  "pages.settings.list.application.documentation": "دليل الإستخدام",
+  "pages.settings.list.application.header": "تطبيق",
+  "pages.settings.list.application.joinDiscord": "انضم إلينا عبر منصّة ديسكورد",
+  "pages.settings.list.application.joinTelegram": "انضم إلينا عبر تيليجرام",
+  "pages.settings.list.application.lang": "اللّغة",
+  "pages.settings.list.application.privacyPolicy": "سياسة الخصوصيّة",
+  "pages.settings.list.application.review": "تقييم التطبيق",
+  "pages.settings.list.application.share": "مشاركة التطبيق",
+  "pages.settings.list.application.support": "الدعم الفنّي",
+  "pages.settings.list.application.termsConditions": "البنود و الشروط",
+  "pages.settings.list.backup.backup-settings": "إعدادات النسخ الإحتياطي",
+  "pages.settings.list.backup.delete": "حذف النسخة الأحتياطيّة من السحابة",
+  "pages.settings.list.backup.enable-automatic-backup": "تمكين النسخ الإحتياطي الآلي للإعدادات",
+  "pages.settings.list.backup.enable-restore-settings": "تمكين النسخ الإحتياطي للإعدادات",
+  "pages.settings.list.backup.header": "النسخ الإحتياطي",
+  "pages.settings.list.backup.restore-settings": "إستعادة الإعدادات من سخة إحتياطيّة",
+  "pages.settings.list.filer.header": "متصفّح الملفات",
+  "pages.settings.list.filer.hideTab": "إخفاء قائمة متصفّح الملفّات",
+  "pages.settings.list.filer.item": "تهيئة",
+  "pages.settings.list.kodi.item": "إعداد المضيفين",
+  "pages.settings.list.movies.default": "إفتراضي",
+  "pages.settings.list.movies.header": "أفلام",
+  "pages.settings.list.movies.which-provider": "اختر مزوّد البحث",
+  "pages.settings.list.music-controls.enabled": "تمكين",
+  "pages.settings.list.music-controls.header": "إشعارات التحكّم بالموسيقى",
+  "pages.settings.list.music-controls.swipeToClose": "السحب للإغلاق",
+  "pages.settings.list.notification.header": "الإشعارات",
+  "pages.settings.list.notification.itemEnableTvShows": "تفعيل إشعارات المسلسلات",
+  "pages.settings.list.notification.itemOnlyNewEpisodeOnUpToDateShows": "يتمّ تنبيهك بالحلقات الجديدة التي يتمّ بثّها فقط إذا تمّ مَشاهَدة كل مافاتك",
+  "pages.settings.list.notification.notificationNotGranted": "إشعارات واكو معطَّلة حاليّاً. إذا كنت ترغب في تلقي الإشعارات، الرجاء تمكينها في الإعدادات",
+  "pages.settings.list.shows.header": "البرامج التلفزيونية",
+  "pages.settings.list.simkl.signIn": "قم بتوصيل واكو بحساب SIMKL الخاص بك",
+  "pages.settings.list.tracker.header": "متتبِّع",
+  "pages.settings.list.tracker.movie": "متتبِّع الأفلام",
+  "pages.settings.list.tracker.not-recommended-warning": "الرجاء ملاحظة أن استخدام Trakt + SIMKL في نفس الفئة غير مستح��َن و قد يتسبّب في حدوث أخطاء",
+  "pages.settings.list.tracker.show": "متتبِّع المسلسلات",
+  "pages.settings.list.trakt.apiStatus": "Trakt API حالة",
+  "pages.settings.list.trakt.disconnect": "قطع الاتصال",
+  "pages.settings.list.trakt.markAsWatchedAutoProgress": "النسبة المئويّة للمُشاهَدة لتمييز الفيديو على أنّه شُوهِد",
+  "pages.settings.list.trakt.markEpisodeAsWatchedAuto": "وضع علامة شُوهِد على الحلقات آليّاً",
+  "pages.settings.list.trakt.markMovieAsWatchedAuto": "ًوضع علامة شُوهِد على الأفلام آليّا",
+  "pages.settings.list.trakt.signIn": "الخاصّ بك Trakt قم بتوصيل واكو بحساب",
+  "pages.settings.list.trakt.totalWatchedEpisodes": "إجمالي الحلقات التي تمّت مشاهدتها",
+  "pages.settings.list.trakt.totalWatchedEpisodesAnime": "مجموع حلقات الأنمي التي تمّت مشاهدتها",
+  "pages.settings.list.trakt.totalWatchedMovies": "إجمالي الأفلام التي تمّت مشاهدتها",
+  "pages.settings.title": "إعدادات",
+  "pages.show.episode-detail.viewShow": "عرضْ المسلسل",
+  "pages.show.search-list.myAnime": "أنمي",
+  "pages.show.search-list.myTvShows": "مسلسلاتي",
+  "pages.show.search-list.search": "بحث عن مسلسل",
+  "pages.show.search-list.search-anime": "بحث عن أنمي",
+  "pages.show.show-detail.seasons": "مواسم",
+  "pop-over.kodi-audio.header": "بث الصوت",
+  "pop-over.kodi-audio.select": "الصوت",
+  "pop-over.kodi-subtitles.close": "إغلاق",
+  "pop-over.kodi-subtitles.download": "تنزيل",
+  "pop-over.kodi-subtitles.enable": "تمكين الترجمات",
+  "pop-over.kodi-subtitles.header": "الترجمات",
+  "pop-over.kodi-subtitles.offset": "تعديل التوقيت",
+  "pop-over.kodi-subtitles.select": "الترجمة",
+  "shared.calendar-pipe.days-ago": "{{days}} أيام مضت",
+  "shared.calendar-pipe.in-days": "في {{days}} يوم",
+  "shared.calendar-pipe.today": "اليوم",
+  "shared.calendar-pipe.tomorrow": "ًغدا",
+  "shared.calendar-pipe.yesterday": "في الأمس",
+  "shared.cancel": "إلغاء",
+  "shared.contribution.feature-only-for-premium": "هذه الميّزة مخصّصة فقط للمشترِكين المميّزين",
+  "shared.contribution.need-contribute-button": "كن مشترِك بريميوم",
+  "shared.filtersApplied": "تمّ تطبيق التصفيات",
+  "shared.install-addons.text1": "هل تعلم أنّه يُمكِنك تثبيت إضافات داخل واكو",
+  "shared.install-addons.text2": "عن طريق تثبيت الإضافات، ستضيف مميّزات جديدة إلى واكو تناسب احتياجاتك",
+  "shared.misc.aired": "تمّ بثّها",
+  "shared.misc.airs": "تُبثّ حاليّاً",
+  "shared.noResult": "لا توجد نتيجة",
+  "shared.onlyPremium": "هذه الميّزة متاحة فقط للمشترِكين المميّزين",
+  "shared.pasteMediaTitle": "لصق عنوان الفيديو",
+  "shared.sign-in.or": "او",
+  "shared.sign-in.simkl-button": "ربط واكو بحساب SIMKL",
+  "shared.sign-in.trakt-button": "ربط واكو بحساب Trakt",
+  "toasts.accountDeleted": "تم حذف حسابك",
+  "toasts.addons.updated": "تمّ تحديث هذه الإضافات:<br>{{updatedAddons}}<br><br> يجب إعادة تشغيل واكو.",
+  "toasts.addons.updatedWithRestart": "تمّ تحديث هذه الإضافات:<br>{{updatedAddons}}<br><br>سيتمّ إعادة تشغيل واكو.",
+  "toasts.addons.upToDate": "جميع الإضافات محدّثة",
+  "toasts.ads.block": "أوه، يبدو أنّه لديك مانع إعلانات. بعض أجزاء واكو متاحة فقط للمشترِكين المميّزين (واكو > الإعدادات > إدارة العضويّة) أو من خلال مُشاهَدة إعلان",
+  "toasts.app.newVersionAvailable": "يتوفّ�� إصدار جديد من واكو في المتجر",
+  "toasts.app.noConnection": "الرجاء التحقّق من إتصال الإنترنت الخاص بك",
+  "toasts.app.simklApiServerOverloaded": "Simkl API -  الخادم مُثقل. الرجاء المحاولة مرّة أُخرى بعد 30 ثانية",
+  "toasts.app.simklNotConnectedAnyMore": "Simkl API - الرجاء معاودة الإتصال Simkl أنت غير متّصل بـ",
+  "toasts.app.traktApiIssue1": "Trakt API - فَشلَ تحميل المورد، الرجاء المحاولة مرّة أُخرى في وقت لاحق (error code {{errorStatus}})",
+  "toasts.app.traktApiServerOverloaded": "Trakt API - الخادم مُثقل. الرجاء المحاولة مرّة أُخرى بعد 30 ثانية",
+  "toasts.app.traktNotConnectedAnyMore": "Trakt API - الرجاء معاودة الإتصال Trakt أنت غير متّصل بـ",
+  "toasts.app.updateInstalled": "تمّ تحديث واكو. أعِد تشغيل التطبيق للإستمتاع بالتحديث",
+  "toasts.backup-deleted": "تمّ حذف نسختك الإحتياطيّة",
+  "toasts.contribution-added": "شكراً لمساهمتك. أنت الآن مشترِك مميّز. سوف يتمّ إعادة تشغيل واكو",
+  "toasts.episode.markAsUnwatched": "تمّ تعليم {{showTitle}} {{episodeCode}} كغير مُشاهَد في {{trackers}}",
+  "toasts.episode.markAsWatched": "تمّ تعليم {{showTitle}} {{episodeCode}} كمُشاهَد في {{trackers}}",
+  "toasts.exit-app": "إضغط رجوع مرّة أُخرى للخروج",
+  "toasts.kodi-remote-control.warningWebsocket": "تحذير - أنت لست متّصل بـ كودي من خلال خِدمة websocket. تحتاج إلى تنشيط هذا الخيار في كودي:\nالسماح بالتحكّم عن بعد من التطبيقات في الأنظمة الأُخرى\n\nللمزيد من المعلومات إذهب إلى https://wako.app/kodi-remote-control",
+  "toasts.kodi.hostUnreachable": "لا يمكن الوصول إلى مضيف كودي الخاص بك {{hostName}} ، يرجى التحقّق من إتصالك",
+  "toasts.kodi.noHost": "لم يتمّ تعيين مضيف لـ كودي",
+  "toasts.movie.addedToCollection": "تمّ إضافة {{movieTitle}} إلى مجموعتك في {{trackers}}",
+  "toasts.movie.addedToUserList": "تمّ إضافة {{movieTitle}} إلى قائمتك في {{trackers}}",
+  "toasts.movie.addedToWatchlist": "تمّ إضافة {{movieTitle}} إلى قائمة المُشاهَدة في {{trackers}}",
+  "toasts.movie.markAsUnwatched": "تمّ تعليم {{movieTitle}} كغير مُشاهَد في {{trackers}}",
+  "toasts.movie.markAsWatched": "تمّ تعليم {{movieTitle}} كمُشاهَد في {{trackers}}",
+  "toasts.movie.noRandomMovieFound": " لم يتمّ العثور على الفيلم في الفئات : {{genreList}}",
+  "toasts.movie.notFoundOnTrakt": "الفيلم غير متوفِّر في trakt",
+  "toasts.movie.removedFromCollection": "تمّ حَذْف {{movieTitle}} من مجموعتك في {{trackers}}",
+  "toasts.movie.removedFromUserList": "تمّ حَذْف {{movieTitle}} من قائمتك في {{trackers}}",
+  "toasts.movie.removedFromWatchlist": "تمّ حَذْف {{movieTitle}} من قائمة المُشاهَدة في {{trackers}}",
+  "toasts.no-settings-saved": "لسوء الحظ، ليس لديك أيّ إعدادات محفوظة على الإنترنت حتّى الآن",
+  "toasts.playlist-add": "تَمَّت إضافته إلى قائمة التشغيل الخاصّة بك",
+  "toasts.premium-only": "هذه الميّزة مخصّصة فقط للمشترِكين المميّزين",
+  "toasts.season.markAsUnwatched": "تمّ تعليم {{showTitle}} الموسم {{seasonNumber}} كغير مُشاهَد في {{trackers}}",
+  "toasts.season.markAsWatched": "تمّ تعليم {{showTitle}} الموسم {{seasonNumber}} كمُشاهَد في {{trackers}}",
+  "toasts.settings.cacheCleared": "تمّ مسح ذاكرة التخزين المؤقّت",
+  "toasts.show.addedToCollection": "تمّ إضافة {{showTitle}} إلى مجموعتك في {{trackers}}",
+  "toasts.show.addedToUserList": "تمّ إضافة {{showTitle}} إلى قائمتك في {{trackers}}",
+  "toasts.show.addedToWatchlist": "تمّ إضافة {{showTitle}} إلى قائمة المُشاهَدة في {{trackers}}",
+  "toasts.show.notFound": "العرض غير موجود",
+  "toasts.show.removedFromCollection": "تمّ حَذْف {{showTitle}} من مجموعتك في {{trackers}}",
+  "toasts.show.removedFromUserList": "تمّ حَذْف {{showTitle}} من قائمتك في {{trackers}}",
+  "toasts.show.removedFromWatchlist": "تمّ حَذْف {{showTitle}} من قائمة المُشاهَدة في {{trackers}}",
+  "toasts.trailer.noTrailer": "لم يتمّ العثور على ڤيديو دعائي"
 }

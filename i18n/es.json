@@ -37,6 +37,8 @@
   "alerts.show.hidden-remove": "¿Restaurar este programa?",
   "alerts.show.remove": "¿Quitar este programa?",
   "alerts.simkl.pinCode": "Por favor, ve a {{url}} e ingresa el código {{code}}",
+  "alerts.tvlayout.prompt.header": "Disposición de TV detectada",
+  "alerts.tvlayout.prompt.message": "¿Quieres cambiar al diseño de TV? Esto recargará la aplicación. Puedes volver al diseño móvil en cualquier momento en Ajustes.",
   "app.exit.confirm": "Salida",
   "app.exit.header": "Salida wako",
   "app.exit.message": "¿Seguro que quieres salir de wako?",

@@ -37,6 +37,8 @@
   "alerts.show.hidden-remove": "Restore this show?",
   "alerts.show.remove": "Remove this show?",
   "alerts.simkl.pinCode": "Please go to {{url}} and enter the code {{code}}",
+  "alerts.tvlayout.prompt.header": "TV Layout Detected",
+  "alerts.tvlayout.prompt.message": "Would you like to switch to TV layout? This will reload the application. You can switch back to mobile layout anytime in Settings.",
   "app.exit.confirm": "Exit",
   "app.exit.header": "Exit wako",
   "app.exit.message": "Are you sure you want to exit wako?",

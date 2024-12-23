@@ -37,6 +37,8 @@
   "alerts.show.hidden-remove": "Serie wiederherstellen?",
   "alerts.show.remove": "Serie entfernen?",
   "alerts.simkl.pinCode": "Bitte gehen Sie zu {{url}} und geben Sie den Code {{code}} ein",
+  "alerts.tvlayout.prompt.header": "TV-Layout erkannt",
+  "alerts.tvlayout.prompt.message": "Möchten Sie zum TV-Layout wechseln? Dadurch wird die Anwendung neu geladen. Sie können in den Einstellungen jederzeit wieder zum mobilen Layout wechseln.",
   "app.exit.confirm": "Ausfahrt",
   "app.exit.header": "Beenden wako",
   "app.exit.message": "Sind Sie sicher, dass Sie wako verlassen wollen?",

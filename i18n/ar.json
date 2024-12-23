@@ -240,6 +240,7 @@
   "pages.settings.list.backup.header": "النسخ الإحتياطي",
   "pages.settings.list.backup.restore-settings": "إستعادة الإعدادات من نسخة إحتياطيّة",
   "pages.settings.list.enableTvLayout": "تمكين تخطيط التلفزيون",
+  "pages.settings.list.filer.header": "مستكشف الملفات",
   "pages.settings.list.filer.hideTab": "إخفاء قائمة متصفّح الملفّات",
   "pages.settings.list.filer.item": "تهيئة",
   "pages.settings.list.kodi.item": "إعداد المضيفين",

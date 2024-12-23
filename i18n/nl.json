@@ -37,6 +37,8 @@
   "alerts.show.hidden-remove": "Herstel deze show?",
   "alerts.show.remove": "Verwijder deze show?",
   "alerts.simkl.pinCode": "Ga naar {{url}} en voer de code {{code}} in",
+  "alerts.tvlayout.prompt.header": "TV-indeling gedetecteerd",
+  "alerts.tvlayout.prompt.message": "Wil je overschakelen naar de tv-lay-out? Dan wordt de applicatie opnieuw geladen. Je kunt op elk moment terugschakelen naar de mobiele lay-out via Instellingen.",
   "app.exit.confirm": "Ga naar",
   "app.exit.header": "Afsluiten wako",
   "app.exit.message": "Weet je zeker dat je wako wilt verlaten?",

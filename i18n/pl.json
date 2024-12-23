@@ -37,6 +37,8 @@
   "alerts.show.hidden-remove": "Przywrócić ten program?",
   "alerts.show.remove": "Usunąć ten program?",
   "alerts.simkl.pinCode": "Przejdź do {{url}} i wprowadź kod {{code}}",
+  "alerts.tvlayout.prompt.header": "Wykryto układ telewizora",
+  "alerts.tvlayout.prompt.message": "Czy chcesz przełączyć się na układ TV? Spowoduje to przeładowanie aplikacji. Możesz wrócić do układu mobilnego w dowolnym momencie w Ustawieniach.",
   "app.exit.confirm": "Wyjście",
   "app.exit.header": "Wyjście wako",
   "app.exit.message": "Czy na pewno chcesz wyjść z wako?",

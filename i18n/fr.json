@@ -37,6 +37,8 @@
   "alerts.show.hidden-remove": "Afficher la série ?",
   "alerts.show.remove": "Supprimer la série ?",
   "alerts.simkl.pinCode": "Veuillez vous rendre sur {{url}} et saisir le code {{code}}",
+  "alerts.tvlayout.prompt.header": "Détection de l'agencement de la télévision",
+  "alerts.tvlayout.prompt.message": "Souhaitez-vous passer à la présentation TV ? Cela rechargera l'application. Vous pouvez revenir à la présentation mobile à tout moment dans les paramètres.",
   "app.exit.confirm": "Sortie",
   "app.exit.header": "Sortie wako",
   "app.exit.message": "Êtes-vous sûr de vouloir quitter wako ?",

@@ -37,6 +37,8 @@
   "alerts.show.hidden-remove": "إستعادة هذا المسلسل؟",
   "alerts.show.remove": "حذف هذا المسلسل؟",
   "alerts.simkl.pinCode": "{{code}} وأدخل الرمز {{url}} يرجى الذهاب إلى",
+  "alerts.tvlayout.prompt.header": "تم اكتشاف تخطيط التلفزيون",
+  "alerts.tvlayout.prompt.message": "هل ترغب في التبديل إلى تخطيط التلفزيون؟ سيؤدي ذلك إلى إعادة تحميل التطبيق. يمكنك العودة إلى تخطيط الهاتف المحمول في أي وقت في الإعدادات.",
   "app.exit.confirm": "الخروج",
   "app.exit.header": "خروج واكو",
   "app.exit.message": "هل أنت متأكد من رغبتك في الخروج من واكو؟",

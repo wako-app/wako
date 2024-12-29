@@ -304,6 +304,7 @@
   "shared.install-addons.stremio": "Το wako είναι συμβατό με τα πρόσθετα Stremio. Προς το παρόν, μόνο τα πρόσθετα \"stream\" είναι συμβατά.",
   "shared.install-addons.text2": "Εγκαθιστώντας πρόσθετα επεκτείνετε τις δυνατότητες του wako που πληρούν τις απαιτήσεις σας",
   "shared.install-addons.waning": "Σημειώστε ότι τα ανεπίσημα πρόσθετα (wako ή stremio) δεν παρέχονται από τη wako και θα πρέπει να επικοινωνήσετε με τους δημιουργούς τους για υποστήριξη.",
+  "shared.loading": "Φόρτωση...",
   "shared.misc.aired": "Προβλήθηκε",
   "shared.misc.airs": "Προβάλλεται",
   "shared.noResult": "Κανένα αποτέλεσμα",

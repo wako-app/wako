@@ -304,6 +304,7 @@
   "shared.install-addons.stremio": "O wako é compatível com os add-ons do Stremio. De momento, apenas as extensões \"stream\" são compatíveis.",
   "shared.install-addons.text2": "Ao instalar add-ons, o utilizador pode adicionar novas funcionalidades ao wako que se adequam às suas necessidades",
   "shared.install-addons.waning": "Note que as extensões não oficiais (wako ou stremio) não são fornecidas pela wako e deve contactar os seus autores para obter apoio.",
+  "shared.loading": "Carregando...",
   "shared.misc.aired": "Exibido",
   "shared.misc.airs": "Ares",
   "shared.noResult": "Nenhum resultado",

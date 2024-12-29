@@ -304,6 +304,7 @@
   "shared.install-addons.stremio": "واكو متوافق مع إضافات Stremio. حاليّاً ، تتوافق إضافات \"بث الڤيديو\" فقط.",
   "shared.install-addons.text2": "من خلال تثبيت الإضافات، ستضيف ميّزة جديدة إلى واكو تُناسب احتياجاتك",
   "shared.install-addons.waning": "الرجاء ملاحظة أن الإضافات غير الرسميّة (wako أو stremio) لا يتم توفيرها بواسطة wako و يجب عليك الإتصال بمالكيها للحصول على الدعم.",
+  "shared.loading": "جاري التحميل...",
   "shared.misc.aired": "تمّ بثّها",
   "shared.misc.airs": "تُبثّ حاليّاً",
   "shared.noResult": "لا توجد نتيجة",

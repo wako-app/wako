@@ -39,6 +39,8 @@
   "alerts.simkl.pinCode": "Пожалуйста, перейдите по ссылке {{url}} и введите код {{code}}.",
   "alerts.tvlayout.prompt.header": "Обнаружена схема расположения телевизора",
   "alerts.tvlayout.prompt.message": "Хотите переключиться на ТВ-раскладку? Это приведет к перезагрузке приложения. Переключиться обратно на мобильную раскладку можно в любое время в Настройках.",
+  "alerts.videoPlayer.playNextEpisode": "Сыграть следующий эпизод?",
+  "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Хотите посмотреть следующий эпизод?",
   "app.exit.confirm": "Выход",
   "app.exit.header": "Выход вако",
   "app.exit.message": "Вы уверены, что хотите выйти из Вако?",

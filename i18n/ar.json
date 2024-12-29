@@ -39,6 +39,8 @@
   "alerts.simkl.pinCode": "{{code}} وأدخل الرمز {{url}} يرجى الذهاب إلى",
   "alerts.tvlayout.prompt.header": "تمّ اِكتشاف واجهة التلفاز",
   "alerts.tvlayout.prompt.message": "هل ترغب في التبديل إلى واجهة التلفزيون؟ سيؤدّي ذلك إلى إعادة تشغيل التطبيق. يمكنك العودة إلى واجهة الهاتف في أيّ وقت في الإعدادات.",
+  "alerts.videoPlayer.playNextEpisode": "تشغيل الحلقة التالية؟",
+  "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "هل ترغب في مشاهدة الحلقة القادمة؟",
   "app.exit.confirm": "إغلاق",
   "app.exit.header": "إغلاق واكو",
   "app.exit.message": "هل أنت متأكّد من رغبتك في إغلاق واكو؟",

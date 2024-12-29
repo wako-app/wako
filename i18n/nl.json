@@ -39,6 +39,8 @@
   "alerts.simkl.pinCode": "Ga naar {{url}} en voer de code {{code}} in",
   "alerts.tvlayout.prompt.header": "TV-indeling gedetecteerd",
   "alerts.tvlayout.prompt.message": "Wil je overschakelen naar de tv-lay-out? Dan wordt de applicatie opnieuw geladen. Je kunt op elk moment terugschakelen naar de mobiele lay-out via Instellingen.",
+  "alerts.videoPlayer.playNextEpisode": "Volgende aflevering afspelen?",
+  "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Wil je de volgende aflevering zien?",
   "app.exit.confirm": "Ga naar",
   "app.exit.header": "Afsluiten wako",
   "app.exit.message": "Weet je zeker dat je wako wilt verlaten?",

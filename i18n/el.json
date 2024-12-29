@@ -39,6 +39,8 @@
   "alerts.simkl.pinCode": "Παρακαλώ πηγαίνετε στο {{url}} και εισάγετε τον κωδικό {{code}}",
   "alerts.tvlayout.prompt.header": "Ανιχνεύθηκε διάταξη τηλεόρασης",
   "alerts.tvlayout.prompt.message": "Θα θέλατε να αλλάξετε σε διάταξη τηλεόρασης; Αυτό θα επαναφορτώσει την εφαρμογή. Μπορείτε να επιστρέψετε στη διάταξη κινητού ανά πάσα στιγμή στις Ρυθμίσεις.",
+  "alerts.videoPlayer.playNextEpisode": "Παίξτε το επόμενο επεισόδιο;",
+  "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Θα θέλατε να παρακολουθήσετε το επόμενο επεισόδιο;",
   "app.exit.confirm": "Έξοδος",
   "app.exit.header": "Έξοδος wako",
   "app.exit.message": "Είσαι σίγουρος ότι θέλεις να βγεις από το wako;",

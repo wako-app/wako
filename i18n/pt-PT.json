@@ -39,6 +39,8 @@
   "alerts.simkl.pinCode": "Aceda a {{url}} e introduza o código {{code}}",
   "alerts.tvlayout.prompt.header": "Layout de TV detectado",
   "alerts.tvlayout.prompt.message": "Deseja mudar para a apresentação de TV? Isto irá recarregar a aplicação. Pode voltar a mudar para a apresentação móvel em qualquer altura nas Definições.",
+  "alerts.videoPlayer.playNextEpisode": "Reproduzir o próximo episódio?",
+  "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Gostaria de ver o próximo episódio?",
   "app.exit.confirm": "Sair",
   "app.exit.header": "Sair do wako",
   "app.exit.message": "Tens a certeza que queres sair do wako?",

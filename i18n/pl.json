@@ -39,6 +39,8 @@
   "alerts.simkl.pinCode": "Przejdź do {{url}} i wprowadź kod {{code}}",
   "alerts.tvlayout.prompt.header": "Wykryto układ telewizora",
   "alerts.tvlayout.prompt.message": "Czy chcesz przełączyć się na układ TV? Spowoduje to przeładowanie aplikacji. Możesz wrócić do układu mobilnego w dowolnym momencie w Ustawieniach.",
+  "alerts.videoPlayer.playNextEpisode": "Grasz w następny odcinek?",
+  "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Chcesz obejrzeć następny odcinek?",
   "app.exit.confirm": "Wyjście",
   "app.exit.header": "Wyjście wako",
   "app.exit.message": "Czy na pewno chcesz wyjść z wako?",

@@ -248,6 +248,7 @@
   "pages.settings.list.filer.hideTab": "Hide File Explorer Tab",
   "pages.settings.list.filer.item": "Configure",
   "pages.settings.list.kodi.item": "Configure Hosts",
+  "pages.settings.list.lightMode": "Enable Light Mode",
   "pages.settings.list.movies.default": "Default",
   "pages.settings.list.movies.header": "Movies",
   "pages.settings.list.movies.which-provider": "Search provider",

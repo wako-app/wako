@@ -115,6 +115,7 @@
   "pages.addons.list-unknown-sources.third-party": "Erweiterung eines Drittanbieters hinzufügen",
   "pages.addons.need-contribute": "Ihr Testzeitraum ist abgelaufen. Bitte leisten Sie einen Beitrag um diese Funktion zu nutzen",
   "pages.addons.title": "Erweiterungen",
+  "pages.calendar.title": "Kalender",
   "pages.filer-settings.actions.header": "Sortieren/Aktivieren der Aktionen beim Öffnen",
   "pages.filer-settings.title": "Konfiguration Dateimanager",
   "pages.filer-settings.video-type.explainTranscoded": "Einige Dienste erstellen transkodierte Dateien Ihrer Videos in einem Format zur Verfügung, welches mit fast jedem Player (einschließlich Chromecast, welcher nur wenige Videoformate unterstützt) kompatibel ist. Die Aktivierung der Einstellung wird bei Nutzung eines Chromecasts empfohlen. Beachten Sie, dass transcodierte Dateien möglicherweise keine Untertitel oder Audiospuren, welche in den Originaldateien vorhanden sind, enthalten können.",

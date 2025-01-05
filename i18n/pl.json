@@ -115,6 +115,7 @@
   "pages.addons.list-unknown-sources.third-party": "Dodaj dodatek innej firmy",
   "pages.addons.need-contribute": "Twój okres próbny dobiegł końca, aby korzystać z tej funkcji, przejdź na subskrypcję premium",
   "pages.addons.title": "Add-ons",
+  "pages.calendar.title": "Kalendarz",
   "pages.filer-settings.actions.header": "Sortowanie/włączanie otwartych akcji",
   "pages.filer-settings.title": "Konfiguracja Eksploratora plików",
   "pages.filer-settings.video-type.explainTranscoded": "Niektóre usługi tworzą transkodowane pliki wideo w formacie kompatybilnym z prawie każdym odtwarzaczem, w tym Chromecastem, który obsługuje tylko kilka formatów wideo. Lepiej jest włączyć tę opcję dla Chromecasta. Należy pamiętać, że transkodowane pliki mogą nie zawierać innych napisów / ścieżek dźwiękowych, które mogą zawierać oryginalne pliki",

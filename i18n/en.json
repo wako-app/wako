@@ -115,6 +115,7 @@
   "pages.addons.list-unknown-sources.third-party": "Add a third-party add-on",
   "pages.addons.need-contribute": "Your trial period has ended, please become premium to use this feature",
   "pages.addons.title": "Add-ons",
+  "pages.calendar.title": "Calendar",
   "pages.filer-settings.actions.header": "Sort/Enable Open Actions",
   "pages.filer-settings.title": "Configure File Explorer",
   "pages.filer-settings.video-type.explainTranscoded": "Some service create transcoded files of your videos in a format that is compatible with almost every player including Chromecast that supports only few video format. It's better to enable it for Chromecast. Be aware that transcoded files may won't include other subtitles/audio tracks that original files could include",

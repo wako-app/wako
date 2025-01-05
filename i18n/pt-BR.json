@@ -115,6 +115,7 @@
   "pages.addons.list-unknown-sources.third-party": "Adicionar um complemento de terceiros",
   "pages.addons.need-contribute": "Seu período de teste terminou, torne-se premium para usar esse recurso",
   "pages.addons.title": "Complementos",
+  "pages.calendar.title": "Calendário",
   "pages.filer-settings.actions.header": "Classificar/Habilitar ações abertas",
   "pages.filer-settings.title": "Configurar o File Explorer",
   "pages.filer-settings.video-type.explainTranscoded": "Alguns serviços criam arquivos transcodificados de seus vídeos em um formato compatível com quase todos os reprodutores, inclusive o Chromecast, que suporta apenas alguns formatos de vídeo. É melhor habilitá-lo para o Chromecast. Esteja ciente de que os arquivos transcodificados podem não incluir outras legendas/faixas de áudio que os arquivos originais poderiam incluir",

@@ -115,6 +115,7 @@
   "pages.addons.list-unknown-sources.third-party": "Aggiungi add-on di terze parti",
   "pages.addons.need-contribute": "Il periodo di prova è terminato, si prega di diventare premium per utilizzare questa funzione.",
   "pages.addons.title": "Add-ons",
+  "pages.calendar.title": "Calendario",
   "pages.filer-settings.actions.header": "Ordinamento/abilitazione delle azioni aperte",
   "pages.filer-settings.title": "Configurare Esplora file",
   "pages.filer-settings.video-type.explainTranscoded": "Alcuni servizi creano file transcodificati dei vostri video in un formato compatibile con quasi tutti i lettori, compreso Chromecast che supporta solo pochi formati video. È meglio attivarlo per Chromecast. Tenete presente che i file transcodificati potrebbero non includere altri sottotitoli/tracce audio che i file originali potrebbero includere.",

@@ -107,6 +107,7 @@
   "pages.addon.uninstall": "إلغاء التثبيت",
   "pages.addon.uninstall-confirm.header": "إلغاء تثبيت هذه الإضافة",
   "pages.addon.uninstall-confirm.message": "هل أنت متأكّد؟",
+  "pages.addons.installAddons": "تثبيت الوظائف الإضافية",
   "pages.addons.list-available.header": "الإضافات المتوفّرة",
   "pages.addons.list-installed.header": "الإضافات المثبّتة",
   "pages.addons.list-unknown-sources.alert": "ستتمكّن إضافات الطرف الثالث من الوصول إلى بياناتك المخزّنة على كودي. بالسماح بذلك ، فإنك توافق على أنّك المسؤول الوحيد عن أي فقد للبيانات و أي سلوك غير مرغوب فيه لتطبيقك. يرجى العلم أنّ إضافات الطرف الثالث لم يتمّ تطويرها أو إعتمادها من قبل واكو و أنّه لا يمكِن تحميل واكو المسؤوليّة عمّا تفعله هذه الإضافات.",

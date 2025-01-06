@@ -107,6 +107,7 @@
   "pages.addon.uninstall": "Löschen",
   "pages.addon.uninstall-confirm.header": "Erweiterung löschen",
   "pages.addon.uninstall-confirm.message": "Sind Sie sicher?",
+  "pages.addons.installAddons": "Add-ons installieren",
   "pages.addons.list-available.header": "Verfügbare Erweiterungen",
   "pages.addons.list-installed.header": "Installierte Erweiterungen",
   "pages.addons.list-unknown-sources.alert": "Erweiterungen von Drittanbietern erhalten Zugriff auf Ihre in wako gespeicherten Daten. Indem Sie dies zulassen erklären Sie sich damit einverstanden dass Sie allein für Datenverlust und unerwünschtes Verhalten Ihrer App verantwortlich sind. Bitte beachten Sie, dass Erweiterungen von Drittanbietern weder von wako entwickelt noch unterstützt werden und wako nicht für die Funktion dieser Erweiterungen verantwortlich gemacht werden kann.",

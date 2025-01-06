@@ -107,6 +107,7 @@
   "pages.addon.uninstall": "Verwijderen",
   "pages.addon.uninstall-confirm.header": "Verwijder deze add-on",
   "pages.addon.uninstall-confirm.message": "Weet u het zeker?",
+  "pages.addons.installAddons": "Add-ons installeren",
   "pages.addons.list-available.header": "Beschikbare Add-ons",
   "pages.addons.list-installed.header": "geïnstalleerde Add-ons",
   "pages.addons.list-unknown-sources.alert": "Add-ons van derden krijgen toegang tot uw gegevens die zijn opgeslagen op wako. Door toe te staan, gaat u ermee akkoord dat u als enige verantwoordelijk bent voor enig gegevensverlies en ongewenst gedrag van uw app. Houd er rekening mee dat add-ons van derden niet worden ontwikkeld of goedgekeurd door wako en dat wako niet verantwoordelijk kan worden gehouden voor wat deze add-ons doen.",

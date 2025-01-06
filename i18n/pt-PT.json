@@ -107,6 +107,7 @@
   "pages.addon.uninstall": "Desinstalar",
   "pages.addon.uninstall-confirm.header": "Desinstalar este complemento",
   "pages.addon.uninstall-confirm.message": "Tens a certeza?",
+  "pages.addons.installAddons": "Instalar complementos",
   "pages.addons.list-available.header": "Complementos disponíveis",
   "pages.addons.list-installed.header": "Add-ons instalados",
   "pages.addons.list-unknown-sources.alert": "Os add-ons de terceiros terão acesso aos seus dados armazenados no wako. Ao permitir, o utilizador concorda que é o único responsável por qualquer perda de dados e comportamento indesejado na sua aplicação. Por favor, tenha em atenção que os add-ons de terceiros não são desenvolvidos nem apoiados pela wako e que a wako não pode ser responsabilizada pelo que estes add-ons fazem.",

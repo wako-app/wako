@@ -11,6 +11,7 @@
   "actionSheets.file-action.actions.play-infuse": "Infundir",
   "actionSheets.file-action.actions.play-kodi": "Kodi",
   "actionSheets.file-action.actions.play-nplayer": "NPlayer",
+  "actionSheets.file-action.actions.play-outplayer": "OutPlayer",
   "actionSheets.file-action.actions.play-vlc": "VLC",
   "actionSheets.file-action.actions.share-url": "Compartir",
   "actionSheets.file-action.actions.wako-video-player": "Reproductor de video incorporado",

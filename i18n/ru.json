@@ -325,6 +325,7 @@
   "stremio.configure": "Настройте",
   "stremio.description": "Описание",
   "stremio.errors.no-stream-support": "Этот аддон не поддерживает потоковое вещание",
+  "stremio.errors.no-supported-resources": "Этот аддон не поддерживает потоковое вещание и субтитры",
   "stremio.install": "Установите",
   "stremio.manifest-url": "URL-адрес манифеста",
   "stremio.resources": "Ресурсы",

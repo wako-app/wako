@@ -325,6 +325,7 @@
   "stremio.configure": "Configurar",
   "stremio.description": "Descrição",
   "stremio.errors.no-stream-support": "Este addon não suporta streaming",
+  "stremio.errors.no-supported-resources": "Esta extensão não suporta transmissão em fluxo contínuo nem legendas",
   "stremio.install": "Instalar",
   "stremio.manifest-url": "URL do manifesto",
   "stremio.resources": "Recursos",

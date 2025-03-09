@@ -325,6 +325,7 @@
   "stremio.configure": "Configureer",
   "stremio.description": "Beschrijving",
   "stremio.errors.no-stream-support": "Deze addon ondersteunt geen streaming",
+  "stremio.errors.no-supported-resources": "Deze addon ondersteunt geen streaming of ondertiteling",
   "stremio.install": "Installeer",
   "stremio.manifest-url": "URL manifest",
   "stremio.resources": "Bronnen",

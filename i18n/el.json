@@ -325,6 +325,7 @@
   "stremio.configure": "Ρύθμιση παραμέτρων",
   "stremio.description": "Περιγραφή",
   "stremio.errors.no-stream-support": "Αυτό το πρόσθετο δεν υποστηρίζει streaming",
+  "stremio.errors.no-supported-resources": "Αυτό το πρόσθετο δεν υποστηρίζει streaming ή υπότιτλους",
   "stremio.install": "Εγκαταστήστε το",
   "stremio.manifest-url": "URL του μανιφέστου",
   "stremio.resources": "Πόροι",

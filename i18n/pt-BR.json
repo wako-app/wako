@@ -325,6 +325,7 @@
   "stremio.configure": "Configurar",
   "stremio.description": "Descrição",
   "stremio.errors.no-stream-support": "Este complemento não oferece suporte a streaming",
+  "stremio.errors.no-supported-resources": "Este complemento não oferece suporte a streaming ou legendas",
   "stremio.install": "Instalar",
   "stremio.manifest-url": "URL do manifesto",
   "stremio.resources": "Recursos",

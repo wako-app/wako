@@ -325,6 +325,7 @@
   "stremio.configure": "التهيئة",
   "stremio.description": "الوصف",
   "stremio.errors.no-stream-support": "هذه الإضافة لا تدعم بث الڤيديو",
+  "stremio.errors.no-supported-resources": "لا يدعم هذا الملحق البث أو الترجمة",
   "stremio.install": "التثبيت",
   "stremio.manifest-url": "عنوان URL للبيان",
   "stremio.resources": "الموارد",

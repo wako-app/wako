@@ -325,6 +325,7 @@
   "stremio.configure": "Configurare",
   "stremio.description": "Descrizione",
   "stremio.errors.no-stream-support": "Questo addon non supporta lo streaming",
+  "stremio.errors.no-supported-resources": "Questo addon non supporta lo streaming o i sottotitoli.",
   "stremio.install": "Installare",
   "stremio.manifest-url": "URL del manifesto",
   "stremio.resources": "Risorse",

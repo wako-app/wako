@@ -325,6 +325,7 @@
   "stremio.configure": "Konfiguracja",
   "stremio.description": "Opis",
   "stremio.errors.no-stream-support": "Ten dodatek nie obsługuje przesyłania strumieniowego",
+  "stremio.errors.no-supported-resources": "Ten dodatek nie obsługuje transmisji strumieniowej ani napisów",
   "stremio.install": "Instalacja",
   "stremio.manifest-url": "Adres URL manifestu",
   "stremio.resources": "Zasoby",

@@ -265,7 +265,7 @@
   "pages.settings.list.notification.itemEnableTvShows": "Activer les notifications des séries TV",
   "pages.settings.list.notification.itemOnlyNewEpisodeOnUpToDateShows": "Etre averti uniquement pour les nouveaux épisodes qui sortent si je suis à jour sur la série",
   "pages.settings.list.notification.notificationNotGranted": "Les notifications pour wako sont actuellement désactivées. Si vous souhaitez recevoir des notifications, veuillez les activer dans les Paramètres de votre téléphone.",
-  "pages.settings.list.shows.header": "Spectacles télévisés",
+  "pages.settings.list.shows.header": "Séries TV",
   "pages.settings.list.simkl.signIn": "Continuer avec SIMKL",
   "pages.settings.list.stream.header": "Stream",
   "pages.settings.list.stream.item": "Configuration des options de stream",

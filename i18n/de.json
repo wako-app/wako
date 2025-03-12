@@ -44,6 +44,7 @@
   "alerts.videoPlayer.playNextEpisode": "Nächste Episode abspielen?",
   "alerts.videoPlayer.resumeButton": "Weiter",
   "alerts.videoPlayer.resumeFromProgress": "Möchten Sie die Wiedergabe bei {{progress}}% fortsetzen?",
+  "alerts.videoPlayer.resumeFromTime": "Lebenslauf von wako",
   "alerts.videoPlayer.resumePlayback": "Wiedergabe fortsetzen - Trakt scrobble",
   "alerts.videoPlayer.startFrom0Button": "Nicht fortsetzen",
   "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Möchten Sie die nächste Folge sehen?",

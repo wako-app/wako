@@ -44,6 +44,7 @@
   "alerts.videoPlayer.playNextEpisode": "Reproduzir o próximo episódio?",
   "alerts.videoPlayer.resumeButton": "Continuar",
   "alerts.videoPlayer.resumeFromProgress": "Você gostaria de retomar a reprodução em {{progress}}%?",
+  "alerts.videoPlayer.resumeFromTime": "Currículo da wako",
   "alerts.videoPlayer.resumePlayback": "Retomar a reprodução - Trakt scrobble",
   "alerts.videoPlayer.startFrom0Button": "Não retomar",
   "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Você gostaria de assistir ao próximo episódio?",

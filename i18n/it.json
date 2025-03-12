@@ -44,6 +44,7 @@
   "alerts.videoPlayer.playNextEpisode": "Riproduzione del prossimo episodio?",
   "alerts.videoPlayer.resumeButton": "Continua",
   "alerts.videoPlayer.resumeFromProgress": "Si desidera riprendere la riproduzione a {{progress}}%?",
+  "alerts.videoPlayer.resumeFromTime": "Ripresa da wako",
   "alerts.videoPlayer.resumePlayback": "Riprendere la riproduzione - Trakt scrobble",
   "alerts.videoPlayer.startFrom0Button": "Non riprendere",
   "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Volete vedere il prossimo episodio?",

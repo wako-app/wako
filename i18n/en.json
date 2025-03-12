@@ -44,6 +44,7 @@
   "alerts.videoPlayer.playNextEpisode": "Play Next Episode?",
   "alerts.videoPlayer.resumeButton": "Continue",
   "alerts.videoPlayer.resumeFromProgress": "Would you like to resume playback at {{progress}}%?",
+  "alerts.videoPlayer.resumeFromTime": "Resume from wako",
   "alerts.videoPlayer.resumePlayback": "Resume Playback - Trakt scrobble",
   "alerts.videoPlayer.startFrom0Button": "Don't resume",
   "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Would you like to watch the next episode?",

@@ -44,6 +44,7 @@
   "alerts.videoPlayer.playNextEpisode": "Volgende aflevering afspelen?",
   "alerts.videoPlayer.resumeButton": "Ga verder",
   "alerts.videoPlayer.resumeFromProgress": "Wil je het afspelen hervatten op {{progress}}%?",
+  "alerts.videoPlayer.resumeFromTime": "C.V. van wako",
   "alerts.videoPlayer.resumePlayback": "Weergave hervatten - Trakt scrobble",
   "alerts.videoPlayer.startFrom0Button": "Niet hervatten",
   "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Wil je de volgende aflevering zien?",

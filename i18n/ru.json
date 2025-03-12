@@ -44,7 +44,7 @@
   "alerts.videoPlayer.playNextEpisode": "Сыграть следующий эпизод?",
   "alerts.videoPlayer.resumeButton": "Продолжить",
   "alerts.videoPlayer.resumeFromProgress": "Хотите возобновить воспроизведение на {{progress}}%?",
-  "alerts.videoPlayer.resumeFromTime": "Резюме от Вако",
+  "alerts.videoPlayer.resumeFromTime": "Возобновить с wako",
   "alerts.videoPlayer.resumePlayback": "Возобновить воспроизведение - Trakt scrobble",
   "alerts.videoPlayer.startFrom0Button": "Не возобновляйте",
   "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Хотите посмотреть следующий эпизод?",

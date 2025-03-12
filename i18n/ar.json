@@ -44,7 +44,7 @@
   "alerts.videoPlayer.playNextEpisode": "تشغيل الحلقة التالية؟",
   "alerts.videoPlayer.resumeButton": "تابع",
   "alerts.videoPlayer.resumeFromProgress": "هل ترغب في استئناف التشغيل عند {{progress}٪؟",
-  "alerts.videoPlayer.resumeFromTime": "استئناف من واكو",
+  "alerts.videoPlayer.resumeFromTime": "استئناف من wako",
   "alerts.videoPlayer.resumePlayback": "استئناف التشغيل - تراكت سكروبل",
   "alerts.videoPlayer.startFrom0Button": "لا تستأنف",
   "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "هل ترغب في مشاهدة الحلقة التالية؟",

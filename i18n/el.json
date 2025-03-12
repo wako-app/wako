@@ -44,7 +44,7 @@
   "alerts.videoPlayer.playNextEpisode": "Παίξτε το επόμενο επεισόδιο;",
   "alerts.videoPlayer.resumeButton": "Συνεχίστε",
   "alerts.videoPlayer.resumeFromProgress": "Θα θέλατε να συνεχίσετε την αναπαραγωγή στο {{progress}}%;",
-  "alerts.videoPlayer.resumeFromTime": "Βιογραφικό σημείωμα από την wako",
+  "alerts.videoPlayer.resumeFromTime": "Συνέχεια από wako",
   "alerts.videoPlayer.resumePlayback": "Συνέχιση της αναπαραγωγής - Trakt scrobble",
   "alerts.videoPlayer.startFrom0Button": "Μην συνεχίσετε",
   "alerts.videoPlayer.wouldYouLikeToWatchNextEpisode": "Θα θέλατε να παρακολουθήσετε το επόμενο επεισόδιο;",

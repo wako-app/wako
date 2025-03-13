@@ -377,7 +377,7 @@
   "toasts.movie.markAsUnwatched": "تمّ تعليم {{movieTitle}} كغير مُشاهَد في {{trackers}}",
   "toasts.movie.markAsWatched": "تمّ تعليم {{movieTitle}} كمُشاهَد في {{trackers}}",
   "toasts.movie.noRandomMovieFound": " لم يتمّ العثور على الفيلم في الفئات : {{genreList}}",
-  "toasts.movie.notFoundOnTrakt": "الفيلم غير متوفِّر في trakt",
+  "toasts.movie.notFound": "الفيلم غير موجود",
   "toasts.movie.removedFromCollection": "تمّ حَذْف {{movieTitle}} من مجموعتك في {{trackers}}",
   "toasts.movie.removedFromUserList": "تمّ حَذْف {{movieTitle}} من قائمتك في {{trackers}}",
   "toasts.movie.removedFromWatchlist": "تمّ حَذْف {{movieTitle}} من قائمة المُشاهَدة في {{trackers}}",

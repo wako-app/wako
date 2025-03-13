@@ -377,7 +377,7 @@
   "toasts.movie.markAsUnwatched": "Η ταινία {{movieTitle}} σημάνθηκε ως μη προβεβλημένη",
   "toasts.movie.markAsWatched": "Η ταινία {{movieTitle}} σημάνθηκε ως προβεβλημένη",
   "toasts.movie.noRandomMovieFound": "Δεν βρέθηκαν ταινίες για τα είδη: {{genreList}}",
-  "toasts.movie.notFoundOnTrakt": "Η ταινία δεν βρέθηκε στο trakt",
+  "toasts.movie.notFound": "Η ταινία δεν βρέθηκε",
   "toasts.movie.removedFromCollection": "Η ταινία {{movieTitle}} αφαιρέθηκε από τη συλλογή σας",
   "toasts.movie.removedFromUserList": "Η ταινία {{movieTitle}} αφαιρέθηκε από τη λίστα σας",
   "toasts.movie.removedFromWatchlist": "Η ταινία {{movieTitle}} αφαιρέθηκε από τη λίστα προβολών σας",

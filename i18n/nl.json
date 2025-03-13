@@ -377,7 +377,7 @@
   "toasts.movie.markAsUnwatched": "Gemarkeerd {{movieTitle}} als onbekeken {{trackers}}",
   "toasts.movie.markAsWatched": "Gemarkeerd {{movieTitle}} als bekeken {{trackers}}",
   "toasts.movie.noRandomMovieFound": "Geen film gevonden voor genres: {{genreList}}",
-  "toasts.movie.notFoundOnTrakt": "Film niet gevonden op trakt",
+  "toasts.movie.notFound": "Film niet gevonden",
   "toasts.movie.removedFromCollection": "Verwijderd {{movieTitle}} van uw Collectie op {{trackers}}",
   "toasts.movie.removedFromUserList": "Verwijderd {{movieTitle}} van uw lijst op {{trackers}}",
   "toasts.movie.removedFromWatchlist": "Verwijderd {{movieTitle}} van uw Watch List op {{trackers}}",

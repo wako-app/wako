@@ -377,7 +377,7 @@
   "toasts.movie.markAsUnwatched": "Отметил {{movieTitle}} как непросмотренный на {{trackers}}",
   "toasts.movie.markAsWatched": "Отметил {{movieTitle}} как просмотренный на {{trackers}}",
   "toasts.movie.noRandomMovieFound": "Не найдено ни одного фильма для жанра: {{genreList}}",
-  "toasts.movie.notFoundOnTrakt": "Фильм не найден на тракт",
+  "toasts.movie.notFound": "Фильм не найден",
   "toasts.movie.removedFromCollection": "Удалено {{movieTitle}} из вашей коллекции на {{trackers}}",
   "toasts.movie.removedFromUserList": "Удалено {{movieTitle}} из вашего списка на {{trackers}}.",
   "toasts.movie.removedFromWatchlist": "Удалено {{movieTitle}} из вашего списка просмотра на {{trackers}}",

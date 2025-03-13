@@ -377,7 +377,7 @@
   "toasts.movie.markAsUnwatched": "Marcado {{movieTitle}} como não visto em {{trackers}}",
   "toasts.movie.markAsWatched": "Marcado {{movieTitle}} como visto em {{trackers}}",
   "toasts.movie.noRandomMovieFound": "Nenhum filme encontrado para os géneros: {{genreList}}",
-  "toasts.movie.notFoundOnTrakt": "Filme não encontrado no trakt",
+  "toasts.movie.notFound": "Filme não encontrado",
   "toasts.movie.removedFromCollection": "Removido {{movieTitle}} da sua coleção em {{trackers}}",
   "toasts.movie.removedFromUserList": "Removido {{movieTitle}} da sua lista em {{trackers}}",
   "toasts.movie.removedFromWatchlist": "Removido {{movieTitle}} da tua lista de observação em {{trackers}}",

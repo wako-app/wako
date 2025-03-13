@@ -377,7 +377,7 @@
   "toasts.movie.markAsUnwatched": "Oznaczono {{movieTitle}} jako nieobejrzany",
   "toasts.movie.markAsWatched": "Oznaczono {{movieTitle}} jako obejrzany",
   "toasts.movie.noRandomMovieFound": "Nie znaleziono filmów z gatunku: {{genreList}}",
-  "toasts.movie.notFoundOnTrakt": "Nie znaleziono filmu w trakt",
+  "toasts.movie.notFound": "Nie znaleziono filmu",
   "toasts.movie.removedFromCollection": "Usunięto {{movieTitle}} z twojej kolekcji",
   "toasts.movie.removedFromUserList": "Usunięto {{movieTitle}} z listy w dniu {{trackers}}.",
   "toasts.movie.removedFromWatchlist": "Usunięto {{movieTitle}} z listy do obejrzenia",

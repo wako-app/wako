@@ -29,6 +29,7 @@
   "alerts.deleteAccount": "Supprimer le compte",
   "alerts.deleteAccountConfirmation": "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action ne peut être annulée.",
   "alerts.kodi.openUrl": "Ouvrir l'URL",
+  "alerts.loadingSubtitles": "Chargement des sous-titres...",
   "alerts.movie.random.header": "Trouvez un film aléatoire pour les genres :",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Hey, je voulais juste vous faire savoir que wako est maintenant disponible sur Android TV. Vous pouvez maintenant profiter de vos films et émissions préférés sur votre TV.",

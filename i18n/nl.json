@@ -29,6 +29,7 @@
   "alerts.deleteAccount": "Account verwijderen",
   "alerts.deleteAccountConfirmation": "Weet je zeker dat je je account wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.",
   "alerts.kodi.openUrl": "Open URL",
+  "alerts.loadingSubtitles": "Ondertitels aan het laden...",
   "alerts.movie.random.header": "Download een willekeurige film voor genres:",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Hey, ik wilde je even laten weten dat wako nu beschikbaar is op Android TV. Je kunt nu genieten van je favoriete films en shows op je tv.",

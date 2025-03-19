@@ -29,6 +29,7 @@
   "alerts.deleteAccount": "Διαγραφή λογαριασμού",
   "alerts.deleteAccountConfirmation": "Είστε σίγουροι ότι θέλετε να διαγράψετε τον λογαριασμό σας; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.",
   "alerts.kodi.openUrl": "Άνοιγμα διεύθυνσης URL",
+  "alerts.loadingSubtitles": "Φόρτωση υποτίτλων...",
   "alerts.movie.random.header": "Επιλογή τυχαίας ταινίας από τα είδη:",
   "alerts.okButton": "Εντάξει",
   "alerts.promoteAndroidTv.message": "Γεια σας, ήθελα να σας ενημερώσω ότι το wako είναι τώρα διαθέσιμο στο Android TV. Τώρα μπορείτε να απολαμβάνετε τις αγαπημένες σας ταινίες και εκπομπές στην τηλεόρασή σας.",

@@ -29,6 +29,7 @@
   "alerts.deleteAccount": "Delete account",
   "alerts.deleteAccountConfirmation": "Are you sure you want to delete your account? This action cannot be undone.",
   "alerts.kodi.openUrl": "Open URL",
+  "alerts.loadingSubtitles": "Loading subtitles...",
   "alerts.movie.random.header": "Get a random movie for genres:",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Hey, I just wanted to let you know that wako is now available on Android TV. You can now enjoy a complete new experience on your TV.",

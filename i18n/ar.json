@@ -29,6 +29,7 @@
   "alerts.deleteAccount": "حذف الحساب",
   "alerts.deleteAccountConfirmation": "هل أنت متأكد من أنك تريد حذف حسابك؟ لا يمكن التراجع عن هذا الإجراء.",
   "alerts.kodi.openUrl": "فتح الرابط",
+  "alerts.loadingSubtitles": "تحميل الترجمة...",
   "alerts.movie.random.header": ":الحصول على فيلم عشوائي من الفئات",
   "alerts.okButton": "موافق",
   "alerts.promoteAndroidTv.message": "مرحباً، أردت أن أخبرك أن واكو متاح الآن على Android TV. يمكنك الآن الاستمتاع بأفلامك و عروضك المفضّلة على تلفزيونك.",

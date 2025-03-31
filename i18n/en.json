@@ -253,6 +253,7 @@
   "pages.settings.list.account.premium": "Manage membership",
   "pages.settings.list.addons.header": "Add-ons",
   "pages.settings.list.addons.item": "Configure / Install Add-ons",
+  "pages.settings.list.allowBackgroundOpacity": "Enable Background Opacity",
   "pages.settings.list.application.appVersion": "App Version",
   "pages.settings.list.application.clearCache": "Clear Cache",
   "pages.settings.list.application.darkMode": "Dark Mode",

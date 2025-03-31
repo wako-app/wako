@@ -253,6 +253,7 @@
   "pages.settings.list.account.premium": "Gestire l'iscrizione",
   "pages.settings.list.addons.header": "Add-ons",
   "pages.settings.list.addons.item": "Configura / Installa Add-ons",
+  "pages.settings.list.allowBackgroundOpacity": "Abilita l'opacità dello sfondo",
   "pages.settings.list.application.appVersion": "Versione App",
   "pages.settings.list.application.clearCache": "Cancella Cache",
   "pages.settings.list.application.darkMode": "Modalità Scura",

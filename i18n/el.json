@@ -253,6 +253,7 @@
   "pages.settings.list.account.premium": "Διαχείριση μελών",
   "pages.settings.list.addons.header": "Πρόσθετα",
   "pages.settings.list.addons.item": "Διαμόρφωση / Εγκατάσταση προσθέτων",
+  "pages.settings.list.allowBackgroundOpacity": "Ενεργοποίηση αδιαφάνειας φόντου",
   "pages.settings.list.application.appVersion": "Έκδοση εφαρμογής",
   "pages.settings.list.application.clearCache": "Εκκαθάριση προσωρινής μνήμης",
   "pages.settings.list.application.darkMode": "Σκούρο θέμα",

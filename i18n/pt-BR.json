@@ -253,6 +253,7 @@
   "pages.settings.list.account.premium": "Gerenciar a associação",
   "pages.settings.list.addons.header": "Complementos",
   "pages.settings.list.addons.item": "Configurar / instalar complementos",
+  "pages.settings.list.allowBackgroundOpacity": "Ativar a opacidade do plano de fundo",
   "pages.settings.list.application.appVersion": "Versão do aplicativo",
   "pages.settings.list.application.clearCache": "Limpar cache",
   "pages.settings.list.application.darkMode": "Modo escuro",

@@ -253,6 +253,7 @@
   "pages.settings.list.account.premium": "Zarządzanie członkostwem",
   "pages.settings.list.addons.header": "Add-ons",
   "pages.settings.list.addons.item": "Configure / Install Add-ons",
+  "pages.settings.list.allowBackgroundOpacity": "Włącz krycie tła",
   "pages.settings.list.application.appVersion": "Wersja aplikacji",
   "pages.settings.list.application.clearCache": "Wyczyść pamięć podręczną",
   "pages.settings.list.application.darkMode": "Tryb ciemny",

@@ -253,6 +253,7 @@
   "pages.settings.list.account.premium": "Mitgliedschaft verwalten",
   "pages.settings.list.addons.header": "Erweiterungen",
   "pages.settings.list.addons.item": "Installation/Konfiguration von Erweiterungen",
+  "pages.settings.list.allowBackgroundOpacity": "Hintergrund-Deckkraft aktivieren",
   "pages.settings.list.application.appVersion": "App Version",
   "pages.settings.list.application.clearCache": "Zwischenspeicher leeren",
   "pages.settings.list.application.darkMode": "Dunkler Modus",

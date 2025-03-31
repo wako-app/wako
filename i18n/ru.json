@@ -253,6 +253,7 @@
   "pages.settings.list.account.premium": "Управление членством",
   "pages.settings.list.addons.header": "Дополнения",
   "pages.settings.list.addons.item": "Настройка / установка дополнений",
+  "pages.settings.list.allowBackgroundOpacity": "Включить непрозрачность фона",
   "pages.settings.list.application.appVersion": "Версия приложения",
   "pages.settings.list.application.clearCache": "Очистить кэш",
   "pages.settings.list.application.darkMode": "Темный режим",

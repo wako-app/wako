@@ -253,6 +253,7 @@
   "pages.settings.list.account.premium": "إدارة العضويّة",
   "pages.settings.list.addons.header": "الإضافات",
   "pages.settings.list.addons.item": "إعداد أو تثبيت الإضافات",
+  "pages.settings.list.allowBackgroundOpacity": "تمكين تعتيم الخلفية",
   "pages.settings.list.application.appVersion": "إصدار التطبيق",
   "pages.settings.list.application.clearCache": "مسح ذاكرة التخزين المؤقّت",
   "pages.settings.list.application.darkMode": "الوضع اللّيلي",

@@ -253,6 +253,7 @@
   "pages.settings.list.account.premium": "Lidmaatschap beheren",
   "pages.settings.list.addons.header": "Add-ons",
   "pages.settings.list.addons.item": "Instellen / Installeer Add-ons",
+  "pages.settings.list.allowBackgroundOpacity": "Achtergronddekking inschakelen",
   "pages.settings.list.application.appVersion": "App Versie",
   "pages.settings.list.application.clearCache": "Cache Legen",
   "pages.settings.list.application.darkMode": "Donkere Mode",

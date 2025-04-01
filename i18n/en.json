@@ -52,6 +52,8 @@
   "app.exit.confirm": "Exit",
   "app.exit.header": "Exit wako",
   "app.exit.message": "Are you sure you want to exit wako?",
+  "filer.delete.header": "Delete item",
+  "filer.delete.message": "Are you sure you want to delete this item?",
   "loading.auth.inProgress": "Login in progress...",
   "loading.restoreSettings": "Restoring settings...",
   "modals.app-contribution.ads12hRemoval": "Get rid of full screen ads for the next 12h by watching 2 rewards ads",

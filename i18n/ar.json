@@ -52,6 +52,8 @@
   "app.exit.confirm": "إغلاق",
   "app.exit.header": "إغلاق واكو",
   "app.exit.message": "هل أنت متأكّد من رغبتك في إغلاق واكو؟",
+  "filer.delete.header": "حذف العنصر",
+  "filer.delete.message": "هل أنت متأكد من رغبتك في حذف هذا العنصر؟",
   "loading.auth.inProgress": "تسجيل الدخول قيد التنفيذ...",
   "loading.restoreSettings": "استعادة الإعدادات...",
   "modals.app-contribution.ads12hRemoval": "تخلّص من إعلانات ملء الشاشة لمدّة 12 ساعة قادمة من خلال مُشاهَدة إعلانين ",

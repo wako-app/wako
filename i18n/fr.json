@@ -52,6 +52,8 @@
   "app.exit.confirm": "Sortie",
   "app.exit.header": "Sortie wako",
   "app.exit.message": "Êtes-vous sûr de vouloir quitter wako ?",
+  "filer.delete.header": "Supprimer un élément",
+  "filer.delete.message": "Êtes-vous sûr de vouloir supprimer cet élément ?",
   "loading.auth.inProgress": "Connexion en cours...",
   "loading.restoreSettings": "Restauration des paramètres...",
   "modals.app-contribution.ads12hRemoval": "Débarrassez-vous des publicités plein écran pour les prochaines 12h en regardant 2 publicités",

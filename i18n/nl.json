@@ -52,6 +52,8 @@
   "app.exit.confirm": "Ga naar",
   "app.exit.header": "Afsluiten wako",
   "app.exit.message": "Weet je zeker dat je wako wilt verlaten?",
+  "filer.delete.header": "Item verwijderen",
+  "filer.delete.message": "Weet je zeker dat je dit item wilt verwijderen?",
   "loading.auth.inProgress": "Aanmelding bezig...",
   "loading.restoreSettings": "Instellingen herstellen...",
   "modals.app-contribution.ads12hRemoval": "Weg met advertenties op volledig scherm voor de komende 12 uur door 2 beloningsadvertenties te bekijken",

@@ -52,6 +52,8 @@
   "app.exit.confirm": "Ausfahrt",
   "app.exit.header": "Beenden wako",
   "app.exit.message": "Sind Sie sicher, dass Sie wako verlassen wollen?",
+  "filer.delete.header": "Element löschen",
+  "filer.delete.message": "Sind Sie sicher, dass Sie diesen Artikel löschen möchten?",
   "loading.auth.inProgress": "Anmeldung in Arbeit...",
   "loading.restoreSettings": "Einstellungen wiederherstellen...",
   "modals.app-contribution.ads12hRemoval": "Befreien Sie sich für die nächsten 12 Stunden von Vollbildanzeigen indem Sie sich 2 Prämienanzeigen ansehen",

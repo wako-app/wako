@@ -52,6 +52,8 @@
   "app.exit.confirm": "Выход",
   "app.exit.header": "Выход вако",
   "app.exit.message": "Вы уверены, что хотите выйти из Вако?",
+  "filer.delete.header": "Удалить элемент",
+  "filer.delete.message": "Вы уверены, что хотите удалить этот элемент?",
   "loading.auth.inProgress": "Вход в систему продолжается...",
   "loading.restoreSettings": "Восстановление настроек...",
   "modals.app-contribution.ads12hRemoval": "Избавьтесь от полноэкранной рекламы на следующие 12 часов, просмотрев 2 объявления о вознаграждении",

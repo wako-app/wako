@@ -52,6 +52,8 @@
   "app.exit.confirm": "Έξοδος",
   "app.exit.header": "Έξοδος wako",
   "app.exit.message": "Είσαι σίγουρος ότι θέλεις να βγεις από το wako;",
+  "filer.delete.header": "Διαγραφή στοιχείου",
+  "filer.delete.message": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το στοιχείο;",
   "loading.auth.inProgress": "Σύνδεση σε εξέλιξη...",
   "loading.restoreSettings": "Επαναφορά ρυθμίσεων...",
   "modals.app-contribution.ads12hRemoval": "Αφαιρέστε τις διαφημίσεις πλήρους οθόνης για 12 ώρες βλέποντας δυο αμοιβόμενες διαφημίσεις",

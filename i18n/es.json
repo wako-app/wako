@@ -52,6 +52,8 @@
   "app.exit.confirm": "Salida",
   "app.exit.header": "Salida wako",
   "app.exit.message": "¿Seguro que quieres salir de wako?",
+  "filer.delete.header": "Borrar elemento",
+  "filer.delete.message": "¿Seguro que quieres borrar este elemento?",
   "loading.auth.inProgress": "Inicio de sesión en curso...",
   "loading.restoreSettings": "Restaurando ajustes...",
   "modals.app-contribution.ads12hRemoval": "Deshazte de los anuncios a pantalla completa durante las próximas 12h viendo 2 anuncios de recompensa",

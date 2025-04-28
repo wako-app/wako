@@ -283,6 +283,7 @@
   "pages.search.trending.anime": "Anime Tendance",
   "pages.search.trending.movies": "Films Tendance",
   "pages.search.trending.shows": "Séries Tendance",
+  "pages.settings.available-premium": "Disponible pour les utilisateurs premium ayant un abonnement actif",
   "pages.settings.list.account.deleteAccount": "Supprimer le compte",
   "pages.settings.list.account.header": "Compte",
   "pages.settings.list.account.login": "Connexion",

@@ -349,7 +349,7 @@
   "pages.settings.list.notification.notificationNotGranted": "Meldingen voor wako zijn momenteel uitgeschakeld. Als je meldingen wilt ontvangen, schakel ze dan bij instellingen in",
   "pages.settings.list.notifications.enabled": "Toon meldingen inschakelen",
   "pages.settings.list.notifications.enabledOnlyUpToDate": "Alleen melden als het up-to-date is",
-  "pages.settings.list.playlists.disableSync": "Synchronisatie van afspeellijsten uitschakelen",
+  "pages.settings.list.playlists.enableSync": "Synchronisatie van afspeellijsten inschakelen",
   "pages.settings.list.playlists.header": "Afspeellijsten synchroniseren",
   "pages.settings.list.playlists.premium-only": "Synchronisatie van afspeellijsten is alleen beschikbaar voor premium gebruikers",
   "pages.settings.list.playlists.skipProgressUpdates": "Alleen belangrijke wijzigingen synchroniseren (vermindert gegevensgebruik)",

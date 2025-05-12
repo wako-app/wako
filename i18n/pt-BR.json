@@ -349,7 +349,7 @@
   "pages.settings.list.notification.notificationNotGranted": "As notificações para o wako estão desativadas no momento. Se quiser receber notificações, ative-as no aplicativo Configurações",
   "pages.settings.list.notifications.enabled": "Ativar notificações de exibição",
   "pages.settings.list.notifications.enabledOnlyUpToDate": "Notificar somente se estiver atualizado",
-  "pages.settings.list.playlists.disableSync": "Desativar a sincronização de listas de reprodução",
+  "pages.settings.list.playlists.enableSync": "Ativar a sincronização de listas de reprodução",
   "pages.settings.list.playlists.header": "Sincronização de listas de reprodução",
   "pages.settings.list.playlists.premium-only": "A sincronização de listas de reprodução está disponível apenas para usuários premium",
   "pages.settings.list.playlists.skipProgressUpdates": "Sincronizar apenas alterações importantes (reduz o uso de dados)",

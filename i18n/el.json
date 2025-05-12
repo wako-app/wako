@@ -349,7 +349,7 @@
   "pages.settings.list.notification.notificationNotGranted": "Οι ειδοποιήσεις του wako είναι ανενεργές. Άν επιθυμείτε να λαμβάνετε ειδοποιήσεις παρακαλείστε να τις ενεργοποιήσετε στις ρυθμίσεις του συστήματός σας",
   "pages.settings.list.notifications.enabled": "Ενεργοποίηση εμφάνισης ειδοποιήσεων",
   "pages.settings.list.notifications.enabledOnlyUpToDate": "Ειδοποιείστε μόνο εάν είναι ενημερωμένοι",
-  "pages.settings.list.playlists.disableSync": "Απενεργοποίηση συγχρονισμού λιστών αναπαραγωγής",
+  "pages.settings.list.playlists.enableSync": "Ενεργοποίηση συγχρονισμού λιστών αναπαραγωγής",
   "pages.settings.list.playlists.header": "Συγχρονισμός λιστών αναπαραγωγής",
   "pages.settings.list.playlists.premium-only": "Ο συγχρονισμός των λιστών αναπαραγωγής είναι διαθέσιμος μόνο για τους premium χρήστες",
   "pages.settings.list.playlists.skipProgressUpdates": "Συγχρονισμός μόνο σημαντικών αλλαγών (μειώνει τη χρήση δεδομένων)",

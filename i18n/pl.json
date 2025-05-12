@@ -349,7 +349,7 @@
   "pages.settings.list.notification.notificationNotGranted": "Powiadomienia dla wako są obecnie wyłączone. Jeśli chcesz otrzymywać powiadomienia, włącz je w aplikacji Ustawienia.",
   "pages.settings.list.notifications.enabled": "Włącz wyświetlanie powiadomień",
   "pages.settings.list.notifications.enabledOnlyUpToDate": "Powiadamiaj tylko wtedy, gdy są aktualne",
-  "pages.settings.list.playlists.disableSync": "Wyłącz synchronizację list odtwarzania",
+  "pages.settings.list.playlists.enableSync": "Włącz synchronizację list odtwarzania",
   "pages.settings.list.playlists.header": "Synchronizacja list odtwarzania",
   "pages.settings.list.playlists.premium-only": "Synchronizacja list odtwarzania jest dostępna tylko dla użytkowników premium.",
   "pages.settings.list.playlists.skipProgressUpdates": "Synchronizuj tylko ważne zmiany (zmniejsza zużycie danych)",

@@ -349,7 +349,7 @@
   "pages.settings.list.notification.notificationNotGranted": "إشعارات واكو معطَّلة حاليّاً. إذا كنت ترغب في تلقّي الإشعارات، الرجاء تمكينها في الإعدادات",
   "pages.settings.list.notifications.enabled": "تمكين إظهار الإشعارات",
   "pages.settings.list.notifications.enabledOnlyUpToDate": "الإخطار فقط إذا كان محدثاً",
-  "pages.settings.list.playlists.disableSync": "تعطيل مزامنة قوائم التشغيل",
+  "pages.settings.list.playlists.enableSync": "تمكين مزامنة قوائم التشغيل",
   "pages.settings.list.playlists.header": "مزامنة قوائم التشغيل",
   "pages.settings.list.playlists.premium-only": "لا تتوفر مزامنة قوائم التشغيل إلا للمستخدمين المميزين فقط",
   "pages.settings.list.playlists.skipProgressUpdates": "مزامنة التغييرات المهمة فقط (يقلل من استخدام البيانات)",

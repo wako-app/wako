@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "Abrir URL",
   "alerts.loadingSubtitles": "A carregar legendas...",
   "alerts.movie.random.header": "Escolha um filme aleatório para os géneros:",
+  "alerts.newNotification": "Nova notificação",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Olá, só queria que soubessem que o wako já está disponível na Android TV. Agora pode desfrutar dos seus filmes e programas favoritos no seu televisor.",
   "alerts.restore-settings.restore-date": "Pretende repor as suas definições guardadas em {{date}}?",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "Continuar com o Trakt",
   "shared.subscription.monthly": "Mensal",
   "shared.subscription.yearly": "Anual",
+  "stremio.addon.manifestUrlCopied": "URL do manifesto copiado para a área de transferência",
   "stremio.available-streams": "Fluxos disponíveis",
   "stremio.cancel": "Cancelar",
   "stremio.configure": "Configurar",
@@ -492,5 +494,6 @@
   "toasts.show.removedFromCollection": "Removido {{showTitle}} da sua coleção em {{trackers}}",
   "toasts.show.removedFromUserList": "Removido {{showTitle}} da sua lista em {{trackers}}",
   "toasts.show.removedFromWatchlist": "Removido {{showTitle}} da sua lista de observação em {{trackers}}",
+  "toasts.trailer.failedToLoad": "Falha no carregamento do reboque",
   "toasts.trailer.noTrailer": "Nenhum atrelado encontrado"
 }

@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "Открытый URL",
   "alerts.loadingSubtitles": "Загрузка субтитров...",
   "alerts.movie.random.header": "Возьмите случайный фильм для жанра:",
+  "alerts.newNotification": "Новое уведомление",
   "alerts.okButton": "Хорошо",
   "alerts.promoteAndroidTv.message": "Привет, я просто хотел сообщить вам, что wako теперь доступен на Android TV. Теперь вы можете наслаждаться любимыми фильмами и шоу на своем телевизоре.",
   "alerts.restore-settings.restore-date": "Хотите ли вы восстановить настройки, сохраненные на {{date}}?",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "Продолжайте работать с Trakt",
   "shared.subscription.monthly": "Ежемесячно",
   "shared.subscription.yearly": "Ежегодно",
+  "stremio.addon.manifestUrlCopied": "URL-адрес манифеста скопирован в буфер обмена",
   "stremio.available-streams": "Доступные потоки",
   "stremio.cancel": "Отмена",
   "stremio.configure": "Настройте",
@@ -492,5 +494,6 @@
   "toasts.show.removedFromCollection": "Удалено {{showTitle}} из вашей коллекции на {{trackers}}",
   "toasts.show.removedFromUserList": "Удалил {{showTitle}} из вашего списка на {{trackers}}.",
   "toasts.show.removedFromWatchlist": "Удалено {{showTitle}} из вашего списка просмотра на {{trackers}}.",
+  "toasts.trailer.failedToLoad": "Не удалось загрузить прицеп",
   "toasts.trailer.noTrailer": "Трейлер не найден"
 }

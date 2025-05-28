@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "فتح الرابط",
   "alerts.loadingSubtitles": "تحميل الترجمة...",
   "alerts.movie.random.header": ":الحصول على فيلم عشوائي من الفئات",
+  "alerts.newNotification": "إشعار جديد",
   "alerts.okButton": "موافق",
   "alerts.promoteAndroidTv.message": "مرحباً، أردت أن أخبرك أن واكو متاح الآن على Android TV. يمكنك الآن الاستمتاع بأفلامك و عروضك المفضّلة على تلفزيونك.",
   "alerts.restore-settings.restore-date": "هل تريد إستعادة الإعدادات المحفوظة في تاريخ {{date}} ؟",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "ربط واكو بحساب Trakt",
   "shared.subscription.monthly": "شهرياً",
   "shared.subscription.yearly": "سنويًا",
+  "stremio.addon.manifestUrlCopied": "نسخ عنوان URL للبيان إلى الحافظة",
   "stremio.available-streams": "بث الڤيديو المتاح",
   "stremio.cancel": "إلغاء",
   "stremio.configure": "التهيئة",
@@ -492,5 +494,6 @@
   "toasts.show.removedFromCollection": "تمّ حَذْف {{showTitle}} من مجموعتك في {{trackers}}",
   "toasts.show.removedFromUserList": "تمّ حَذْف {{showTitle}} من قائمتك في {{trackers}}",
   "toasts.show.removedFromWatchlist": "تمّ حَذْف {{showTitle}} من قائمة المُشاهَدة في {{trackers}}",
+  "toasts.trailer.failedToLoad": "فشل تحميل المقطورة",
   "toasts.trailer.noTrailer": "لم يتمّ العثور على ڤيديو دعائي"
 }

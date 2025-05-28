@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "Apri URL",
   "alerts.loadingSubtitles": "Caricamento dei sottotitoli...",
   "alerts.movie.random.header": "Ottieni un film a caso per generi:",
+  "alerts.newNotification": "Nuova notifica",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Ehi, volevo solo farvi sapere che wako è ora disponibile su Android TV. Ora potete godervi i vostri film e spettacoli preferiti sulla vostra TV.",
   "alerts.restore-settings.restore-date": "Si desidera ripristinare le impostazioni salvate su {{date}}?",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "Continua con Trakt",
   "shared.subscription.monthly": "Mensile",
   "shared.subscription.yearly": "Annuale",
+  "stremio.addon.manifestUrlCopied": "URL del manifesto copiato negli appunti",
   "stremio.available-streams": "Flussi disponibili",
   "stremio.cancel": "Annullamento",
   "stremio.configure": "Configurare",
@@ -492,5 +494,6 @@
   "toasts.show.removedFromCollection": "Rimuovi {{showTitle}} dalla tua Collezione",
   "toasts.show.removedFromUserList": "Rimuovi {{showTitle}} dalla tua lista",
   "toasts.show.removedFromWatchlist": "Rimuovi {{showTitle}} dalla tua Watch List",
+  "toasts.trailer.failedToLoad": "Impossibile caricare il rimorchio",
   "toasts.trailer.noTrailer": "Nessun rimorchio trovato"
 }

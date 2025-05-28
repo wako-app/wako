@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "Open URL",
   "alerts.loadingSubtitles": "Ondertitels aan het laden...",
   "alerts.movie.random.header": "Download een willekeurige film voor genres:",
+  "alerts.newNotification": "Nieuwe melding",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Hey, ik wilde je even laten weten dat wako nu beschikbaar is op Android TV. Je kunt nu genieten van je favoriete films en shows op je tv.",
   "alerts.restore-settings.restore-date": "Wilt u uw instellingen herstellen die zijn opgeslagen op {{date}}?",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "Verder met Trakt",
   "shared.subscription.monthly": "Maandelijks",
   "shared.subscription.yearly": "Jaarlijks",
+  "stremio.addon.manifestUrlCopied": "Manifest URL gekopieerd naar klembord",
   "stremio.available-streams": "Beschikbare streams",
   "stremio.cancel": "Annuleren",
   "stremio.configure": "Configureer",
@@ -492,5 +494,6 @@
   "toasts.show.removedFromCollection": "Verwijderd {{showTitle}} van uw Collectie op {{trackers}}",
   "toasts.show.removedFromUserList": "Verwijderd {{showTitle}} van uw lijst op {{trackers}}",
   "toasts.show.removedFromWatchlist": "Verwijderd {{showTitle}} van uw Watch List op {{trackers}}",
+  "toasts.trailer.failedToLoad": "Aanhangwagen niet geladen",
   "toasts.trailer.noTrailer": "Geen trailer gevonden"
 }

@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "Open URL",
   "alerts.loadingSubtitles": "Loading subtitles...",
   "alerts.movie.random.header": "Get a random movie for genres:",
+  "alerts.newNotification": "New notification",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Hey, I just wanted to let you know that wako is now available on Android TV. You can now enjoy a complete new experience on your TV.",
   "alerts.restore-settings.restore-date": "Do you want to restore your settings saved on {{date}}?",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "Continue with Trakt",
   "shared.subscription.monthly": "Monthly",
   "shared.subscription.yearly": "Yearly",
+  "stremio.addon.manifestUrlCopied": "Manifest URL copied to clipboard",
   "stremio.available-streams": "Available Streams",
   "stremio.cancel": "Cancel",
   "stremio.configure": "Configure",
@@ -492,5 +494,7 @@
   "toasts.show.removedFromCollection": "Removed {{showTitle}} from your Collection on {{trackers}}",
   "toasts.show.removedFromUserList": "Removed {{showTitle}} from your list on {{trackers}}",
   "toasts.show.removedFromWatchlist": "Removed {{showTitle}} from your Watch List on {{trackers}}",
-  "toasts.trailer.noTrailer": "No trailer found"
+  "toasts.trailer.failedToLoad": "Failed to load trailer",
+  "toasts.trailer.noTrailer": "No trailer found",
+  "shared.trailer": "Trailer"
 }

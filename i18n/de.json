@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "URL öffnen",
   "alerts.loadingSubtitles": "Laden von Untertiteln...",
   "alerts.movie.random.header": "Holen Sie sich einen zufälligen Film für die Genre:",
+  "alerts.newNotification": "Neue Meldung",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Hey, ich wollte dich nur wissen lassen, dass wako jetzt auf Android TV verfügbar ist. Du kannst jetzt deine Lieblingsfilme und -sendungen auf deinem Fernseher genießen.",
   "alerts.restore-settings.restore-date": "Möchten Sie Ihre am {{date}} gespeicherten Einstellungen wiederherstellen?",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "wako mit Ihrem Trakt Benutzerkonto verbinden",
   "shared.subscription.monthly": "Monatlich",
   "shared.subscription.yearly": "Jährlich",
+  "stremio.addon.manifestUrlCopied": "Manifest-URL in die Zwischenablage kopiert",
   "stremio.available-streams": "Verfügbare Streams",
   "stremio.cancel": "Abbrechen",
   "stremio.configure": "Konfigurieren Sie",
@@ -492,5 +494,6 @@
   "toasts.show.removedFromCollection": "{{showTitle}} auf {{trackers}} von Ihrer Sammlung entfernt",
   "toasts.show.removedFromUserList": "{{showTitle}} auf {{trackers}} von Ihrer Liste entfernt",
   "toasts.show.removedFromWatchlist": "{{showTitle}} auf {{trackers}} von Ihrer Watchlist entfernt",
+  "toasts.trailer.failedToLoad": "Anhänger kann nicht geladen werden",
   "toasts.trailer.noTrailer": "Kein Trailer gefunden"
 }

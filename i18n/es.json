@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "Abrir URL",
   "alerts.loadingSubtitles": "Cargando subtítulos...",
   "alerts.movie.random.header": "Obtener una película aleatoriamente por género:",
+  "alerts.newNotification": "Nueva notificación",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Hola, sólo quería hacerle saber que wako ya está disponible en Android TV. Ya puedes disfrutar de tus películas y series favoritas en tu televisor.",
   "alerts.restore-settings.restore-date": "¿Desea restaurar la configuración guardada en {{date}}?",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "Continuar con Trakt",
   "shared.subscription.monthly": "Mensualmente",
   "shared.subscription.yearly": "Anualmente",
+  "stremio.addon.manifestUrlCopied": "URL del manifiesto copiada en el portapapeles",
   "stremio.available-streams": "Flujos disponibles",
   "stremio.cancel": "Cancelar",
   "stremio.configure": "Configure",
@@ -492,5 +494,6 @@
   "toasts.show.removedFromCollection": "Se eliminó {{showTitle}} de tu colección",
   "toasts.show.removedFromUserList": "Se eliminó {{showTitle}} de tu lista",
   "toasts.show.removedFromWatchlist": "Se eliminó {{showTitle}} de su lista de vistos",
+  "toasts.trailer.failedToLoad": "Error al cargar el remolque",
   "toasts.trailer.noTrailer": "No se ha encontrado ningún remolque"
 }

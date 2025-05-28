@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "Otwarty adres URL",
   "alerts.loadingSubtitles": "Ładowanie napisów...",
   "alerts.movie.random.header": "Losowy film dla gatunku:",
+  "alerts.newNotification": "Nowe powiadomienie",
   "alerts.okButton": "Ok",
   "alerts.promoteAndroidTv.message": "Hej, chciałem tylko poinformować, że wako jest już dostępne na Android TV. Możesz teraz cieszyć się ulubionymi filmami i programami na swoim telewizorze.",
   "alerts.restore-settings.restore-date": "Czy chcesz przywrócić ustawienia zapisane w {{date}}?",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "Kontynuuj z Trakt",
   "shared.subscription.monthly": "Miesięcznie",
   "shared.subscription.yearly": "Rocznie",
+  "stremio.addon.manifestUrlCopied": "Adres URL manifestu skopiowany do schowka",
   "stremio.available-streams": "Dostępne strumienie",
   "stremio.cancel": "Anuluj",
   "stremio.configure": "Konfiguracja",
@@ -492,5 +494,6 @@
   "toasts.show.removedFromCollection": "Usunięto {{showTitle}} z twojej kolekcji",
   "toasts.show.removedFromUserList": "Usunięto {{showTitle}} z listy na {{trackers}}.",
   "toasts.show.removedFromWatchlist": "Usunięto {{showTitle}} z listy do obejrzania",
+  "toasts.trailer.failedToLoad": "Nie udało się załadować przyczepy",
   "toasts.trailer.noTrailer": "Nie znaleziono przyczepy"
 }

@@ -31,6 +31,7 @@
   "alerts.kodi.openUrl": "Άνοιγμα διεύθυνσης URL",
   "alerts.loadingSubtitles": "Φόρτωση υποτίτλων...",
   "alerts.movie.random.header": "Επιλογή τυχαίας ταινίας από τα είδη:",
+  "alerts.newNotification": "Νέα ειδοποίηση",
   "alerts.okButton": "Εντάξει",
   "alerts.promoteAndroidTv.message": "Γεια σας, ήθελα να σας ενημερώσω ότι το wako είναι τώρα διαθέσιμο στο Android TV. Τώρα μπορείτε να απολαμβάνετε τις αγαπημένες σας ταινίες και εκπομπές στην τηλεόρασή σας.",
   "alerts.restore-settings.restore-date": "Θέλετε να επαναφέρετε τις ρυθμίσεις σας, αποθηκευμένες στις {{date}};",
@@ -428,6 +429,7 @@
   "shared.sign-in.trakt-button": "Συνεχίστε με την Trakt",
   "shared.subscription.monthly": "Μηνιαία",
   "shared.subscription.yearly": "Ετήσια",
+  "stremio.addon.manifestUrlCopied": "Αντιγραφή URL διεύθυνσης Manifest στο πρόχειρο",
   "stremio.available-streams": "Διαθέσιμες ροές",
   "stremio.cancel": "Ακύρωση",
   "stremio.configure": "Ρύθμιση παραμέτρων",
@@ -492,5 +494,6 @@
   "toasts.show.removedFromCollection": "Η σειρά {{showTitle}} αφαιρέθηκε από τη συλλογή σας",
   "toasts.show.removedFromUserList": "Η σειρά {{showTitle}} αφαιρέθηκε από τη λίστα σας",
   "toasts.show.removedFromWatchlist": "Η σειρά {{showTitle}} αφαιρέθηκε από τη λίστα προβολών σας",
+  "toasts.trailer.failedToLoad": "Απέτυχε να φορτώσει ρυμουλκούμενο",
   "toasts.trailer.noTrailer": "Δεν βρέθηκε trailer"
 }

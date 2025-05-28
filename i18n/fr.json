@@ -429,6 +429,7 @@
   "shared.sign-in.trakt-button": "Continuer avec Trakt",
   "shared.subscription.monthly": "Mensuel",
   "shared.subscription.yearly": "Annuel",
+  "shared.trailer": "Bande-annonce",
   "stremio.addon.manifestUrlCopied": "URL du manifeste copié dans le presse-papiers",
   "stremio.available-streams": "Sources disponibles",
   "stremio.cancel": "Annuler",

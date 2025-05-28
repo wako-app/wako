@@ -429,6 +429,7 @@
   "shared.sign-in.trakt-button": "Continue with Trakt",
   "shared.subscription.monthly": "Monthly",
   "shared.subscription.yearly": "Yearly",
+  "shared.trailer": "Trailer",
   "stremio.addon.manifestUrlCopied": "Manifest URL copied to clipboard",
   "stremio.available-streams": "Available Streams",
   "stremio.cancel": "Cancel",
@@ -495,6 +496,5 @@
   "toasts.show.removedFromUserList": "Removed {{showTitle}} from your list on {{trackers}}",
   "toasts.show.removedFromWatchlist": "Removed {{showTitle}} from your Watch List on {{trackers}}",
   "toasts.trailer.failedToLoad": "Failed to load trailer",
-  "toasts.trailer.noTrailer": "No trailer found",
-  "shared.trailer": "Trailer"
+  "toasts.trailer.noTrailer": "No trailer found"
 }

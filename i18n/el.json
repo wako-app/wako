@@ -359,7 +359,7 @@
   "pages.settings.list.simkl.signIn": "Σύνδεση ή εγγραφή στο SIMKL",
   "pages.settings.list.stream.header": "Ρεύμα",
   "pages.settings.list.stream.item": "Ρύθμιση επιλογών ροής",
-  "pages.settings.list.tracker.enableTraktScrobble": "Ενεργοποίηση του Trakt scrobble",
+  "pages.settings.list.tracker.enableScrobble": "Ενεργοποίηση scrobble",
   "pages.settings.list.tracker.header": "Ιχνηλάτης",
   "pages.settings.list.tracker.movie": "Ιχνηλάτης για ταινίες",
   "pages.settings.list.tracker.not-recommended-warning": "Παρακαλώ λάβετε υπόψην ότι δέν προτείνεται η ταυτόχρονη χρήση Trakt + SIMKL για την ίδια κατηγορία και ενδέχεται να προκαλέσει σφάλματα/μη προβλεπόμενη συμπεριφορά του προγράμματος.",

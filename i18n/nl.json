@@ -359,7 +359,7 @@
   "pages.settings.list.simkl.signIn": "Meld u aan met SIMKL",
   "pages.settings.list.stream.header": "Stroom",
   "pages.settings.list.stream.item": "Stream-opties configureren",
-  "pages.settings.list.tracker.enableTraktScrobble": "Trakt scrobble inschakelen",
+  "pages.settings.list.tracker.enableScrobble": "Scrobble inschakelen",
   "pages.settings.list.tracker.header": "Tracker",
   "pages.settings.list.tracker.movie": "Tracker voor films",
   "pages.settings.list.tracker.not-recommended-warning": "Houd er rekening mee dat het gebruik van Trakt + SIMKL in dezelfde categorie niet wordt aanbevolen en bugs kan veroorzaken.",

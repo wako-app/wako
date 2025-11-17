@@ -359,7 +359,7 @@
   "pages.settings.list.simkl.signIn": "Continua con SIMKL",
   "pages.settings.list.stream.header": "Flusso",
   "pages.settings.list.stream.item": "Configurare le opzioni del flusso",
-  "pages.settings.list.tracker.enableTraktScrobble": "Abilitare Trakt scrobble",
+  "pages.settings.list.tracker.enableScrobble": "Abilita lo scrobble",
   "pages.settings.list.tracker.header": "Inseguitore",
   "pages.settings.list.tracker.movie": "Tracker per film",
   "pages.settings.list.tracker.not-recommended-warning": "Si noti che l'uso di Trakt + SIMKL sulla stessa categoria non è raccomandato e può causare bug.",

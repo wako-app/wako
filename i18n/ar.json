@@ -359,6 +359,7 @@
   "pages.settings.list.simkl.signIn": "قم بتوصيل واكو بحساب SIMKL الخاص بك",
   "pages.settings.list.stream.header": "البث",
   "pages.settings.list.stream.item": "تهيئة خيارات البث",
+  "pages.settings.list.stream.autoLoadStreams": "البحث تلقائياً عن البث",
   "pages.settings.list.tracker.enableScrobble": "تمكين السكربل",
   "pages.settings.list.tracker.header": "متتبِّع",
   "pages.settings.list.tracker.movie": "متتبِّع الأفلام",

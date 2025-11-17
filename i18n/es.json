@@ -359,6 +359,7 @@
   "pages.settings.list.simkl.signIn": "Continuar con SIMKL",
   "pages.settings.list.stream.header": "Corriente",
   "pages.settings.list.stream.item": "Configurar las opciones de Stream",
+  "pages.settings.list.stream.autoLoadStreams": "Buscar streams automáticamente",
   "pages.settings.list.tracker.enableScrobble": "Activar scrobble",
   "pages.settings.list.tracker.header": "Rastreador",
   "pages.settings.list.tracker.movie": "Rastreador de películas",

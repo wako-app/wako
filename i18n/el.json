@@ -359,6 +359,7 @@
   "pages.settings.list.simkl.signIn": "Σύνδεση ή εγγραφή στο SIMKL",
   "pages.settings.list.stream.header": "Ρεύμα",
   "pages.settings.list.stream.item": "Ρύθμιση επιλογών ροής",
+  "pages.settings.list.stream.autoLoadStreams": "Αυτόματη αναζήτηση ροών",
   "pages.settings.list.tracker.enableScrobble": "Ενεργοποίηση scrobble",
   "pages.settings.list.tracker.header": "Ιχνηλάτης",
   "pages.settings.list.tracker.movie": "Ιχνηλάτης για ταινίες",

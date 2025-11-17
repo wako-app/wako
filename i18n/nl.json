@@ -359,6 +359,7 @@
   "pages.settings.list.simkl.signIn": "Meld u aan met SIMKL",
   "pages.settings.list.stream.header": "Stroom",
   "pages.settings.list.stream.item": "Stream-opties configureren",
+  "pages.settings.list.stream.autoLoadStreams": "Automatisch naar streams zoeken",
   "pages.settings.list.tracker.enableScrobble": "Scrobble inschakelen",
   "pages.settings.list.tracker.header": "Tracker",
   "pages.settings.list.tracker.movie": "Tracker voor films",

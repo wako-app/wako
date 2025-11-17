@@ -359,6 +359,7 @@
   "pages.settings.list.simkl.signIn": "Kontynuuj z SIMKL",
   "pages.settings.list.stream.header": "Strumień",
   "pages.settings.list.stream.item": "Konfiguracja opcji strumienia",
+  "pages.settings.list.stream.autoLoadStreams": "Automatycznie wyszukuj strumienie",
   "pages.settings.list.tracker.enableScrobble": "Włącz scrobble",
   "pages.settings.list.tracker.header": "Tracker",
   "pages.settings.list.tracker.movie": "Tracker dla filmów",

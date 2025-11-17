@@ -359,6 +359,7 @@
   "pages.settings.list.simkl.signIn": "Continua con SIMKL",
   "pages.settings.list.stream.header": "Flusso",
   "pages.settings.list.stream.item": "Configurare le opzioni del flusso",
+  "pages.settings.list.stream.autoLoadStreams": "Cerca automaticamente i flussi",
   "pages.settings.list.tracker.enableScrobble": "Abilita lo scrobble",
   "pages.settings.list.tracker.header": "Inseguitore",
   "pages.settings.list.tracker.movie": "Tracker per film",

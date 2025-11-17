@@ -359,6 +359,7 @@
   "pages.settings.list.simkl.signIn": "wako mit Simkl Benutzerkonto verbinden",
   "pages.settings.list.stream.header": "Stream",
   "pages.settings.list.stream.item": "Konfigurieren der Stream-Optionen",
+  "pages.settings.list.stream.autoLoadStreams": "Streams automatisch suchen",
   "pages.settings.list.tracker.enableScrobble": "Scrobble einschalten",
   "pages.settings.list.tracker.header": "Tracker",
   "pages.settings.list.tracker.movie": "Tracker Filme",
